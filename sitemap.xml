@@ -6,29 +6,29 @@
 
   <!-- Main Pages -->
   <url>
-    <loc>https://deenpal.app/</loc>
-    <lastmod>2026-05-08</lastmod>
+    <loc>https://getdeenpal.com/</loc>
+    <lastmod>2026-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://deenpal.app/blog/</loc>
-    <lastmod>2026-05-08</lastmod>
+    <loc>https://getdeenpal.com/blog/</loc>
+    <lastmod>2026-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <!-- Legal Pages -->
   <url>
-    <loc>https://deenpal.app/privacy.html</loc>
+    <loc>https://getdeenpal.com/privacy.html</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
 
   <url>
-    <loc>https://deenpal.app/terms.html</loc>
+    <loc>https://getdeenpal.com/terms.html</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
@@ -36,45 +36,80 @@
 
   <!-- Blog Articles -->
   <url>
-    <loc>https://deenpal.app/blog/understanding-5-daily-prayers.html</loc>
+    <loc>https://getdeenpal.com/blog/understanding-5-daily-prayers.html</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://deenpal.app/blog/ai-and-islamic-education.html</loc>
+    <loc>https://getdeenpal.com/blog/ai-and-islamic-education.html</loc>
     <lastmod>2026-04-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://deenpal.app/blog/fajr-prayer-tips.html</loc>
+    <loc>https://getdeenpal.com/blog/fajr-prayer-tips.html</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://deenpal.app/blog/four-madhahib-explained.html</loc>
+    <loc>https://getdeenpal.com/blog/four-madhahib-explained.html</loc>
     <lastmod>2026-03-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://deenpal.app/blog/daily-quran-habit.html</loc>
+    <loc>https://getdeenpal.com/blog/daily-quran-habit.html</loc>
     <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://deenpal.app/blog/maximise-ramadan-with-technology.html</loc>
+    <loc>https://getdeenpal.com/blog/maximise-ramadan-with-technology.html</loc>
     <lastmod>2026-02-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://getdeenpal.com/blog/how-to-perform-wudu.html</loc>
+    <lastmod>2026-05-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://getdeenpal.com/blog/what-is-zakat.html</loc>
+    <lastmod>2026-05-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://getdeenpal.com/blog/morning-adhkar-guide.html</loc>
+    <lastmod>2026-05-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://getdeenpal.com/blog/benefits-of-dhikr.html</loc>
+    <lastmod>2026-05-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://getdeenpal.com/blog/laylatul-qadr-guide.html</loc>
+    <lastmod>2026-05-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 
 </urlset>

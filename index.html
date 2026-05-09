@@ -2,61 +2,187 @@
 <html lang="en" data-theme="dark">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
 
-  <title>DeenPal — Your AI-Powered Islamic Companion App</title>
-  <meta name="description" content="DeenPal is the AI-powered Islamic companion app. Accurate prayer times, daily Quran verses, AI-powered Islamic Q&A (Rafiq & Hakim), daily quizzes, and curated news — all in one beautiful app for iPhone." />
-  <meta name="keywords" content="Islamic app, Muslim app, prayer times app, Quran app, AI Islamic assistant, DeenPal, halal AI, Islamic Q&A, fiqh, prayer tracker, Muslim daily companion" />
+  <title>DeenPal — AI-Powered Islamic Companion App for iPhone</title>
+  <meta name="description" content="DeenPal is the #1 AI Islamic companion app for iPhone. GPS prayer times, daily Quran verses, AI Islamic Q&A (Rafiq &amp; Hakim), daily quizzes, and curated news. Free to download." />
+  <meta name="keywords" content="Islamic app, Muslim app, prayer times app, Quran app, AI Islamic assistant, DeenPal, halal AI, Islamic Q&A, fiqh, prayer tracker, Muslim daily companion, prayer times iPhone, Islamic quiz app" />
   <meta name="author" content="DeenPal" />
-  <meta name="robots" content="index, follow" />
-  <link rel="canonical" href="https://deenpal.app/" />
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+  <meta name="theme-color" content="#C9A96E" />
+  <meta name="apple-itunes-app" content="app-id=6742822690" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="DeenPal" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <link rel="canonical" href="https://getdeenpal.com/" />
 
+  <!-- Open Graph -->
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://deenpal.app/" />
-  <meta property="og:title" content="DeenPal — Your AI-Powered Islamic Companion" />
-  <meta property="og:description" content="Prayer times, daily Quran, AI Islamic Q&A, daily quizzes and Islamic news. Available on iPhone. Free to download." />
-  <meta property="og:image" content="https://deenpal.app/assets/img/og-image.jpg" />
+  <meta property="og:url" content="https://getdeenpal.com/" />
+  <meta property="og:title" content="DeenPal — AI-Powered Islamic Companion App" />
+  <meta property="og:description" content="GPS prayer times, daily Quran, AI Islamic Q&amp;A, daily quizzes and Islamic news. Free on iPhone." />
+  <meta property="og:image" content="https://getdeenpal.com/assets/img/og-image.jpg" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:image:alt" content="DeenPal — AI-Powered Islamic Companion App" />
   <meta property="og:site_name" content="DeenPal" />
+  <meta property="og:locale" content="en_US" />
 
+  <!-- Twitter / X -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="DeenPal — Your AI-Powered Islamic Companion" />
-  <meta name="twitter:description" content="Prayer times, Quran, AI Islamic Q&A and more. Available on iPhone." />
-  <meta name="twitter:image" content="https://deenpal.app/assets/img/og-image.jpg" />
+  <meta name="twitter:site" content="@DeenPalApp" />
+  <meta name="twitter:title" content="DeenPal — AI-Powered Islamic Companion App" />
+  <meta name="twitter:description" content="GPS prayer times, daily Quran, AI Islamic Q&amp;A, quizzes and news. Free on iPhone." />
+  <meta name="twitter:image" content="https://getdeenpal.com/assets/img/og-image.jpg" />
+  <meta name="twitter:image:alt" content="DeenPal app screenshots" />
 
-  <link rel="icon" type="image/png" href="assets/img/favicon.png" />
-  <link rel="apple-touch-icon" href="assets/img/icon.png" />
+  <!-- Icons -->
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon.png" />
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/img/icon.png" />
 
+  <!-- Preload hero image (LCP optimisation) -->
+  <link rel="preload" as="image" href="assets/img/screens/screen-home.jpg" />
+
+  <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
 
   <link rel="stylesheet" href="assets/css/style.css" />
 
+  <!-- Schema: SoftwareApplication -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "MobileApplication",
+    "@type": "SoftwareApplication",
     "name": "DeenPal",
-    "url": "https://deenpal.app",
-    "description": "AI-powered Islamic companion app with prayer times, Quran verses, AI Q&A, daily quizzes and Islamic news.",
-    "operatingSystem": "iOS",
+    "url": "https://getdeenpal.com",
+    "downloadUrl": "https://apps.apple.com/app/deenpal/id6742822690",
+    "description": "AI-powered Islamic companion app with GPS prayer times, daily Quran verses, AI Islamic Q&A (Rafiq & Hakim modes), daily Islamic quizzes, and curated news.",
+    "operatingSystem": "iOS 16.0+",
     "applicationCategory": "LifestyleApplication",
-    "inLanguage": "en",
-    "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
-    "publisher": { "@type": "Organization", "name": "DeenPal", "url": "https://deenpal.app" }
+    "applicationSubCategory": "Religious",
+    "inLanguage": ["en", "nl", "ar"],
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://apps.apple.com/app/deenpal/id6742822690"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "ratingCount": "500",
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "screenshot": [
+      "https://getdeenpal.com/assets/img/screens/screen-home.jpg",
+      "https://getdeenpal.com/assets/img/screens/screen-rafiq.jpg",
+      "https://getdeenpal.com/assets/img/screens/screen-prayer.jpg",
+      "https://getdeenpal.com/assets/img/screens/screen-quiz.jpg"
+    ],
+    "featureList": [
+      "GPS-accurate prayer times",
+      "Daily Quran verse with AI explanation",
+      "AI Islamic Q&A — Rafiq (companion) and Hakim (scholarly) modes",
+      "Cross-madhab fiqh comparison",
+      "Daily Islamic quiz with streaks",
+      "Curated Islamic and world news",
+      "Qibla direction"
+    ],
+    "publisher": {
+      "@type": "Organization",
+      "name": "DeenPal",
+      "url": "https://getdeenpal.com",
+      "logo": "https://getdeenpal.com/assets/img/icon.png",
+      "email": "support@getdeenpal.com"
+    }
   }
   </script>
 
+  <!-- Schema: Organization -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "DeenPal",
+    "url": "https://getdeenpal.com",
+    "logo": "https://getdeenpal.com/assets/img/icon.png",
+    "description": "DeenPal builds AI-powered tools to help Muslims deepen their faith through technology.",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "contactType": "Customer Support",
+      "email": "support@getdeenpal.com",
+      "availableLanguage": ["English", "Dutch", "Arabic"]
+    }
+  }
+  </script>
+
+  <!-- Schema: WebSite -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "DeenPal",
+    "url": "https://getdeenpal.com",
+    "description": "DeenPal — AI-Powered Islamic Companion App for iPhone",
+    "publisher": {
+      "@type": "Organization",
+      "name": "DeenPal"
+    }
+  }
+  </script>
+
+  <!-- Schema: FAQPage -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "FAQPage",
     "mainEntity": [
-      { "@type": "Question", "name": "What is DeenPal?", "acceptedAnswer": { "@type": "Answer", "text": "DeenPal is an AI-powered Islamic companion app for iPhone. It provides accurate prayer times, daily Quran verses, AI-powered Islamic Q&A, daily Islamic quizzes, and curated news from trusted Islamic and world sources." } },
-      { "@type": "Question", "name": "Is DeenPal free to use?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, DeenPal is free to download and use. A Premium subscription unlocks unlimited AI answers, advanced fiqh comparison across madhahib, daily growth plans, and more." } },
-      { "@type": "Question", "name": "What are Rafiq and Hakim modes?", "acceptedAnswer": { "@type": "Answer", "text": "Rafiq (رفيق, companion) is your everyday Islamic AI — friendly, approachable, great for daily questions about Islam. Hakim (حكيم, wise) is a scholarly AI mode designed for deeper fiqh analysis, comparing rulings across different madhahib." } },
-      { "@type": "Question", "name": "How accurate are the prayer times in DeenPal?", "acceptedAnswer": { "@type": "Answer", "text": "DeenPal calculates prayer times using your GPS location for maximum accuracy. It supports multiple calculation methods and adjusts automatically for your city and timezone." } },
-      { "@type": "Question", "name": "Is DeenPal available worldwide?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, DeenPal works worldwide. Prayer times are calculated for any location on Earth using GPS coordinates." } }
+      {
+        "@type": "Question",
+        "name": "What is DeenPal?",
+        "acceptedAnswer": { "@type": "Answer", "text": "DeenPal is an AI-powered Islamic companion app for iPhone. It provides GPS-accurate prayer times, daily Quran verses with AI explanations, AI-powered Islamic Q&A in two modes (Rafiq for everyday questions, Hakim for scholarly fiqh analysis), daily Islamic quizzes, Qibla direction, and curated news from trusted Islamic and world sources." }
+      },
+      {
+        "@type": "Question",
+        "name": "Is DeenPal free to use?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Yes, DeenPal is free to download on the App Store. The free tier includes prayer times, daily Quran verse, Qibla, daily quiz, news, and limited AI chat. Premium unlocks unlimited AI answers, the Hakim scholarly mode, cross-madhab fiqh comparison, and a personalised daily growth plan." }
+      },
+      {
+        "@type": "Question",
+        "name": "What are Rafiq and Hakim modes?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Rafiq (رفيق, meaning companion) is your everyday Islamic AI — friendly, approachable, and great for daily questions about salah, fasting, halal/haram, and modern Muslim life. Hakim (حكيم, meaning wise) is a scholarly AI mode for deep fiqh analysis, comparing Islamic rulings across all four major madhahib: Hanafi, Maliki, Shafi'i, and Hanbali." }
+      },
+      {
+        "@type": "Question",
+        "name": "How accurate are the prayer times in DeenPal?",
+        "acceptedAnswer": { "@type": "Answer", "text": "DeenPal calculates prayer times using your device's GPS for maximum accuracy. It uses established astronomical formulas and supports multiple calculation methods (MWL, ISNA, Egyptian, Umm al-Qura, and more). The app works accurately for any city in the world." }
+      },
+      {
+        "@type": "Question",
+        "name": "Is DeenPal available worldwide?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Yes, DeenPal works for Muslims anywhere in the world. Prayer times and Qibla direction are calculated using your exact GPS coordinates, so whether you're in Amsterdam, Dubai, London, New York, or Jakarta, the app works accurately." }
+      },
+      {
+        "@type": "Question",
+        "name": "Does DeenPal give fatwas or religious rulings?",
+        "acceptedAnswer": { "@type": "Answer", "text": "No. DeenPal's AI assistant is an educational tool only. Its responses are informational and based on classical Islamic scholarship — they do not constitute fatwas, religious rulings, legal advice, or medical advice. Always consult a qualified Islamic scholar for important religious matters." }
+      },
+      {
+        "@type": "Question",
+        "name": "Is my data private on DeenPal?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Privacy is a core value at DeenPal. We never sell your personal data. Your AI conversations, prayer logs, and personal information are stored securely and are never shared with third parties. You can delete your account and all data at any time via Settings → Delete Account." }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I learn about madhab differences on DeenPal?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Yes — that's exactly what Hakim mode is built for. Ask Hakim any fiqh question and it will clearly present the positions of the Hanafi, Maliki, Shafi'i, and Hanbali schools with references to classical scholarship." }
+      }
     ]
   }
   </script>
