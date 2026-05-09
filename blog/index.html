@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DeenPal Blog — Islamic Guides, Tips & Inspiration</title>
+  <meta name="description" content="The DeenPal Blog: Islamic guides, prayer tips, fiqh explanations, Quran reflections, and how AI is transforming Muslim life. Practical deen content for modern Muslims." />
+  <meta name="keywords" content="Islamic blog, Muslim blog, prayer guide, fiqh, Quran, Islamic tips, deen, DeenPal" />
+  <link rel="canonical" href="https://deenpal.app/blog/" />
+  <link rel="icon" type="image/png" href="../assets/img/favicon.png" />
+  <link rel="apple-touch-icon" href="../assets/img/icon.png" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="DeenPal Blog — Islamic Guides & Inspiration" />
+  <meta property="og:description" content="Practical Islamic content for modern Muslims. Prayer tips, fiqh, Quran reflections, and more." />
+  <meta property="og:url" content="https://deenpal.app/blog/" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../assets/css/style.css" />
+  <style>
+    .blog-page { padding-top: 96px; }
+    .blog-page__hero { padding: 64px 0 48px; text-align: center; border-bottom: 1px solid var(--border); }
+    .blog-page__title { font-size: clamp(32px, 6vw, 52px); font-weight: 900; color: var(--text); letter-spacing: -1px; margin-bottom: 12px; }
+    .blog-page__desc { font-size: 18px; color: var(--text-secondary); max-width: 520px; margin: 0 auto; }
+
+    .blog-page__cats { display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; padding: 28px 0; }
+    .blog-cat { padding: 7px 16px; border-radius: 20px; font-size: 13px; font-weight: 600; background: var(--surface); border: 1px solid var(--border); color: var(--text-secondary); cursor: pointer; transition: all 0.2s; }
+    .blog-cat.active, .blog-cat:hover { background: rgba(201,169,110,0.1); border-color: var(--border-gold); color: var(--gold-text); }
+
+    .blog-page__grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; padding: 40px 0 80px; }
+    .blog-card--featured { grid-column: 1 / -1; display: grid; grid-template-columns: 1fr 1fr; }
+    .blog-card--featured .blog-card__img { height: auto; min-height: 240px; }
+    .blog-card--featured .blog-card__title { font-size: 22px; }
+    .blog-card--featured .blog-card__excerpt { -webkit-line-clamp: 4; }
+
+    @media (max-width: 900px) {
+      .blog-page__grid { grid-template-columns: repeat(2, 1fr); }
+      .blog-card--featured { grid-column: 1 / -1; grid-template-columns: 1fr; }
+    }
+    @media (max-width: 600px) {
+      .blog-page__grid { grid-template-columns: 1fr; }
+    }
+  </style>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Blog",
+    "name": "DeenPal Blog",
+    "url": "https://deenpal.app/blog/",
+    "description": "Islamic guides, prayer tips, fiqh explanations, and Quran reflections for modern Muslims.",
+    "publisher": { "@type": "Organization", "name": "DeenPal", "url": "https://deenpal.app" }
+  }
+  </script>
+</head>
+<body>
+
+  <nav class="nav" id="nav" role="navigation">
+    <div class="nav__inner container">
+      <a href="/" class="nav__logo">
+        <span class="nav__logo-icon">
+          <img src="../assets/img/icon.png" alt="" width="28" height="28" style="border-radius:7px;display:block;object-fit:cover;" />
+        </span>
+        <span class="nav__logo-text">DeenPal</span>
+      </a>
+      <button class="nav__hamburger" id="hamburger" aria-label="Toggle menu"><span></span><span></span><span></span></button>
+      <ul class="nav__links" id="navLinks" role="list">
+        <li><a href="/#features" class="nav__link">Features</a></li>
+        <li><a href="/#ai-modes" class="nav__link">AI</a></li>
+        <li><a href="/#screens" class="nav__link">Screens</a></li>
+        <li><a href="/blog/" class="nav__link" aria-current="page">Blog</a></li>
+        <li><a href="/#faq" class="nav__link">FAQ</a></li>
+      </ul>
+      <div class="nav__actions">
+        <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
+          <span class="theme-toggle__icon theme-toggle__sun"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg></span>
+          <span class="theme-toggle__icon theme-toggle__moon"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></span>
+        </button>
+        <a href="/#download" class="btn btn--gold btn--sm">Download Free</a>
+      </div>
+    </div>
+  </nav>
+
+  <main class="blog-page">
+    <div class="container">
+      <header class="blog-page__hero" data-reveal>
+        <span class="section__label">DeenPal Blog</span>
+        <h1 class="blog-page__title">Learn. Reflect. Grow.</h1>
+        <p class="blog-page__desc">Practical Islamic guidance, app tips, and reflections on living as a Muslim in the modern world.</p>
+      </header>
+
+      <!-- Category filter -->
+      <div class="blog-page__cats" role="navigation" aria-label="Blog categories">
+        <button class="blog-cat active">All</button>
+        <button class="blog-cat">Prayer</button>
+        <button class="blog-cat">Quran</button>
+        <button class="blog-cat">Fiqh</button>
+        <button class="blog-cat">Technology</button>
+        <button class="blog-cat">Spirituality</button>
+        <button class="blog-cat">Lifestyle</button>
+      </div>
+
+      <div class="blog-page__grid">
+
+        <!-- Featured -->
+        <article class="blog-card blog-card--featured" data-reveal>
+          <div class="blog-card__img blog-card__img--1" role="img" aria-label="Understanding the 5 Daily Prayers"></div>
+          <div class="blog-card__body">
+            <span class="blog-card__cat">Prayer</span>
+            <h2 class="blog-card__title"><a href="understanding-5-daily-prayers.html">Understanding the 5 Daily Prayers: A Complete Guide for Muslims</a></h2>
+            <p class="blog-card__excerpt">The five daily prayers (Salah) are the second pillar of Islam and the cornerstone of a Muslim's daily life. From Fajr at dawn to Isha at night, each prayer carries deep spiritual meaning and practical guidance. Learn the times, how to prepare, and the powerful impact salah has on your heart and mindset.</p>
+            <div class="blog-card__meta">
+              <span>8 min read</span><span>·</span><time datetime="2026-05-01">May 1, 2026</time>
+            </div>
+          </div>
+        </article>
+
+        <article class="blog-card" data-reveal>
+          <div class="blog-card__img blog-card__img--2" role="img" aria-label="AI and Islamic Education"></div>
+          <div class="blog-card__body">
+            <span class="blog-card__cat">Technology</span>
+            <h3 class="blog-card__title"><a href="ai-and-islamic-education.html">How AI is Transforming Islamic Education in the Digital Age</a></h3>
+            <p class="blog-card__excerpt">Artificial intelligence is reshaping how Muslims learn about their deen. We explore the opportunities, the challenges, and how to use AI responsibly...</p>
+            <div class="blog-card__meta"><span>6 min read</span><span>·</span><time datetime="2026-04-22">April 22, 2026</time></div>
+          </div>
+        </article>
+
+        <article class="blog-card" data-reveal>
+          <div class="blog-card__img blog-card__img--3" role="img" aria-label="Fajr Prayer Tips"></div>
+          <div class="blog-card__body">
+            <span class="blog-card__cat">Spirituality</span>
+            <h3 class="blog-card__title"><a href="fajr-prayer-tips.html">Fajr Prayer: 7 Proven Tips for Waking Up on Time Every Day</a></h3>
+            <p class="blog-card__excerpt">Fajr is often the hardest prayer to maintain consistently. Here are practical, tested strategies that thousands of Muslims use to wake up for Fajr...</p>
+            <div class="blog-card__meta"><span>5 min read</span><span>·</span><time datetime="2026-04-10">April 10, 2026</time></div>
+          </div>
+        </article>
+
+        <article class="blog-card" data-reveal>
+          <div class="blog-card__img" style="height:180px;background:linear-gradient(135deg,#1A001A,#0D0D0D);background-image:radial-gradient(circle at 50% 50%,rgba(175,82,222,0.3) 0%,transparent 60%)" role="img" aria-label="Madhahib article"></div>
+          <div class="blog-card__body">
+            <span class="blog-card__cat">Fiqh</span>
+            <h3 class="blog-card__title"><a href="four-madhahib-explained.html">The Four Madhahib Explained: Which Should I Follow?</a></h3>
+            <p class="blog-card__excerpt">Hanafi, Maliki, Shafi'i, or Hanbali? We break down the four main schools of Islamic jurisprudence and explain how to navigate them...</p>
+            <div class="blog-card__meta"><span>9 min read</span><span>·</span><time datetime="2026-03-28">March 28, 2026</time></div>
+          </div>
+        </article>
+
+        <article class="blog-card" data-reveal>
+          <div class="blog-card__img" style="height:180px;background:linear-gradient(135deg,#001A00,#0D0D0D);background-image:radial-gradient(circle at 30% 60%,rgba(52,199,89,0.25) 0%,transparent 60%)" role="img" aria-label="Quran article"></div>
+          <div class="blog-card__body">
+            <span class="blog-card__cat">Quran</span>
+            <h3 class="blog-card__title"><a href="daily-quran-habit.html">How to Build a Daily Quran Habit That Actually Sticks</a></h3>
+            <p class="blog-card__excerpt">Consistency with the Quran is a challenge for many Muslims. These simple but powerful strategies will help you build a daily relationship with Allah's words...</p>
+            <div class="blog-card__meta"><span>7 min read</span><span>·</span><time datetime="2026-03-15">March 15, 2026</time></div>
+          </div>
+        </article>
+
+        <article class="blog-card" data-reveal>
+          <div class="blog-card__img" style="height:180px;background:linear-gradient(135deg,#1A1200,#0D0D0D);background-image:radial-gradient(circle at 70% 40%,rgba(201,169,110,0.2) 0%,transparent 60%)" role="img" aria-label="Ramadan article"></div>
+          <div class="blog-card__body">
+            <span class="blog-card__cat">Lifestyle</span>
+            <h3 class="blog-card__title"><a href="maximise-ramadan-with-technology.html">How to Maximise Ramadan Using Technology &amp; Apps</a></h3>
+            <p class="blog-card__excerpt">Technology can be a powerful tool during Ramadan — from prayer time apps to AI for Islamic learning. Here's how to use tech intentionally for your deen...</p>
+            <div class="blog-card__meta"><span>5 min read</span><span>·</span><time datetime="2026-02-28">February 28, 2026</time></div>
+          </div>
+        </article>
+
+      </div>
+    </div>
+  </main>
+
+  <footer class="footer" role="contentinfo">
+    <div class="container">
+      <div class="footer__bottom" style="padding-top:0;border-top:none;justify-content:center;gap:24px">
+        <a href="/" style="color:var(--text-secondary);font-size:14px">← Back to DeenPal</a>
+        <p class="footer__copy">© <span id="year"></span> DeenPal. All rights reserved.</p>
+        <p class="footer__ayah">"And He is with you wherever you are." — Al-Hadid 57:4</p>
+      </div>
+    </div>
+  </footer>
+
+  <button class="back-to-top" id="backToTop" aria-label="Back to top">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><polyline points="18 15 12 9 6 15"/></svg>
+  </button>
+
+  <script src="../assets/js/main.js" defer></script>
+</body>
+</html>

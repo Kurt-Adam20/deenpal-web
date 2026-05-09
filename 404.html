@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>404 — Page Not Found | DeenPal</title>
+  <meta name="robots" content="noindex" />
+  <link rel="icon" type="image/png" href="assets/img/favicon.png" />
+  <link rel="apple-touch-icon" href="assets/img/icon.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;900&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+  <style>
+    .error-page {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 32px;
+    }
+    .error-page__num {
+      font-size: clamp(80px, 20vw, 160px);
+      font-weight: 900;
+      background: linear-gradient(135deg, var(--gold), var(--gold-light, #DFC08E));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      line-height: 1;
+      margin-bottom: 16px;
+      font-family: var(--font-mono, monospace);
+    }
+    .error-page__title { font-size: 24px; font-weight: 700; margin-bottom: 12px; color: var(--text); }
+    .error-page__desc { font-size: 16px; color: var(--text-secondary); margin-bottom: 32px; max-width: 400px; }
+    .error-page__ayah {
+      font-family: var(--font-mono);
+      font-size: 13px;
+      color: var(--text-tertiary);
+      font-style: italic;
+      margin-top: 24px;
+    }
+  </style>
+</head>
+<body>
+  <div class="error-page">
+    <div>
+      <div class="error-page__num">404</div>
+      <h1 class="error-page__title">Page Not Found</h1>
+      <p class="error-page__desc">The page you're looking for has moved or doesn't exist. Let's get you back on track.</p>
+      <a href="/" class="btn btn--gold btn--lg">← Back to DeenPal</a>
+      <p class="error-page__ayah">"And rely upon Allah; sufficient is Allah as Disposer of affairs." — Al-Ahzab 33:3</p>
+    </div>
+  </div>
+  <script>
+    const saved = localStorage.getItem('dp_theme');
+    if (saved) document.documentElement.setAttribute('data-theme', saved);
+  </script>
+</body>
+</html>

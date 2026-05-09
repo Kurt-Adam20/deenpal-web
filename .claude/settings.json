@@ -1,0 +1,36 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//home/suleyman/Mezaan AI/src/theme/**)",
+      "Read(//home/suleyman/Mezaan AI/src/screens/**)",
+      "Bash(python3 -c ' *)",
+      "Bash(xdg-open \"/home/suleyman/DeenPal Web/index.html\")",
+      "Bash(cp \"/home/suleyman/Mezaan AI/assets/Icon.png\" \"/home/suleyman/DeenPal Web/assets/img/icon.png\")",
+      "Bash(cp \"/home/suleyman/Mezaan AI/assets/favicon.png\" \"/home/suleyman/DeenPal Web/assets/img/favicon.png\")",
+      "Bash(gh auth *)",
+      "Bash(gh api *)",
+      "Bash(git --version)",
+      "Bash(curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg)",
+      "Bash(sudo dd *)",
+      "Bash(sudo chmod *)",
+      "Bash(dpkg --print-architecture)",
+      "Bash(echo \"deb [arch=$\\(dpkg --print-architecture\\) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main\")",
+      "Bash(sudo tee *)",
+      "Bash(sudo apt *)",
+      "Bash(mkdir -p /home/suleyman/.local/bin)",
+      "Bash(curl -sL https://github.com/cli/cli/releases/download/v2.65.0/gh_2.65.0_linux_amd64.tar.gz)",
+      "Bash(tar -xz -C /tmp)",
+      "Bash(cp /tmp/gh_2.65.0_linux_amd64/bin/gh /home/suleyman/.local/bin/gh)",
+      "Bash(export PATH=\"$HOME/.local/bin:$PATH\")",
+      "Bash(gh --version)",
+      "Bash(git init *)",
+      "Bash(git checkout *)",
+      "Bash(git config *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)"
+    ],
+    "additionalDirectories": [
+      "/home/suleyman/DeenPal Web/assets"
+    ]
+  }
+}
