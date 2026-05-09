@@ -2663,3 +2663,148 @@ details summary::-webkit-details-marker { display: none; }
   .showcase-frame { width: 110px; }
   .showcase-screen { height: 220px; }
 }
+
+/* ══════════════════════════════════════════════════════
+   REDESIGN — cleaner, more premium
+   Removes AI-slop patterns, unifies visual language
+══════════════════════════════════════════════════════ */
+
+/* Kill all visual noise */
+.particles,
+.hero__geo,
+.hero__wave,
+.download__geo { display: none !important; }
+
+/* Hero — bigger, more impact */
+.hero__title {
+  font-size: clamp(48px, 7vw, 80px);
+  letter-spacing: -2.5px;
+  line-height: 1.04;
+}
+
+.hero__title-gold {
+  background: linear-gradient(120deg, #C9A96E 0%, #DFC08E 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Hero social proof — star rating */
+.hero__social-proof {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.hero__stars {
+  color: #C9A96E;
+  font-size: 17px;
+  letter-spacing: 1px;
+}
+
+.hero__rating-text {
+  font-size: 14px;
+  color: var(--text-secondary);
+  font-weight: 500;
+}
+
+/* Sections — more breathing room */
+.section { padding: 120px 0; }
+
+/* Section titles — bigger */
+.section__title {
+  font-size: clamp(32px, 5vw, 52px);
+  letter-spacing: -1.2px;
+}
+
+/* Feature icons — unified gold, no rainbow */
+.feature-card__icon {
+  background: rgba(201, 169, 110, 0.08) !important;
+  border-color: rgba(201, 169, 110, 0.18) !important;
+  color: var(--gold) !important;
+  width: 56px;
+  height: 56px;
+}
+
+/* Feature cards — more padding, clean */
+.feature-card {
+  padding: 32px;
+  border-radius: 20px;
+}
+.feature-card:hover {
+  transform: none;
+  box-shadow: none;
+  border-color: var(--border-gold);
+}
+
+/* Stats — plain gold, no gradient */
+.stat-card__number {
+  background: none !important;
+  -webkit-background-clip: unset !important;
+  -webkit-text-fill-color: var(--gold) !important;
+  background-clip: unset !important;
+  color: var(--gold) !important;
+}
+.stat-card {
+  border-radius: 20px;
+}
+.stat-card:hover {
+  border-color: var(--border);
+  transform: none;
+}
+
+/* AI cards — remove gradient bg */
+.ai-card--hakim {
+  background: var(--surface);
+}
+
+/* Testimonials — remove hover glow */
+.testimonial-card:hover {
+  border-color: var(--border);
+}
+
+/* Blog card images — less cheap gradients */
+.blog-card__img--1 {
+  background: linear-gradient(160deg, #1C1408 0%, #0D0D0D 100%);
+  background-image: none;
+}
+.blog-card__img--2 {
+  background: linear-gradient(160deg, #080D18 0%, #0D0D0D 100%);
+  background-image: none;
+}
+.blog-card__img--3 {
+  background: linear-gradient(160deg, #0A1410 0%, #0D0D0D 100%);
+  background-image: none;
+}
+
+/* Download CTA — cleaner box */
+.download__inner {
+  background: var(--surface);
+  border-color: var(--border);
+  border-radius: 28px;
+  padding: 80px 40px;
+}
+
+/* Remove the section__label entirely */
+.section__label { display: none; }
+
+/* Prayer section label on left (special case) */
+.prayer-section__text .section__label { display: none; }
+
+/* Hero badge — keep it clean */
+.hero__badge {
+  font-size: 12px;
+  padding: 5px 12px;
+}
+
+/* Nav — slightly cleaner */
+.nav__logo-text {
+  font-size: 17px;
+  font-weight: 700;
+  letter-spacing: -0.3px;
+}
+
+@media (max-width: 768px) {
+  .hero__title { font-size: clamp(40px, 10vw, 60px); }
+  .section { padding: 80px 0; }
+}
