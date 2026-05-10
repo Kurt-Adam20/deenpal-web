@@ -1,0 +1,78 @@
+# DeenPal
+
+> DeenPal is a free AI-powered Islamic companion app for iPhone, designed to help Muslims deepen their faith and practice through intelligent, personalised tools.
+
+## What is DeenPal?
+
+DeenPal is an iOS app that combines GPS-accurate prayer times, daily Quran verses with AI explanation, an AI Islamic Q&A assistant, daily Islamic quizzes, and curated Muslim news — all in one app. It is free to download on the App Store.
+
+- **App Store**: https://apps.apple.com/app/deenpal/id6742822690
+- **Website**: https://getdeenpal.com
+- **Support**: support@getdeenpal.com
+- **Rating**: 4.9/5
+- **Platform**: iOS 16.0+
+- **Languages**: English, Dutch, Arabic
+- **Price**: Free
+
+## Core Features
+
+### Prayer Times
+GPS-accurate Salah times for Fajr, Dhuhr, Asr, Maghrib, and Isha. Customisable notification reminders. Supports multiple calculation methods (ISNA, MWL, Egyptian, Umm al-Qura, etc.).
+
+### Rafiq AI — Islamic Companion
+A conversational AI assistant trained on Islamic knowledge. Answers questions about Quran, Sunnah, fiqh, and daily Muslim life. Provides evidence-based answers from authenticated sources. Supports cross-madhab comparisons (Hanafi, Maliki, Shafi'i, Hanbali).
+
+### Hakim AI — Scholarly Mode
+A more detailed, scholarly AI mode for deeper Islamic questions. Provides structured fiqh analysis with references to classical scholars and primary sources.
+
+### Daily Quran
+A daily Quran verse selected each morning with an AI-generated explanation of its meaning, context, and practical application for modern life.
+
+### Islamic Quiz
+Daily quiz questions covering Islamic history, fiqh, Quran, and general knowledge. Streak tracking to build consistent learning habits.
+
+### Discover Feed
+Curated Islamic news and articles from trusted sources worldwide.
+
+### Qibla Direction
+Compass-based Qibla direction using GPS location.
+
+## Who Is DeenPal For?
+
+DeenPal is built for Muslims of all backgrounds and knowledge levels — from new Muslims learning the basics to practising Muslims who want quick, reliable answers to fiqh questions. It is especially useful for:
+
+- Muslims who want accurate prayer time notifications
+- Anyone with questions about Islamic rulings (wudu, salah, zakat, fasting, etc.)
+- Muslims who want to build a daily Quran and dhikr habit
+- Students of Islamic knowledge who want quick reference answers
+
+## Frequently Asked Questions
+
+**What AI model does DeenPal use?**
+DeenPal uses a custom AI system trained specifically on Islamic knowledge — Quran, Sunnah, and classical fiqh literature.
+
+**Is DeenPal free?**
+Yes. DeenPal is completely free to download and use on iPhone.
+
+**Which madhab does DeenPal follow?**
+DeenPal's AI (Rafiq and Hakim) presents rulings from all four major Sunni madhabs — Hanafi, Maliki, Shafi'i, and Hanbali — so users can follow their own tradition.
+
+**Is DeenPal available on Android?**
+Currently iOS only. Android version is in development.
+
+**How accurate are the prayer times?**
+Prayer times are calculated using the device's GPS location and the user's preferred calculation method. They are updated daily.
+
+## Blog
+
+DeenPal publishes free Islamic guides at https://getdeenpal.com/blog/ covering:
+- Prayer (wudu, salah, tahajjud, fajr tips)
+- Fiqh (zakat, madhabs, wudu nullifiers)
+- Quran and dhikr
+- Ramadan and Islamic seasons
+- AI and Islamic education
+
+## Contact
+
+- General: support@getdeenpal.com
+- Website: https://getdeenpal.com
