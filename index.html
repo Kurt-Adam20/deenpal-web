@@ -45,12 +45,13 @@
   <link rel="manifest" href="/site.webmanifest" />
 
   <!-- Preload hero image (LCP optimisation) -->
-  <link rel="preload" as="image" href="assets/img/screens/screen-home.jpg" />
+  <link rel="preload" as="image" href="assets/img/screens/screen-home.webp" />
 
-  <!-- Fonts -->
+  <!-- Fonts — async to avoid render blocking -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=IBM+Plex+Mono:wght@400;500;600&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=IBM+Plex+Mono:wght@400;500;600&display=swap" /></noscript>
 
   <link rel="stylesheet" href="assets/css/style.css" />
 
@@ -82,10 +83,10 @@
       "worstRating": "1"
     },
     "screenshot": [
-      "https://getdeenpal.com/assets/img/screens/screen-home.jpg",
-      "https://getdeenpal.com/assets/img/screens/screen-rafiq.jpg",
-      "https://getdeenpal.com/assets/img/screens/screen-prayer.jpg",
-      "https://getdeenpal.com/assets/img/screens/screen-quiz.jpg"
+      "https://getdeenpal.com/assets/img/screens/screen-home.webp",
+      "https://getdeenpal.com/assets/img/screens/screen-rafiq.webp",
+      "https://getdeenpal.com/assets/img/screens/screen-prayer.webp",
+      "https://getdeenpal.com/assets/img/screens/screen-quiz.webp"
     ],
     "featureList": [
       "GPS-accurate prayer times for Fajr, Dhuhr, Asr, Maghrib and Isha",
@@ -218,7 +219,7 @@
     <div class="nav__inner container">
       <a href="/" class="nav__logo" aria-label="DeenPal Home">
         <span class="nav__logo-icon" aria-hidden="true">
-          <img src="assets/img/icon.webp" alt="" width="28" height="28" style="border-radius:7px;display:block;object-fit:cover;" />
+          <img src="assets/img/icon-nav.webp" alt="" width="28" height="28" style="border-radius:7px;display:block;object-fit:cover;" />
         </span>
         <span class="nav__logo-text">DeenPal</span>
       </a>
@@ -291,14 +292,14 @@
             <!-- ── Left phone: Rafiq AI ─────────────────── -->
             <div class="trio-phone trio-phone--left" aria-hidden="true">
               <div class="trio-phone__inner trio-phone__inner--img">
-                <img src="assets/img/screens/screen-rafiq.jpg" alt="" width="230" height="470" style="width:100%;height:100%;object-fit:cover;object-position:top;display:block;" />
+                <img src="assets/img/screens/screen-rafiq.webp" alt="" width="230" height="470" style="width:100%;height:100%;object-fit:cover;object-position:top;display:block;" />
               </div>
             </div>
 
             <!-- ── Center phone: Home ────────────────────── -->
             <div class="trio-phone trio-phone--center" aria-label="DeenPal Home screen">
               <div class="trio-phone__inner trio-phone__inner--img">
-                <img src="assets/img/screens/screen-home.jpg" alt="DeenPal Home screen" width="260" height="530" style="width:100%;height:100%;object-fit:cover;object-position:top;display:block;" />
+                <img src="assets/img/screens/screen-home.webp" alt="DeenPal Home screen" width="260" height="530" style="width:100%;height:100%;object-fit:cover;object-position:top;display:block;" />
               </div>
             </div>
 
@@ -687,7 +688,7 @@
           <div class="showcase-phone">
             <div class="showcase-frame">
               <div class="showcase-screen">
-                <img src="assets/img/screens/screen-welcome.jpg" alt="DeenPal Welcome screen" loading="lazy" style="width:100%;height:100%;object-fit:cover;object-position:top;display:block;" />
+                <img src="assets/img/screens/screen-welcome.webp" alt="DeenPal Welcome screen" loading="lazy" style="width:100%;height:100%;object-fit:cover;object-position:top;display:block;" />
               </div>
             </div>
             <div class="showcase-label">Welcome</div>
@@ -696,7 +697,7 @@
           <div class="showcase-phone showcase-phone--main">
             <div class="showcase-frame">
               <div class="showcase-screen">
-                <img src="assets/img/screens/screen-home.jpg" alt="DeenPal Home screen" loading="lazy" style="width:100%;height:100%;object-fit:cover;object-position:top;display:block;" />
+                <img src="assets/img/screens/screen-home.webp" alt="DeenPal Home screen" loading="lazy" style="width:100%;height:100%;object-fit:cover;object-position:top;display:block;" />
               </div>
             </div>
             <div class="showcase-label">Home</div>
@@ -705,7 +706,7 @@
           <div class="showcase-phone">
             <div class="showcase-frame">
               <div class="showcase-screen">
-                <img src="assets/img/screens/screen-rafiq.jpg" alt="Rafiq AI assistant screen" loading="lazy" style="width:100%;height:100%;object-fit:cover;object-position:top;display:block;" />
+                <img src="assets/img/screens/screen-rafiq.webp" alt="Rafiq AI assistant screen" loading="lazy" style="width:100%;height:100%;object-fit:cover;object-position:top;display:block;" />
               </div>
             </div>
             <div class="showcase-label">Rafiq AI</div>
@@ -714,7 +715,7 @@
           <div class="showcase-phone">
             <div class="showcase-frame">
               <div class="showcase-screen">
-                <img src="assets/img/screens/screen-quiz.jpg" alt="Daily Islamic Quiz screen" loading="lazy" style="width:100%;height:100%;object-fit:cover;object-position:top;display:block;" />
+                <img src="assets/img/screens/screen-quiz.webp" alt="Daily Islamic Quiz screen" loading="lazy" style="width:100%;height:100%;object-fit:cover;object-position:top;display:block;" />
               </div>
             </div>
             <div class="showcase-label">Quiz</div>
@@ -723,7 +724,7 @@
           <div class="showcase-phone">
             <div class="showcase-frame">
               <div class="showcase-screen">
-                <img src="assets/img/screens/screen-prayer.jpg" alt="Prayer times detail screen" loading="lazy" style="width:100%;height:100%;object-fit:cover;object-position:top;display:block;" />
+                <img src="assets/img/screens/screen-prayer.webp" alt="Prayer times detail screen" loading="lazy" style="width:100%;height:100%;object-fit:cover;object-position:top;display:block;" />
               </div>
             </div>
             <div class="showcase-label">Prayer Times</div>
@@ -749,7 +750,7 @@
 
         <div class="prayer-section__visual" data-reveal-right>
           <div class="prayer-phone-frame">
-            <img src="assets/img/screens/screen-prayer.jpg" alt="DeenPal prayer times screen" loading="lazy" />
+            <img src="assets/img/screens/screen-prayer.webp" alt="DeenPal prayer times screen" loading="lazy" />
           </div>
         </div>
       </div>
@@ -881,7 +882,7 @@
       <div class="footer__top">
         <div class="footer__brand">
           <a href="/" class="nav__logo">
-            <span class="nav__logo-icon"><img src="assets/img/icon.webp" alt="" width="24" height="24" style="border-radius:6px;display:block;object-fit:cover;" /></span>
+            <span class="nav__logo-icon"><img src="assets/img/icon-nav.webp" alt="" width="24" height="24" style="border-radius:6px;display:block;object-fit:cover;" /></span>
             <span class="nav__logo-text">DeenPal</span>
           </a>
           <p class="footer__tagline">Your AI-powered Islamic companion. Deepen your deen, every single day.</p>
