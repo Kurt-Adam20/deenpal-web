@@ -27,10 +27,24 @@
       "Bash(git checkout *)",
       "Bash(git config *)",
       "Bash(git add *)",
-      "Bash(git commit -m ' *)"
+      "Bash(git commit -m ' *)",
+      "Bash(git remote *)",
+      "Bash(git push *)",
+      "WebFetch(domain:www.calai.app)",
+      "Bash(python3)",
+      "Bash(~/.local/bin/gh run *)",
+      "Bash(~/.local/bin/gh api *)",
+      "Bash(~/.local/bin/gh workflow *)",
+      "Bash(git commit *)",
+      "Bash(git pull *)",
+      "Bash(git stash *)",
+      "Bash(convert --version)",
+      "Bash(python3 -c \"from PIL import Image; print\\('PIL ok'\\)\")",
+      "Bash(xargs sed *)"
     ],
     "additionalDirectories": [
-      "/home/suleyman/DeenPal Web/assets"
+      "/home/suleyman/DeenPal Web/assets",
+      "/home/suleyman/DeenPal Web/favicon"
     ]
   }
 }
