@@ -3,38 +3,61 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
+
   <title>DeenPal — Application Islamique IA pour iPhone</title>
-  <meta name="description" content="DeenPal est la meilleure application islamique IA pour iPhone. Horaires de prière GPS, Coran quotidien, Q&R islamique IA (Rafiq & Hakim), quiz quotidien et actualités. Téléchargement gratuit." />
-  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large" />
+  <meta name="description" content="DeenPal est la #1 application islamique IA pour iPhone. Horaires de prière GPS, Coran quotidien, Q&amp;R islamique IA (Rafiq &amp; Hakim), quiz quotidien et actualités. Téléchargement gratuit." />
+  <meta name="keywords" content="application islamique, application musulmane, horaires de prière, application Coran, assistant islamique IA, DeenPal, IA halal, Q&R islamique, fiqh, suivi de prière, quiz islamique" />
+  <meta name="author" content="DeenPal" />
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+  <meta name="theme-color" content="#C9A96E" />
+  <meta name="apple-itunes-app" content="app-id=6742822690" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="DeenPal" />
   <link rel="canonical" href="https://getdeenpal.com/fr/" />
   <link rel="alternate" hreflang="en" href="https://getdeenpal.com/" />
   <link rel="alternate" hreflang="nl" href="https://getdeenpal.com/nl/" />
   <link rel="alternate" hreflang="de" href="https://getdeenpal.com/de/" />
   <link rel="alternate" hreflang="fr" href="https://getdeenpal.com/fr/" />
   <link rel="alternate" hreflang="x-default" href="https://getdeenpal.com/" />
+
+  <!-- Open Graph -->
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://getdeenpal.com/fr/" />
   <meta property="og:title" content="DeenPal — Application Islamique IA" />
-  <meta property="og:description" content="Horaires de prière GPS, Coran quotidien, Q&R islamique IA, quiz et actualités. Gratuit sur iPhone." />
+  <meta property="og:description" content="Horaires de prière GPS, Coran quotidien, Q&amp;R islamique IA, quiz quotidien et actualités. Gratuit sur iPhone." />
   <meta property="og:image" content="https://getdeenpal.com/assets/img/og-image.jpg" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
   <meta property="og:site_name" content="DeenPal" />
   <meta property="og:locale" content="fr_FR" />
+
+  <!-- Twitter / X -->
   <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@DeenPalApp" />
   <meta name="twitter:title" content="DeenPal — Application Islamique IA" />
-  <meta name="twitter:description" content="Horaires de prière GPS, Coran quotidien, Q&R islamique IA. Gratuit sur iPhone." />
+  <meta name="twitter:description" content="Horaires de prière GPS, Coran quotidien, Q&amp;R islamique IA, quiz et actualités. Gratuit sur iPhone." />
   <meta name="twitter:image" content="https://getdeenpal.com/assets/img/og-image.jpg" />
-  <meta name="theme-color" content="#C9A96E" />
-  <meta name="apple-itunes-app" content="app-id=6742822690" />
+
+  <!-- Icons -->
   <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
   <link rel="shortcut icon" href="/favicon.ico" />
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.webp" />
   <link rel="manifest" href="/site.webmanifest" />
+
+  <!-- Preload hero image (LCP optimisation) -->
+  <link rel="preload" as="image" href="../assets/img/screens/screen-home.webp" />
+
+  <!-- Fonts — async to avoid render blocking -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=IBM+Plex+Mono:wght@400;500;600&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'" />
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=IBM+Plex+Mono:wght@400;500;600&display=swap" /></noscript>
+
   <link rel="stylesheet" href="../assets/css/style.css" />
+
+  <!-- Schema: SoftwareApplication -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -42,227 +65,579 @@
     "name": "DeenPal",
     "url": "https://getdeenpal.com",
     "downloadUrl": "https://apps.apple.com/app/deenpal/id6742822690",
-    "description": "Application islamique IA avec horaires de prière GPS, Coran quotidien, Q&R islamique (Rafiq & Hakim), quiz quotidien et actualités.",
+    "description": "Application islamique IA avec horaires de prière GPS, versets du Coran quotidiens avec explication IA, Q&R islamique (Rafiq & Hakim), quiz quotidien et actualités.",
     "operatingSystem": "iOS 16.0+",
     "applicationCategory": "LifestyleApplication",
     "inLanguage": ["fr", "en", "ar"],
-    "offers": { "@type": "Offer", "price": "0", "priceCurrency": "EUR", "availability": "https://schema.org/InStock" },
-    "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "ratingCount": "500", "bestRating": "5" }
+    "offers": { "@type": "Offer", "price": "0", "priceCurrency": "EUR", "availability": "https://schema.org/InStock", "url": "https://apps.apple.com/app/deenpal/id6742822690" },
+    "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "ratingCount": "500", "bestRating": "5", "worstRating": "1" },
+    "publisher": { "@type": "Organization", "name": "DeenPal", "url": "https://getdeenpal.com" }
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      { "@type": "Question", "name": "Qu'est-ce que DeenPal ?", "acceptedAnswer": { "@type": "Answer", "text": "DeenPal est une application islamique IA gratuite pour iPhone. L'application offre des horaires de prière GPS, des versets du Coran quotidiens avec explication IA, une Q&R islamique en deux modes (Rafiq pour les questions quotidiennes, Hakim pour l'analyse fiqh savante), un quiz islamique quotidien, la direction de la Qibla et des actualités sélectionnées." } },
+      { "@type": "Question", "name": "DeenPal est-il gratuit ?", "acceptedAnswer": { "@type": "Answer", "text": "Oui, DeenPal est gratuit à télécharger sur l'App Store. La version gratuite comprend les horaires de prière, le Coran quotidien, la Qibla, le quiz quotidien, les actualités et un chat IA limité. Premium débloque les réponses IA illimitées, le mode Hakim, la comparaison fiqh cross-madhab et un plan de croissance personnel quotidien." } },
+      { "@type": "Question", "name": "Quelle est la précision des horaires de prière ?", "acceptedAnswer": { "@type": "Answer", "text": "DeenPal calcule les horaires de prière à partir de votre position GPS pour une précision maximale. L'application fonctionne pour toutes les villes du monde." } }
+    ]
   }
   </script>
   <!-- Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-X7SP69NJ72"></script>
-  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-X7SP69NJ72');</script>
-  <style>
-    .lang-hero { padding: 140px 0 80px; text-align: center; }
-    .lang-hero__eyebrow { font-size: 13px; font-weight: 700; color: #C9A96E; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 20px; display: block; }
-    .lang-hero__title { font-size: clamp(40px, 7vw, 76px); font-weight: 900; letter-spacing: -2.5px; line-height: 1.05; color: var(--text); margin-bottom: 24px; }
-    .lang-hero__title span { color: #C9A96E; }
-    .lang-hero__sub { font-size: 19px; color: var(--text-secondary); max-width: 580px; margin: 0 auto 40px; line-height: 1.6; }
-    .lang-hero__actions { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
-    .lang-section { padding: 100px 0; }
-    .lang-section__title { font-size: clamp(28px, 4vw, 44px); font-weight: 900; letter-spacing: -1px; color: var(--text); text-align: center; margin-bottom: 16px; }
-    .lang-section__sub { font-size: 17px; color: var(--text-secondary); text-align: center; max-width: 520px; margin: 0 auto 56px; line-height: 1.6; }
-    .feat-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
-    .feat-card { background: var(--surface); border: 1px solid var(--border); border-radius: 20px; padding: 28px; }
-    .feat-card__icon { font-size: 28px; margin-bottom: 16px; }
-    .feat-card__title { font-size: 17px; font-weight: 700; color: var(--text); margin-bottom: 8px; }
-    .feat-card__text { font-size: 14px; color: var(--text-secondary); line-height: 1.65; }
-    .ai-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-top: 48px; }
-    .ai-card { background: var(--surface); border: 1px solid rgba(201,169,110,0.2); border-radius: 20px; padding: 32px; }
-    .ai-card__badge { font-size: 11px; font-weight: 700; color: #C9A96E; text-transform: uppercase; letter-spacing: 0.6px; margin-bottom: 12px; display: block; }
-    .ai-card__title { font-size: 22px; font-weight: 800; color: var(--text); margin-bottom: 10px; }
-    .ai-card__text { font-size: 15px; color: var(--text-secondary); line-height: 1.65; }
-    .faq-item { border-bottom: 1px solid var(--border); padding: 24px 0; }
-    .faq-item:last-child { border-bottom: none; }
-    .faq-item__q { font-size: 17px; font-weight: 700; color: var(--text); margin-bottom: 10px; }
-    .faq-item__a { font-size: 15px; color: var(--text-secondary); line-height: 1.7; }
-    .cta-box { background: var(--surface); border: 1px solid rgba(201,169,110,0.25); border-radius: 24px; padding: 56px; text-align: center; }
-    .cta-box__title { font-size: clamp(26px, 4vw, 40px); font-weight: 900; color: var(--text); letter-spacing: -1px; margin-bottom: 16px; }
-    .cta-box__text { font-size: 17px; color: var(--text-secondary); margin-bottom: 32px; }
-    .lang-nav { display: flex; gap: 16px; justify-content: center; padding: 12px 0; flex-wrap: wrap; }
-    .lang-nav a { font-size: 13px; color: var(--text-secondary); text-decoration: none; padding: 6px 14px; border: 1px solid var(--border); border-radius: 20px; transition: all 0.2s; }
-    .lang-nav a:hover, .lang-nav a.active { border-color: #C9A96E; color: #C9A96E; }
-    @media (max-width: 900px) { .feat-grid { grid-template-columns: repeat(2, 1fr); } }
-    @media (max-width: 600px) { .feat-grid { grid-template-columns: 1fr; } .ai-grid { grid-template-columns: 1fr; } .cta-box { padding: 36px 24px; } }
-  </style>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-X7SP69NJ72');
+  </script>
 </head>
+
 <body>
-  <nav class="nav" id="nav" role="navigation">
+
+  <!-- ══ NAVIGATION ═══════════════════════════════════════════════════════ -->
+  <nav class="nav" id="nav" role="navigation" aria-label="Navigation principale">
     <div class="nav__inner container">
-      <a href="/" class="nav__logo">
-        <span class="nav__logo-icon"><img src="../assets/img/icon-nav.webp" alt="" width="28" height="28" style="border-radius:7px;display:block;" /></span>
+      <a href="/fr/" class="nav__logo" aria-label="DeenPal Accueil">
+        <span class="nav__logo-icon" aria-hidden="true">
+          <img src="../assets/img/icon-nav.webp" alt="" width="28" height="28" style="border-radius:7px;display:block;object-fit:cover;" />
+        </span>
         <span class="nav__logo-text">DeenPal</span>
       </a>
-      <button class="nav__hamburger" id="hamburger" aria-label="Menu" aria-expanded="false"><span></span><span></span><span></span></button>
+
+      <button class="nav__hamburger" id="hamburger" aria-label="Ouvrir le menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+
       <ul class="nav__links" id="navLinks" role="list">
-        <li><a href="#fonctionnalites" class="nav__link">Fonctionnalités</a></li>
-        <li><a href="#ia" class="nav__link">IA</a></li>
-        <li><a href="/blog/" class="nav__link">Blog</a></li>
+        <li><a href="#features" class="nav__link">Fonctionnalités</a></li>
+        <li><a href="#ai-modes" class="nav__link">IA</a></li>
+        <li><a href="#screens" class="nav__link">Écrans</a></li>
+        <li><a href="/fr/blog/" class="nav__link">Blog</a></li>
         <li><a href="#faq" class="nav__link">FAQ</a></li>
       </ul>
+
       <div class="nav__actions">
-        <button class="theme-toggle" id="themeToggle" aria-label="Changer le thème">
-          <span class="theme-toggle__icon theme-toggle__sun"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg></span>
-          <span class="theme-toggle__icon theme-toggle__moon"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></span>
+        <button class="theme-toggle" id="themeToggle" aria-label="Changer le mode clair/sombre">
+          <span class="theme-toggle__icon theme-toggle__sun" aria-hidden="true">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+          </span>
+          <span class="theme-toggle__icon theme-toggle__moon" aria-hidden="true">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+          </span>
         </button>
         <a href="#download" class="btn btn--gold btn--sm">Télécharger gratuitement</a>
       </div>
     </div>
   </nav>
 
-  <main>
-    <section class="lang-hero container">
-      <span class="lang-hero__eyebrow">★★★★★ 4,9 · Fait confiance par les musulmans du monde entier</span>
-      <h1 class="lang-hero__title">Votre Compagnon<br/><span>Islamique</span><br/>Intelligent</h1>
-      <p class="lang-hero__sub">Horaires de prière GPS, Coran quotidien avec explication IA, Q&R islamique, quiz quotidien et actualités — tout dans une application gratuite pour iPhone.</p>
-      <div class="lang-hero__actions">
-        <a href="https://apps.apple.com/app/deenpal/id6742822690" class="btn btn--gold" target="_blank" rel="noopener">
-          <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" style="margin-right:8px;vertical-align:-3px"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.8-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/></svg>
-          Télécharger sur App Store
-        </a>
-        <a href="/fr/blog/" class="btn btn--secondary">Lire notre blog</a>
-      </div>
-      <nav class="lang-nav" aria-label="Choisir la langue">
-        <a href="/">🇬🇧 English</a>
-        <a href="/nl/">🇳🇱 Nederlands</a>
-        <a href="/de/">🇩🇪 Deutsch</a>
-        <a href="/fr/" class="active">🇫🇷 Français</a>
-      </nav>
+  <main id="main-content">
+
+    <!-- ══ HERO ══════════════════════════════════════════════════════════ -->
+    <section class="hero" id="hero" aria-label="Hero">
+      <div class="container hero__inner">
+
+        <!-- Left: text -->
+        <div class="hero__content" data-reveal>
+          <span class="hero__badge">
+            <span class="hero__badge-dot"></span>
+            Disponible maintenant sur iPhone
+          </span>
+
+          <h1 class="hero__title">
+            Approfondissez Votre Deen<br />
+            <span class="hero__title-gold">Avec l'IA À Vos Côtés.</span>
+          </h1>
+
+          <p class="hero__desc">
+            DeenPal est votre compagnon islamique tout-en-un — horaires de prière précis, versets du Coran quotidiens, Q&amp;R islamique IA, quiz quotidiens et actualités sélectionnées.
+          </p>
+
+          <div class="hero__cta">
+            <a href="#download" class="btn btn--gold btn--lg">
+              <svg class="btn__icon" viewBox="0 0 24 24" fill="currentColor"><path d="M18.71 19.5C17.88 20.74 17 21.95 15.66 21.97C14.32 22 13.89 21.18 12.37 21.18C10.84 21.18 10.37 21.95 9.1 22C7.78 22.05 6.8 20.68 5.96 19.47C4.25 17 2.94 12.45 4.7 9.39C5.57 7.87 7.13 6.91 8.82 6.88C10.1 6.86 11.32 7.75 12.11 7.75C12.89 7.75 14.37 6.68 15.92 6.84C16.57 6.87 18.39 7.1 19.56 8.82C19.47 8.88 17.39 10.1 17.41 12.63C17.44 15.65 20.06 16.66 20.09 16.67C20.06 16.74 19.67 18.11 18.71 19.5ZM13 3.5C13.73 2.67 14.94 2.04 15.94 2C16.07 3.17 15.6 4.35 14.9 5.19C14.21 6.04 13.07 6.7 11.95 6.61C11.8 5.46 12.36 4.26 13 3.5Z"/></svg>
+              App Store
+            </a>
+          </div>
+
+          <div class="hero__social-proof">
+            <span class="hero__stars" aria-label="Note 5 étoiles">★★★★★</span>
+            <span class="hero__rating-text">4,9 · Fait confiance par les musulmans du monde entier</span>
+          </div>
+        </div>
+
+        <!-- Right: 3-D phone trio -->
+        <div class="hero__mockup" data-reveal-right aria-label="Écrans de l'application DeenPal">
+          <div class="phone-trio">
+
+            <div class="trio-phone trio-phone--left" aria-hidden="true">
+              <div class="trio-phone__inner trio-phone__inner--img">
+                <img src="../assets/img/screens/screen-rafiq.webp" alt="" width="230" height="470" style="width:100%;height:100%;object-fit:cover;object-position:top;display:block;" />
+              </div>
+            </div>
+
+            <div class="trio-phone trio-phone--center" aria-label="Écran d'accueil DeenPal">
+              <div class="trio-phone__inner trio-phone__inner--img">
+                <img src="../assets/img/screens/screen-home.webp" alt="Écran d'accueil DeenPal" width="260" height="530" style="width:100%;height:100%;object-fit:cover;object-position:top;display:block;" />
+              </div>
+            </div>
+
+            <div class="trio-card trio-card--verse" aria-hidden="true">
+              <div class="trio-card__label">Verset du Jour</div>
+              <div class="trio-card__text">« En vérité, avec la difficulté vient la facilité. »</div>
+              <div class="trio-card__ref">Al-Inshirah · 94:6</div>
+            </div>
+
+            <div class="trio-card trio-card--prayer" aria-hidden="true">
+              <span class="trio-card__icon">🕌</span>
+              <div>
+                <div class="trio-card__label">Prière Suivante</div>
+                <div class="trio-card__value">Asr · -01:47</div>
+              </div>
+            </div>
+
+          </div><!-- /phone-trio -->
+
+          <div style="display:none" aria-hidden="true">
+            <div id="screensTrack">
+              <div class="screen-slide">
+                <div class="scr scr--welcome">
+                  <svg class="welcome-mountains" viewBox="0 0 280 560" fill="none" preserveAspectRatio="none">
+                    <circle cx="28" cy="50" r="1.5" fill="#C9A96E" opacity="0.6"/><circle cx="70" cy="28" r="1" fill="#FFF" opacity="0.4"/><circle cx="154" cy="38" r="1.5" fill="#FFF" opacity="0.3"/><circle cx="201" cy="22" r="1" fill="#C9A96E" opacity="0.5"/><circle cx="246" cy="55" r="1" fill="#FFF" opacity="0.4"/><circle cx="112" cy="18" r="1" fill="#FFF" opacity="0.3"/>
+                    <path d="M0,560 L0,210 L42,150 L84,170 L134,70 L182,115 L224,40 L280,105 L280,560 Z" fill="#1A1A1A" opacity="0.5"/>
+                    <path d="M0,560 L0,290 L56,220 L118,255 L162,178 L210,228 L280,198 L280,560 Z" fill="#111111" opacity="0.7"/>
+                  </svg>
+                  <div class="welcome-lang">🇫🇷 FR</div>
+                  <div class="welcome-center">
+                    <div class="welcome-logo-wrap">
+                      <svg width="72" height="72" viewBox="0 0 72 72" fill="none"><circle cx="36" cy="36" r="34" stroke="#C9A96E" stroke-width="1.5"/><path d="M36 12C36 12 22 20 22 31C22 40 27.5 44 36 44C44.5 44 50 40 50 31C50 20 36 12 36 12Z" fill="#C9A96E" opacity="0.9"/><path d="M46 18C50 22 52 27 52 32C52 40 47 44.5 39 45" stroke="#0D0D0D" stroke-width="1" stroke-linecap="round" opacity="0.3"/></svg>
+                    </div>
+                    <div class="welcome-app-name">DeenPal</div>
+                    <div class="welcome-tagline">Votre compagnon IA pour l'islam, ancré dans le Coran, le Hadith &amp; la science de confiance.</div>
+                    <button class="welcome-start-btn">Commencer →</button>
+                    <div class="welcome-signin">Déjà un compte ? <span>Se connecter</span></div>
+                  </div>
+                </div>
+              </div>
+              <div class="screen-slide">
+                <div class="scr scr--home">
+                  <div class="home-glow"></div>
+                  <div class="home-hdr"><div class="home-hdr-left"><div class="home-hdr-dot"></div><span class="home-hdr-title">DeenPal</span></div><div class="home-hdr-right"><div class="home-hdr-icon"></div><div class="home-hdr-icon"></div></div></div>
+                  <div class="home-greet"><div class="home-greet-main">SubhanAllah ☀️</div><div class="home-greet-sub">Que ta journée soit pleine de barakah.</div></div>
+                  <div class="home-prayer-card">
+                    <div class="home-prayer-card-hdr"><span style="font-weight:700;color:#fff;font-size:13px">Horaires de prière</span><span style="font-size:11px;color:#C9A96E">Détails →</span></div>
+                    <div class="home-arc-next">PRIÈRE ASR</div>
+                    <div class="home-arc-wrap">
+                      <svg viewBox="0 0 260 120" fill="none" style="width:100%;display:block"><path d="M18 105 Q130 8 242 105" stroke="rgba(255,255,255,0.08)" stroke-width="3.5" stroke-linecap="round"/><path d="M18 105 Q130 8 242 105" stroke="#C9A96E" stroke-width="3.5" stroke-linecap="round" stroke-dasharray="270" stroke-dashoffset="90"/><circle cx="18" cy="105" r="14" fill="rgba(52,199,89,0.12)" stroke="#34C759" stroke-width="1.5"/><text x="18" y="110" text-anchor="middle" fill="#34C759" font-size="10" font-family="sans-serif">✓</text><circle cx="71" cy="48" r="14" fill="rgba(52,199,89,0.12)" stroke="#34C759" stroke-width="1.5"/><text x="71" y="53" text-anchor="middle" fill="#34C759" font-size="10" font-family="sans-serif">✓</text><circle cx="130" cy="22" r="16" fill="#C9A96E"/><text x="130" y="28" text-anchor="middle" fill="#0D0D0D" font-size="11" font-weight="bold" font-family="sans-serif">◐</text><circle cx="189" cy="48" r="14" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.18)" stroke-width="1.5"/><text x="189" y="53" text-anchor="middle" fill="rgba(255,255,255,0.3)" font-size="11" font-family="sans-serif">◑</text><circle cx="242" cy="105" r="14" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="1.5"/><text x="242" y="110" text-anchor="middle" fill="rgba(255,255,255,0.25)" font-size="9" font-family="sans-serif">☽</text></svg>
+                      <div class="home-arc-countdown">-01:47:22</div>
+                    </div>
+                  </div>
+                  <div class="home-ayah"><div class="home-ayah-badge">Verset du Jour · 13 mai</div><div class="home-ayah-text">« En vérité, avec la difficulté vient la facilité. »</div><div class="home-ayah-ref">Al-Inshirah · 94:6</div><div class="home-ayah-btns"><div class="home-ayah-btn">Expliquer</div><div class="home-ayah-sep"></div><div class="home-ayah-btn">Partager</div></div></div>
+                </div>
+              </div>
+              <div class="screen-slide">
+                <div class="scr scr--chat">
+                  <div class="chat-scr-hdr"><div class="chat-scr-back">←</div><div class="chat-scr-ai"><div class="chat-scr-avatar">ر</div><div><div class="chat-scr-name">Rafiq</div><div class="chat-scr-status">● En ligne</div></div></div><div class="chat-scr-switch">Hakim</div></div>
+                  <div class="chat-scr-body"><div class="chat-scr-chips"><div class="chat-scr-chip">Qu'invalide le wudu ?</div><div class="chat-scr-chip">La musique est-elle haram ?</div><div class="chat-scr-chip">Piliers de l'islam ?</div></div><div class="chat-scr-msgs"><div class="chat-scr-msg chat-scr-msg--user">Puis-je écouter de la musique ?</div><div class="chat-scr-msg chat-scr-msg--ai"><div class="chat-scr-ainame">Rafiq</div>Les savants ont des <strong>avis différents</strong> à ce sujet. La musique au contenu indécent est généralement interdite, tandis que les mélodies simples sont débattues entre les madhabs...<div class="chat-scr-sources">📎 3 sources</div></div><div class="chat-scr-followups"><div class="chat-scr-fu">Qu'en est-il des nasheeds ?</div><div class="chat-scr-fu">Voir les sources hadith</div></div></div></div>
+                  <div class="chat-scr-inputbar"><div class="chat-scr-modebadge"><span class="chat-scr-modedot"></span> Rafiq</div><div class="chat-scr-inputfield">Posez une question...</div><div class="chat-scr-sendbtn">↑</div></div>
+                </div>
+              </div>
+              <div class="screen-slide">
+                <div class="scr scr--quiz">
+                  <div class="quiz-scr-bg"></div>
+                  <div class="quiz-scr-hdr"><div class="quiz-scr-close">✕</div><div class="quiz-scr-pbar"><div class="quiz-scr-pfill" style="width:40%"></div></div><div class="quiz-scr-streak">3 🔥</div></div>
+                  <div class="quiz-scr-body"><div class="quiz-scr-num">Question 2 sur 5</div><div class="quiz-scr-question">Quelle prière est accomplie à l'aube ?</div><div class="quiz-scr-hint">💡 C'est la première des cinq prières quotidiennes.</div><div class="quiz-scr-options"><div class="quiz-scr-opt">A  Dhuhr</div><div class="quiz-scr-opt">B  Asr</div><div class="quiz-scr-opt quiz-scr-opt--correct">C  Fajr ✓</div><div class="quiz-scr-opt quiz-scr-opt--wrong">D  Isha ✗</div></div><div class="quiz-scr-explanation">Fajr est la première prière quotidienne, accomplie avant le lever du soleil. Elle comprend deux rakats et marque le début de la journée musulmane.</div></div>
+                </div>
+              </div>
+              <div class="screen-slide">
+                <div class="scr scr--premium">
+                  <div class="prem-bg-img"></div><div class="prem-overlay"></div>
+                  <div class="prem-nav"><div class="prem-close">✕</div><div class="prem-restore">Restaurer</div></div>
+                  <div class="prem-brand"><span class="prem-name">deenpal</span><span class="prem-pro">PRO</span></div>
+                  <div class="prem-subtitle">Débloquez l'assistant de recherche islamique le plus puissant</div>
+                  <div class="prem-feats"><div class="prem-feat"><span class="prem-check">✓</span>Réponses IA illimitées avec de vraies sources</div><div class="prem-feat"><span class="prem-check">✓</span>Deux modes IA (Rafiq &amp; Hakim)</div><div class="prem-feat"><span class="prem-check">✓</span>Comparaison fiqh entre les madhabs</div><div class="prem-feat"><span class="prem-check">✓</span>Plan de croissance quotidien &amp; réflexion</div></div>
+                  <div class="prem-plans"><div class="prem-plan"><div class="prem-plan-name">Mensuel</div><div class="prem-plan-price">€4,99</div><div class="prem-plan-per">/ mois</div></div><div class="prem-plan prem-plan--sel"><div class="prem-plan-name">Annuel</div><div class="prem-plan-price">€2,99</div><div class="prem-plan-per">/ mois</div><div class="prem-save">Économisez 40%</div><div class="prem-check-badge">✓</div></div></div>
+                  <div class="prem-subscribe">Commencer l'essai gratuit →</div>
+                  <div class="prem-cancel">Annulable à tout moment · Sans engagement</div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div><!-- /hero__mockup -->
+      </div><!-- /hero__inner -->
+
     </section>
 
-    <section class="lang-section" id="fonctionnalites">
+    <!-- ══ FEATURES ══════════════════════════════════════════════════════════ -->
+    <section class="features section" id="features" aria-labelledby="features-heading">
       <div class="container">
-        <h2 class="lang-section__title">Tout ce dont vous avez besoin pour votre deen</h2>
-        <p class="lang-section__sub">DeenPal combine la puissance de l'IA avec la connaissance islamique authentique — pour approfondir votre foi à votre propre rythme.</p>
-        <div class="feat-grid">
-          <div class="feat-card">
-            <div class="feat-card__icon">🕌</div>
-            <div class="feat-card__title">Horaires de prière GPS</div>
-            <div class="feat-card__text">Horaires précis pour Fajr, Dhuhr, Asr, Maghrib et Isha selon votre localisation. Avec notifications pour ne jamais manquer une prière.</div>
+        <div class="section__head" data-reveal>
+          <h2 class="section__title" id="features-heading">Votre Boîte À Outils Islamique Complète</h2>
+          <p class="section__desc">Six fonctionnalités puissantes, magnifiquement conçues — le tout dans une seule application.</p>
+        </div>
+
+        <div class="features__grid">
+          <article class="feature-card feature-card--large" data-reveal>
+            <div class="feature-card__icon feature-card__icon--prayer">
+              <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="M3 21l9-18 9 18M5.5 16.5h13"/></svg>
+            </div>
+            <h3 class="feature-card__title">Horaires de prière</h3>
+            <p class="feature-card__desc">Magnifique visualisation en arc montrant les 5 prières quotidiennes, un compte à rebours en direct jusqu'à la prochaine prière et un suivi simplifié. Votre GPS assure une précision absolue partout dans le monde.</p>
+            <div class="feature-card__tags">
+              <span class="tag">Localisation GPS</span>
+              <span class="tag">Compte à rebours</span>
+              <span class="tag">Suivi de prière</span>
+            </div>
+          </article>
+
+          <article class="feature-card feature-card--large" data-reveal>
+            <div class="feature-card__icon feature-card__icon--ai">
+              <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><circle cx="12" cy="12" r="3"/><path d="M12 1v4M12 19v4M4.22 4.22l2.83 2.83M16.95 16.95l2.83 2.83M1 12h4M19 12h4M4.22 19.78l2.83-2.83M16.95 7.05l2.83-2.83"/></svg>
+            </div>
+            <h3 class="feature-card__title">Q&amp;R Islamique IA</h3>
+            <p class="feature-card__desc">Posez n'importe quelle question islamique et obtenez des réponses appuyées par de vraies sources. Choisissez Rafiq pour une guidance quotidienne ou Hakim pour une analyse fiqh savante approfondie sur tous les madhabs.</p>
+            <div class="feature-card__tags">
+              <span class="tag">Mode Rafiq</span>
+              <span class="tag">Mode Hakim</span>
+              <span class="tag">Vraies sources</span>
+            </div>
+          </article>
+
+          <article class="feature-card" data-reveal>
+            <div class="feature-card__icon feature-card__icon--quran">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+            </div>
+            <h3 class="feature-card__title">Verset du Jour</h3>
+            <p class="feature-card__desc">Un nouveau verset coranique chaque jour. Appuyez pour obtenir une explication IA ou partagez-le joliment avec vos amis.</p>
+          </article>
+
+          <article class="feature-card" data-reveal>
+            <div class="feature-card__icon feature-card__icon--quiz">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="M12 20h9"/><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/></svg>
+            </div>
+            <h3 class="feature-card__title">Quiz islamique quotidien</h3>
+            <p class="feature-card__desc">Testez vos connaissances avec des quiz quotidiens. Constituez des séries, suivez vos progrès hebdomadaires et progressez régulièrement.</p>
+          </article>
+
+          <article class="feature-card" data-reveal>
+            <div class="feature-card__icon feature-card__icon--news">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+            </div>
+            <h3 class="feature-card__title">Découvrir</h3>
+            <p class="feature-card__desc">Actualités sélectionnées depuis des sources islamiques et mondiales de confiance — Muslim Matters, Al Jazeera, TRT World, Yaqeen Institute et plus.</p>
+          </article>
+
+          <article class="feature-card" data-reveal>
+            <div class="feature-card__icon feature-card__icon--privacy">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+            </div>
+            <h3 class="feature-card__title">La vie privée d'abord</h3>
+            <p class="feature-card__desc">Vos conversations, journaux de prière et données personnelles restent privés. Nous ne vendons jamais vos données.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- ══ AI MODES ═══════════════════════════════════════════════════════ -->
+    <section class="ai-section section" id="ai-modes" aria-labelledby="ai-heading">
+      <div class="container">
+        <div class="section__head" data-reveal>
+          <h2 class="section__title" id="ai-heading">Deux Modes, Un Compagnon</h2>
+          <p class="section__desc">DeenPal vous offre deux personnalités IA distinctes, chacune conçue pour un type différent de guidance islamique.</p>
+        </div>
+
+        <div class="ai-modes">
+          <article class="ai-card" data-reveal>
+            <div class="ai-card__header">
+              <div class="ai-card__avatar ai-card__avatar--rafiq">ر</div>
+              <div>
+                <h3 class="ai-card__name">Rafiq</h3>
+                <span class="ai-card__arabic">رفيق — Compagnon</span>
+              </div>
+            </div>
+            <p class="ai-card__desc">Votre ami islamique au quotidien. Rafiq répond à vos questions quotidiennes de manière chaleureuse et accessible — que ce soit sur la salah, le jeûne, la charité ou la vie en tant que musulman dans le monde moderne.</p>
+            <ul class="ai-card__list" role="list">
+              <li>Guidance islamique quotidienne</li>
+              <li>Ton amical et accessible</li>
+              <li>Questions de la vie quotidienne</li>
+              <li>Questions halal/haram</li>
+            </ul>
+            <div class="ai-card__demo">
+              <div class="chat-bubble chat-bubble--user">Puis-je écouter de la musique ?</div>
+              <div class="chat-bubble chat-bubble--ai">
+                <span class="chat-bubble__name">Rafiq</span>
+                Les savants ont des avis différents à ce sujet. En général, la musique au contenu indécent est considérée comme illicite, tandis que les mélodies simples sans contenu nuisible sont débattues...
+              </div>
+            </div>
+          </article>
+
+          <article class="ai-card ai-card--hakim" data-reveal>
+            <div class="ai-card__header">
+              <div class="ai-card__avatar ai-card__avatar--hakim">ح</div>
+              <div>
+                <h3 class="ai-card__name">Hakim</h3>
+                <span class="ai-card__arabic">حكيم — Le Sage</span>
+              </div>
+            </div>
+            <p class="ai-card__desc">Votre IA savante. Hakim fournit une analyse fiqh approfondie, comparant les avis de tous les quatre grands madhabs — Hanafi, Maliki, Shafi'i et Hanbali — avec des citations de la science classique.</p>
+            <ul class="ai-card__list" role="list">
+              <li>Comparaison fiqh cross-madhab</li>
+              <li>Références à la science classique</li>
+              <li>Analyse théologique approfondie</li>
+              <li>Aide à la recherche de fatwas</li>
+            </ul>
+            <div class="ai-card__demo">
+              <div class="chat-bubble chat-bubble--user">Que disent les 4 madhabs sur la prière witr ?</div>
+              <div class="chat-bubble chat-bubble--ai">
+                <span class="chat-bubble__name">Hakim</span>
+                <strong>Hanafi :</strong> Le witr est wajib (obligatoire). <strong>Maliki :</strong> Sunna mu'akkadah. <strong>Shafi'i :</strong> Sunna. <strong>Hanbali :</strong> Wajib selon l'avis le plus fort...
+              </div>
+            </div>
+          </article>
+        </div>
+
+        <div class="ai-factcheck" data-reveal>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--gold)" stroke-width="2" stroke-linecap="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
+          <p><strong>Réponses vérifiées</strong> — DeenPal croise les réponses avec des sources islamiques de confiance et signale clairement l'incertitude lorsqu'elle existe.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ══ SCREENS SHOWCASE ═══════════════════════════════════════════════ -->
+    <section class="section" id="screens" aria-labelledby="screens-heading" style="background:var(--surface)">
+      <div class="container">
+        <div class="section__head" data-reveal>
+          <h2 class="section__title" id="screens-heading">Magnifiquement Conçu, Dedans &amp; Dehors</h2>
+          <p class="section__desc">Chaque écran créé avec soin — mode clair et sombre, animations fluides, sensation premium.</p>
+        </div>
+        <div class="screens-showcase" data-reveal>
+          <div class="showcase-phone">
+            <div class="showcase-frame"><div class="showcase-screen"><img src="../assets/img/screens/screen-welcome.webp" alt="Écran de bienvenue DeenPal" loading="lazy" style="width:100%;height:100%;object-fit:cover;object-position:top;display:block;" /></div></div>
+            <div class="showcase-label">Bienvenue</div>
           </div>
-          <div class="feat-card">
-            <div class="feat-card__icon">📖</div>
-            <div class="feat-card__title">Coran quotidien</div>
-            <div class="feat-card__text">Chaque matin un nouveau verset du Coran avec une explication IA sur la signification, le contexte et l'application dans la vie quotidienne.</div>
+          <div class="showcase-phone showcase-phone--main">
+            <div class="showcase-frame"><div class="showcase-screen"><img src="../assets/img/screens/screen-home.webp" alt="Écran d'accueil DeenPal" loading="lazy" style="width:100%;height:100%;object-fit:cover;object-position:top;display:block;" /></div></div>
+            <div class="showcase-label">Accueil</div>
           </div>
-          <div class="feat-card">
-            <div class="feat-card__icon">🤖</div>
-            <div class="feat-card__title">Q&R Islamique IA</div>
-            <div class="feat-card__text">Posez des questions sur le fiqh, le wudu, la prière, le halal/haram et plus. Rafiq répond avec bienveillance, Hakim offre une profondeur savante.</div>
+          <div class="showcase-phone">
+            <div class="showcase-frame"><div class="showcase-screen"><img src="../assets/img/screens/screen-rafiq.webp" alt="Écran Rafiq IA" loading="lazy" style="width:100%;height:100%;object-fit:cover;object-position:top;display:block;" /></div></div>
+            <div class="showcase-label">Rafiq IA</div>
           </div>
-          <div class="feat-card">
-            <div class="feat-card__icon">🧠</div>
-            <div class="feat-card__title">Quiz quotidien</div>
-            <div class="feat-card__text">Testez vos connaissances islamiques avec des questions quotidiennes sur le Coran, l'histoire et le fiqh. Construisez des séries et apprenez régulièrement.</div>
+          <div class="showcase-phone">
+            <div class="showcase-frame"><div class="showcase-screen"><img src="../assets/img/screens/screen-quiz.webp" alt="Écran quiz quotidien" loading="lazy" style="width:100%;height:100%;object-fit:cover;object-position:top;display:block;" /></div></div>
+            <div class="showcase-label">Quiz</div>
           </div>
-          <div class="feat-card">
-            <div class="feat-card__icon">📰</div>
-            <div class="feat-card__title">Actualités islamiques</div>
-            <div class="feat-card__text">Actualités islamiques et mondiales sélectionnées depuis des sources fiables. Restez informé sans ouvrir les réseaux sociaux.</div>
-          </div>
-          <div class="feat-card">
-            <div class="feat-card__icon">🧭</div>
-            <div class="feat-card__title">Direction de la Qibla</div>
-            <div class="feat-card__text">Direction précise de la Qibla via GPS et boussole, partout dans le monde. Sachez toujours où se trouve La Mecque.</div>
+          <div class="showcase-phone">
+            <div class="showcase-frame"><div class="showcase-screen"><img src="../assets/img/screens/screen-prayer.webp" alt="Écran horaires de prière" loading="lazy" style="width:100%;height:100%;object-fit:cover;object-position:top;display:block;" /></div></div>
+            <div class="showcase-label">Prières</div>
           </div>
         </div>
       </div>
     </section>
 
-    <section class="lang-section" id="ia" style="background:var(--surface);border-top:1px solid var(--border);border-bottom:1px solid var(--border);">
-      <div class="container">
-        <h2 class="lang-section__title">Deux modes IA, un seul objectif</h2>
-        <p class="lang-section__sub">Que vous ayez une question rapide ou cherchiez une analyse fiqh approfondie — DeenPal a le bon mode pour vous.</p>
-        <div class="ai-grid">
-          <div class="ai-card">
-            <span class="ai-card__badge">Mode 1</span>
-            <div class="ai-card__title">Rafiq 🤝</div>
-            <div class="ai-card__text">Votre ami islamique toujours disponible. Posez des questions en langage simple : <em>« Mon wudu est-il rompu si je saigne ? »</em>, <em>« Combien de rakah pour le tahajjud ? »</em>, <em>« Quelle est la dua avant de dormir ? »</em> — Rafiq répond clairement avec des sources du Coran et de la Sunna.</div>
-          </div>
-          <div class="ai-card">
-            <span class="ai-card__badge">Mode 2</span>
-            <div class="ai-card__title">Hakim 📚</div>
-            <div class="ai-card__text">Pour ceux qui cherchent la profondeur. Hakim compare les avis des quatre madhabs (Hanafi, Maliki, Shafi'i, Hanbali) avec des références aux savants classiques. Parfait pour les étudiants en sciences islamiques et ceux qui ont besoin d'analyses fiqh détaillées.</div>
+    <!-- ══ PRAYER SECTION ════════════════════════════════════════════════ -->
+    <section class="prayer-section section" id="prayer" aria-labelledby="prayer-heading">
+      <div class="container prayer-section__inner">
+        <div class="prayer-section__text" data-reveal>
+          <h2 class="section__title" id="prayer-heading">Un Suivi de Prière Qui Fonctionne Vraiment</h2>
+          <p class="section__desc">Le suivi de prière en arc de DeenPal vous offre une vue magnifique d'ensemble de toutes vos prières quotidiennes. Voyez ce qui est passé, ce qui vient ensuite, et enregistrez les prières accomplies d'un appui prolongé satisfaisant.</p>
+          <ul class="prayer-section__list" role="list">
+            <li><span class="prayer-list__icon">🎯</span><div><strong>Horaires précis GPS</strong> — calculés pour votre emplacement exact</div></li>
+            <li><span class="prayer-list__icon">⏱️</span><div><strong>Compte à rebours en direct</strong> — sachez toujours combien de temps jusqu'à la prochaine prière</div></li>
+            <li><span class="prayer-list__icon">✅</span><div><strong>Suivi de prière</strong> — suivez votre régularité dans le temps</div></li>
+            <li><span class="prayer-list__icon">🔔</span><div><strong>Notifications intelligentes</strong> — rappels d'adhan personnalisables</div></li>
+          </ul>
+          <a href="#download" class="btn btn--gold">Commencer le Suivi de Prière</a>
+        </div>
+
+        <div class="prayer-section__visual" data-reveal-right>
+          <div class="prayer-phone-frame">
+            <img src="../assets/img/screens/screen-prayer.webp" alt="Écran horaires de prière DeenPal" loading="lazy" />
           </div>
         </div>
       </div>
     </section>
 
-    <section class="lang-section">
+    <!-- ══ STATS ══════════════════════════════════════════════════════════ -->
+    <section class="stats-section section" aria-label="Statistiques de l'application">
       <div class="container">
-        <h2 class="lang-section__title">Guides islamiques en français</h2>
-        <p class="lang-section__sub">Connaissances islamiques pratiques pour les musulmans en France, Belgique et Suisse.</p>
-        <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:16px;max-width:720px;margin:0 auto;">
-          <a href="/fr/blog/comment-faire-wudu.html" style="background:var(--surface);border:1px solid var(--border);border-radius:16px;padding:24px;text-decoration:none;display:block;" onmouseover="this.style.borderColor='#C9A96E'" onmouseout="this.style.borderColor='var(--border)'">
-            <div style="font-size:12px;font-weight:700;color:#C9A96E;text-transform:uppercase;letter-spacing:0.5px;margin-bottom:8px;">Prière</div>
-            <div style="font-size:16px;font-weight:700;color:var(--text);margin-bottom:8px;">Comment faire le wudu : guide étape par étape</div>
-            <div style="font-size:13px;color:var(--text-secondary);">Guide complet avec textes arabes et explications</div>
-          </a>
-          <a href="/fr/blog/comment-prier-tahajjud.html" style="background:var(--surface);border:1px solid var(--border);border-radius:16px;padding:24px;text-decoration:none;display:block;" onmouseover="this.style.borderColor='#C9A96E'" onmouseout="this.style.borderColor='var(--border)'">
-            <div style="font-size:12px;font-weight:700;color:#C9A96E;text-transform:uppercase;letter-spacing:0.5px;margin-bottom:8px;">Prière</div>
-            <div style="font-size:16px;font-weight:700;color:var(--text);margin-bottom:8px;">La prière Tahajjud : guide complet</div>
-            <div style="font-size:13px;color:var(--text-secondary);">Horaire, rakah, meilleures duas et conseils</div>
-          </a>
-        </div>
-        <div style="text-align:center;margin-top:32px;"><a href="/fr/blog/" class="btn btn--secondary">Tous les articles en français</a></div>
-      </div>
-    </section>
-
-    <section class="lang-section" id="faq">
-      <div class="container" style="max-width:720px;">
-        <h2 class="lang-section__title">Questions fréquentes</h2>
-        <div style="margin-top:40px;">
-          <div class="faq-item">
-            <div class="faq-item__q">Qu'est-ce que DeenPal ?</div>
-            <div class="faq-item__a">DeenPal est une application islamique IA gratuite pour iPhone. L'application offre des horaires de prière GPS, des versets du Coran quotidiens avec explication IA, une Q&R islamique via Rafiq et Hakim, un quiz quotidien, la direction de la Qibla et des actualités sélectionnées.</div>
-          </div>
-          <div class="faq-item">
-            <div class="faq-item__q">DeenPal est-il gratuit ?</div>
-            <div class="faq-item__a">Oui. DeenPal est entièrement gratuit à télécharger. Il existe un abonnement premium (12,99€/mois ou 49,99€/an) pour l'IA illimitée, le mode Hakim et des fonctionnalités supplémentaires — avec 7 jours d'essai gratuit.</div>
-          </div>
-          <div class="faq-item">
-            <div class="faq-item__q">Quel madhab DeenPal suit-il ?</div>
-            <div class="faq-item__a">L'IA de DeenPal présente les avis des quatre grands madhabs sunnites — Hanafi, Maliki, Shafi'i et Hanbali — afin que vous puissiez suivre votre propre tradition.</div>
-          </div>
-          <div class="faq-item">
-            <div class="faq-item__q">DeenPal est-il disponible sur Android ?</div>
-            <div class="faq-item__a">Actuellement uniquement sur iPhone (iOS 16+). Une version Android est en développement.</div>
-          </div>
-          <div class="faq-item">
-            <div class="faq-item__q">Les horaires de prière sont-ils précis ?</div>
-            <div class="faq-item__a">Les horaires de prière sont calculés selon votre position GPS et la méthode de calcul choisie. Ils sont précis pour toutes les villes du monde.</div>
-          </div>
+        <div class="stats-grid">
+          <div class="stat-card" data-reveal><div class="stat-card__number">5</div><div class="stat-card__label">Prières Quotidiennes Suivies</div></div>
+          <div class="stat-card" data-reveal><div class="stat-card__number">4</div><div class="stat-card__label">Madhabs Couverts par Hakim IA</div></div>
+          <div class="stat-card" data-reveal><div class="stat-card__number">∞</div><div class="stat-card__label">Questions Islamiques Répondues</div></div>
+          <div class="stat-card" data-reveal><div class="stat-card__number">365</div><div class="stat-card__label">Versets du Coran Par An</div></div>
         </div>
       </div>
     </section>
 
-    <section class="lang-section" id="download">
+    <!-- ══ TESTIMONIALS ══════════════════════════════════════════════════ -->
+    <section class="testimonials section" id="testimonials" aria-labelledby="testimonials-heading" style="background:var(--surface)">
       <div class="container">
-        <div class="cta-box">
-          <h2 class="cta-box__title">Commencez avec DeenPal aujourd'hui</h2>
-          <p class="cta-box__text">Téléchargement gratuit. Aucune carte de crédit requise. Rejoignez des milliers de musulmans qui approfondissent leur foi avec DeenPal.</p>
-          <a href="https://apps.apple.com/app/deenpal/id6742822690" class="btn btn--gold btn--lg" target="_blank" rel="noopener">
-            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" style="margin-right:10px;vertical-align:-4px"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.8-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/></svg>
-            Télécharger gratuitement sur App Store
-          </a>
+        <div class="section__head" data-reveal>
+          <h2 class="section__title" id="testimonials-heading">Les Musulmans Adorent DeenPal</h2>
+        </div>
+        <div class="testimonials__grid">
+          <blockquote class="testimonial-card" data-reveal>
+            <div class="testimonial-card__stars">★★★★★</div>
+            <p class="testimonial-card__text">« Enfin une application islamique qui a vraiment l'air premium. La visualisation de prière est magnifique et l'IA sait vraiment de quoi elle parle. »</p>
+            <footer class="testimonial-card__author"><div class="testimonial-card__avatar">A</div><div><div class="testimonial-card__name">Abdullah M.</div><div class="testimonial-card__location">Londres, UK</div></div></footer>
+          </blockquote>
+          <blockquote class="testimonial-card" data-reveal>
+            <div class="testimonial-card__stars">★★★★★</div>
+            <p class="testimonial-card__text">« Le mode Hakim est incroyable — j'ai posé une question fiqh et j'ai reçu les positions des quatre madhabs clairement présentées. C'est révolutionnaire pour l'apprentissage. »</p>
+            <footer class="testimonial-card__author"><div class="testimonial-card__avatar">F</div><div><div class="testimonial-card__name">Fatima K.</div><div class="testimonial-card__location">Amsterdam, NL</div></div></footer>
+          </blockquote>
+          <blockquote class="testimonial-card" data-reveal>
+            <div class="testimonial-card__stars">★★★★★</div>
+            <p class="testimonial-card__text">« Le quiz quotidien me maintient dans un apprentissage régulier. J'ai maintenu une série de 30 jours et je me sens plus instruit sur mon deen que jamais. »</p>
+            <footer class="testimonial-card__author"><div class="testimonial-card__avatar">Y</div><div><div class="testimonial-card__name">Yusuf A.</div><div class="testimonial-card__location">Toronto, CA</div></div></footer>
+          </blockquote>
+          <blockquote class="testimonial-card" data-reveal>
+            <div class="testimonial-card__stars">★★★★★</div>
+            <p class="testimonial-card__text">« J'adore le Verset du Jour. Chaque matin je l'ouvre et reçois un verset qui parle exactement à ce que je vis. SubhanAllah. »</p>
+            <footer class="testimonial-card__author"><div class="testimonial-card__avatar">م</div><div><div class="testimonial-card__name">Mariam S.</div><div class="testimonial-card__location">Dubaï, UAE</div></div></footer>
+          </blockquote>
+        </div>
+      </div>
+    </section>
+
+    <!-- ══ BLOG ═══════════════════════════════════════════════════════════ -->
+    <section class="blog section" id="blog" aria-labelledby="blog-heading">
+      <div class="container">
+        <div class="section__head" data-reveal>
+          <h2 class="section__title" id="blog-heading">Du Blog DeenPal</h2>
+          <p class="section__desc">Guides islamiques pratiques, conseils sur l'application et réflexions sur la vie en tant que musulman aujourd'hui.</p>
+        </div>
+        <div class="blog__grid">
+          <article class="blog-card" data-reveal>
+            <div class="blog-card__img blog-card__img--1" role="img" aria-label="Article wudu"></div>
+            <div class="blog-card__body">
+              <span class="blog-card__cat">Prière</span>
+              <h3 class="blog-card__title"><a href="/fr/blog/comment-faire-wudu.html">Comment faire le Wudu : Guide complet étape par étape</a></h3>
+              <p class="blog-card__excerpt">Le wudu est la porte vers la prière. Apprenez les 9 étapes avec les duas arabes, les translittérations et les erreurs courantes à éviter...</p>
+              <div class="blog-card__meta"><span>7 min de lecture</span><span>·</span><time datetime="2026-05-13">13 mai 2026</time></div>
+            </div>
+          </article>
+          <article class="blog-card" data-reveal>
+            <div class="blog-card__img blog-card__img--3" role="img" aria-label="Article tahajjud"></div>
+            <div class="blog-card__body">
+              <span class="blog-card__cat">Spiritualité</span>
+              <h3 class="blog-card__title"><a href="/fr/blog/comment-prier-tahajjud.html">Comment prier Tahajjud : Le guide complet de la prière nocturne</a></h3>
+              <p class="blog-card__excerpt">Quand prier, combien de rak'ah, les meilleures duas et conseils pratiques pour se lever régulièrement pour la prière volontaire la plus aimée...</p>
+              <div class="blog-card__meta"><span>9 min de lecture</span><span>·</span><time datetime="2026-05-13">13 mai 2026</time></div>
+            </div>
+          </article>
+          <article class="blog-card" data-reveal>
+            <div class="blog-card__img blog-card__img--2" role="img" aria-label="Article blog"></div>
+            <div class="blog-card__body">
+              <span class="blog-card__cat">Technologie</span>
+              <h3 class="blog-card__title"><a href="/blog/ai-and-islamic-education.html">Comment l'IA transforme l'éducation islamique</a></h3>
+              <p class="blog-card__excerpt">L'intelligence artificielle transforme la façon dont les musulmans apprennent leur deen. Nous explorons les opportunités, les défis et l'utilisation responsable de l'IA...</p>
+              <div class="blog-card__meta"><span>6 min de lecture</span><span>·</span><time datetime="2026-04-22">22 avril 2026</time></div>
+            </div>
+          </article>
+        </div>
+        <div class="blog__footer" data-reveal><a href="/fr/blog/" class="btn btn--outline">Lire tous les articles →</a></div>
+      </div>
+    </section>
+
+    <!-- ══ FAQ ════════════════════════════════════════════════════════════ -->
+    <section class="faq section" id="faq" aria-labelledby="faq-heading" style="background:var(--bg)">
+      <div class="container">
+        <div class="section__head" data-reveal>
+          <h2 class="section__title" id="faq-heading">Questions Fréquentes</h2>
+        </div>
+        <div class="faq__list" data-reveal>
+          <details class="faq-item" open><summary class="faq-item__question">Qu'est-ce que DeenPal ?</summary><div class="faq-item__answer"><p>DeenPal est une application islamique IA pour iPhone. Elle combine les horaires de prière, les versets du Coran quotidiens, un chatbot IA pour les questions islamiques (modes Rafiq et Hakim), des quiz islamiques quotidiens et un fil d'actualités sélectionnées — le tout dans une application magnifiquement conçue.</p></div></details>
+          <details class="faq-item"><summary class="faq-item__question">DeenPal est-il gratuit ?</summary><div class="faq-item__answer"><p>Oui ! DeenPal est gratuit à télécharger et comprend les horaires de prière, le verset quotidien, le quiz quotidien, les actualités et un chat IA limité. Premium débloque l'IA illimitée, le mode savant Hakim, la comparaison fiqh cross-madhab et un plan de croissance quotidien.</p></div></details>
+          <details class="faq-item"><summary class="faq-item__question">Que sont Rafiq et Hakim ?</summary><div class="faq-item__answer"><p><strong>Rafiq</strong> (رفيق) signifie « compagnon » — mode amical pour les questions islamiques quotidiennes. <strong>Hakim</strong> (حكيم) signifie « le sage » — mode savant pour une analyse fiqh approfondie comparant les avis des quatre grands madhabs (Hanafi, Maliki, Shafi'i, Hanbali).</p></div></details>
+          <details class="faq-item"><summary class="faq-item__question">Quelle est la précision des horaires de prière ?</summary><div class="faq-item__answer"><p>DeenPal calcule les horaires de prière à partir du GPS de votre appareil pour une précision maximale. Les calculs utilisent des formules astronomiques éprouvées et supportent plusieurs méthodes de calcul. L'application fonctionne pour toutes les villes du monde.</p></div></details>
+          <details class="faq-item"><summary class="faq-item__question">DeenPal est-il disponible partout dans le monde ?</summary><div class="faq-item__answer"><p>Oui — DeenPal fonctionne pour les musulmans partout dans le monde. Les horaires de prière sont calculés pour votre emplacement GPS exact, que vous soyez à Amsterdam, Dubaï, New York ou Jakarta.</p></div></details>
+          <details class="faq-item"><summary class="faq-item__question">Mes données sont-elles privées ?</summary><div class="faq-item__answer"><p>La vie privée est une valeur fondamentale chez DeenPal. Nous ne vendons jamais vos données personnelles. Vos conversations IA et journaux de prière sont stockés en toute sécurité et ne sont jamais partagés avec des tiers.</p></div></details>
+          <details class="faq-item"><summary class="faq-item__question">Puis-je apprendre les différences fiqh entre les madhabs ?</summary><div class="faq-item__answer"><p>Absolument — c'est exactement pour cela que le mode Hakim est conçu. Posez à Hakim n'importe quelle question fiqh et il présentera clairement les positions des écoles Hanafi, Maliki, Shafi'i et Hanbali.</p></div></details>
+          <details class="faq-item"><summary class="faq-item__question">DeenPal est-il disponible sur iPhone ?</summary><div class="faq-item__answer"><p>Oui, DeenPal est disponible sur iPhone et iPad. Téléchargez-le gratuitement depuis l'App Store.</p></div></details>
+        </div>
+      </div>
+    </section>
+
+    <!-- ══ DOWNLOAD CTA ═══════════════════════════════════════════════════ -->
+    <section class="download section" id="download" aria-labelledby="download-heading" style="background:var(--surface)">
+      <div class="container">
+        <div class="download__inner" data-reveal>
+          <h2 class="download__title" id="download-heading">Votre Voyage Deen Commence Ici</h2>
+          <p class="download__desc">Téléchargez DeenPal gratuitement et rejoignez des milliers de musulmans qui approfondissent leur foi chaque jour. Disponible sur iPhone et iPad.</p>
+          <div class="download__btns">
+            <a href="https://apps.apple.com/app/deenpal/id6742822690" target="_blank" rel="noopener noreferrer" class="store-btn">
+              <svg class="store-btn__logo" viewBox="0 0 24 24" fill="currentColor"><path d="M18.71 19.5C17.88 20.74 17 21.95 15.66 21.97C14.32 22 13.89 21.18 12.37 21.18C10.84 21.18 10.37 21.95 9.1 22C7.78 22.05 6.8 20.68 5.96 19.47C4.25 17 2.94 12.45 4.7 9.39C5.57 7.87 7.13 6.91 8.82 6.88C10.1 6.86 11.32 7.75 12.11 7.75C12.89 7.75 14.37 6.68 15.92 6.84C16.57 6.87 18.39 7.1 19.56 8.82C19.47 8.88 17.39 10.1 17.41 12.63C17.44 15.65 20.06 16.66 20.09 16.67C20.06 16.74 19.67 18.11 18.71 19.5ZM13 3.5C13.73 2.67 14.94 2.04 15.94 2C16.07 3.17 15.6 4.35 14.9 5.19C14.21 6.04 13.07 6.7 11.95 6.61C11.8 5.46 12.36 4.26 13 3.5Z"/></svg>
+              <div class="store-btn__text"><span class="store-btn__sub">Télécharger sur</span><span class="store-btn__main">App Store</span></div>
+            </a>
+          </div>
+          <p class="download__note">Téléchargement gratuit · Aucune carte de crédit requise · Disponible partout dans le monde</p>
         </div>
       </div>
     </section>
   </main>
 
+  <!-- ══ FOOTER ════════════════════════════════════════════════════════════ -->
   <footer class="footer" role="contentinfo">
     <div class="container">
-      <div class="footer__bottom" style="padding-top:0;border-top:none;justify-content:center;gap:24px;flex-wrap:wrap;">
-        <a href="/" style="color:var(--text-secondary);font-size:14px">🇬🇧 English</a>
-        <a href="/nl/" style="color:var(--text-secondary);font-size:14px">🇳🇱 Nederlands</a>
-        <a href="/de/" style="color:var(--text-secondary);font-size:14px">🇩🇪 Deutsch</a>
-        <p class="footer__copy">© <span id="year"></span> DeenPal. Tous droits réservés.</p>
-        <a href="/privacy.html" style="color:var(--text-secondary);font-size:14px">Confidentialité</a>
-        <a href="/terms.html" style="color:var(--text-secondary);font-size:14px">CGU</a>
+      <div class="footer__top">
+        <div class="footer__brand">
+          <a href="/fr/" class="nav__logo">
+            <span class="nav__logo-icon"><img src="../assets/img/icon-nav.webp" alt="" width="24" height="24" style="border-radius:6px;display:block;object-fit:cover;" /></span>
+            <span class="nav__logo-text">DeenPal</span>
+          </a>
+          <p class="footer__tagline">Votre compagnon islamique IA. Approfondissez votre deen, chaque jour.</p>
+          <div class="footer__stores">
+            <a href="https://apps.apple.com/app/deenpal/id6742822690" target="_blank" rel="noopener noreferrer" class="footer__store-badge">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18.71 19.5C17.88 20.74 17 21.95 15.66 21.97C14.32 22 13.89 21.18 12.37 21.18C10.84 21.18 10.37 21.95 9.1 22C7.78 22.05 6.8 20.68 5.96 19.47C4.25 17 2.94 12.45 4.7 9.39C5.57 7.87 7.13 6.91 8.82 6.88C10.1 6.86 11.32 7.75 12.11 7.75C12.89 7.75 14.37 6.68 15.92 6.84C16.57 6.87 18.39 7.1 19.56 8.82C19.47 8.88 17.39 10.1 17.41 12.63C17.44 15.65 20.06 16.66 20.09 16.67C20.06 16.74 19.67 18.11 18.71 19.5ZM13 3.5C13.73 2.67 14.94 2.04 15.94 2C16.07 3.17 15.6 4.35 14.9 5.19C14.21 6.04 13.07 6.7 11.95 6.61C11.8 5.46 12.36 4.26 13 3.5Z"/></svg>
+              App Store
+            </a>
+          </div>
+        </div>
+        <nav class="footer__nav" aria-label="Navigation du pied de page">
+          <div class="footer__col">
+            <h4 class="footer__col-title">Produit</h4>
+            <ul role="list">
+              <li><a href="#features">Fonctionnalités</a></li>
+              <li><a href="#ai-modes">Modes IA</a></li>
+              <li><a href="#screens">Écrans</a></li>
+              <li><a href="#prayer">Horaires de prière</a></li>
+            </ul>
+          </div>
+          <div class="footer__col">
+            <h4 class="footer__col-title">Apprendre</h4>
+            <ul role="list">
+              <li><a href="/fr/blog/">Blog</a></li>
+              <li><a href="/fr/blog/comment-faire-wudu.html">Guide du Wudu</a></li>
+              <li><a href="/fr/blog/comment-prier-tahajjud.html">Guide Tahajjud</a></li>
+              <li><a href="/">🇬🇧 English</a></li>
+            </ul>
+          </div>
+          <div class="footer__col">
+            <h4 class="footer__col-title">Support</h4>
+            <ul role="list">
+              <li><a href="#faq">FAQ</a></li>
+              <li><a href="mailto:support@getdeenpal.com">Contact</a></li>
+              <li><a href="/privacy.html">Politique de confidentialité</a></li>
+              <li><a href="/terms.html">Conditions d'utilisation</a></li>
+            </ul>
+          </div>
+        </nav>
+      </div>
+      <div class="footer__bottom">
+        <p class="footer__copy">© <span id="year"></span> DeenPal. Tous droits réservés. Fait avec ❤️ pour l'Oumma.</p>
+        <p class="footer__ayah">« Il est avec vous où que vous soyez. » — Al-Hadid 57:4</p>
       </div>
     </div>
   </footer>
+
+  <button class="back-to-top" id="backToTop" aria-label="Retour en haut">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><polyline points="18 15 12 9 6 15"/></svg>
+  </button>
 
   <script src="../assets/js/main.js" defer></script>
   <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
