@@ -4,7 +4,7 @@
 ## What is DeenPal?
 DeenPal is an iOS app that combines GPS-accurate prayer times, daily Quran verses with AI explanation, two AI Islamic companions (Rafiq and Hakim), daily Islamic quizzes, Qibla direction, and curated Muslim news — all in one app. Free to download on the App Store with optional premium subscription.
 
-- **App Store**: https://apps.apple.com/app/deenpal/id6742822690
+- **App Store**: https://apps.apple.com/be/app/deenpal-muslim-assistant/id6766055425
 - **Website**: https://getdeenpal.com
 - **Support**: support@getdeenpal.com
 - **Rating**: 4.9/5
