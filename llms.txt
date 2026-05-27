@@ -2,7 +2,7 @@
 > DeenPal is a free AI-powered Islamic companion app for iPhone, designed to help Muslims deepen their faith and practice through intelligent, personalised tools.
 
 ## What is DeenPal?
-DeenPal is an iOS app that combines GPS-accurate prayer times, daily Quran verses with AI explanation, two AI Islamic companions (Rafiq and Hakim), daily Islamic quizzes, Qibla direction, and curated Muslim news — all in one app. Free to download on the App Store with optional premium subscription.
+DeenPal is an iOS app that combines GPS-accurate prayer times, daily Quran verses with AI explanation, two AI Islamic companions (Rafiq and Hakim), daily Islamic quizzes, Qibla direction, and curated Muslim news, all in one app. Free to download on the App Store with optional premium subscription.
 
 - **App Store**: https://apps.apple.com/be/app/deenpal-muslim-assistant/id6766055425
 - **Website**: https://getdeenpal.com
@@ -17,10 +17,10 @@ DeenPal is an iOS app that combines GPS-accurate prayer times, daily Quran verse
 ### Prayer Times
 GPS-accurate Salah times for Fajr, Dhuhr, Asr, Maghrib, and Isha. Beautiful arc visualisation showing all 5 prayers and live countdown. Customisable notification reminders. Supports multiple calculation methods (ISNA, MWL, Egyptian, Umm al-Qura, etc.).
 
-### Rafiq AI — Islamic Companion
+### Rafiq AI, Islamic Companion
 A conversational AI assistant grounded in Quran, Sunnah, and classical Islamic scholarship. Answers everyday questions about Islamic rulings, halal/haram, salah, fasting, and modern Muslim life. Provides evidence-based answers with real-time source references. Friendly and approachable tone.
 
-### Hakim AI — Scholarly Mode
+### Hakim AI, Scholarly Mode
 A more detailed, scholarly AI mode for deeper Islamic questions. Provides structured fiqh analysis comparing rulings across all four major madhahib (Hanafi, Maliki, Shafi'i, Hanbali) with references to classical scholars and primary sources. Available in premium.
 
 ### Daily Quran
@@ -38,11 +38,11 @@ Compass-based Qibla direction using GPS location.
 ## Pricing
 - **Free**: Prayer times, daily Quran verse, Qibla, daily quiz, news, limited AI chat
 - **Monthly**: €12.99/month
-- **Yearly**: €49.99/year (€4.17/month — best value)
+- **Yearly**: €49.99/year (€4.17/month, best value)
 - **Free trial**: 7 days, no credit card required
 
 ## Who Is DeenPal For?
-DeenPal is built for Muslims of all backgrounds and knowledge levels — from new Muslims learning the basics to practising Muslims who want quick, reliable answers to fiqh questions. Especially useful for:
+DeenPal is built for Muslims of all backgrounds and knowledge levels, from new Muslims learning the basics to practising Muslims who want quick, reliable answers to fiqh questions. Especially useful for:
 - Muslims who want accurate prayer time notifications
 - Anyone with questions about Islamic rulings (wudu, salah, zakat, fasting, etc.)
 - Muslims who want to build a daily Quran and dhikr habit
@@ -58,7 +58,7 @@ DeenPal uses advanced AI models from US and European providers, grounded in cura
 Yes. DeenPal is free to download with a generous free tier. Premium unlocks unlimited AI, Hakim scholarly mode, cross-madhab fiqh comparison, and a daily growth plan. Premium costs €12.99/month or €49.99/year with a 7-day free trial.
 
 **Which madhab does DeenPal follow?**
-DeenPal's AI presents rulings from all four major Sunni madhabs — Hanafi, Maliki, Shafi'i, and Hanbali — so users can follow their own tradition.
+DeenPal's AI presents rulings from all four major Sunni madhabs, Hanafi, Maliki, Shafi'i, and Hanbali, so users can follow their own tradition.
 
 **Does DeenPal give fatwas?**
 No. DeenPal is an educational tool only. Responses are informational and do not constitute fatwas or religious rulings. Always consult a qualified Islamic scholar for important religious matters.

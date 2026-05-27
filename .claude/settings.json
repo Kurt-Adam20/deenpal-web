@@ -40,7 +40,13 @@
       "Bash(git stash *)",
       "Bash(convert --version)",
       "Bash(python3 -c \"from PIL import Image; print\\('PIL ok'\\)\")",
-      "Bash(xargs sed *)"
+      "Bash(xargs sed *)",
+      "Bash(bash /tmp/claude-seo/install.sh)",
+      "Read(//home/suleyman/.claude/skills/seo-audit/**)",
+      "Read(//home/suleyman/.claude/skills/seo/scripts/**)",
+      "Read(//home/suleyman/.claude/agents/**)",
+      "Bash(/home/suleyman/.claude/skills/seo/.venv/bin/python /home/suleyman/.claude/skills/seo/scripts/fetch_page.py https://getdeenpal.com/)",
+      "Bash(git restore *)"
     ],
     "additionalDirectories": [
       "/home/suleyman/DeenPal Web/assets",
