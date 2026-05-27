@@ -155,6 +155,20 @@
   </url>
 
 
+  <url>
+    <loc>https://getdeenpal.com/blog/surah-al-fatiha-meaning.html</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://getdeenpal.com/blog/hajj-step-by-step-guide.html</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
   <!-- Dutch pages -->
   <url>
     <loc>https://getdeenpal.com/nl/blog/</loc>
@@ -200,6 +214,19 @@
   </url>
   <url>
     <loc>https://getdeenpal.com/nl/blog/hoe-salah-bidden.html</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <url>
+    <loc>https://getdeenpal.com/nl/blog/soera-al-fatiha-betekenis.html</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://getdeenpal.com/nl/blog/hadj-stap-voor-stap-gids.html</loc>
     <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.95</priority>
@@ -255,6 +282,19 @@
     <priority>0.95</priority>
   </url>
 
+  <url>
+    <loc>https://getdeenpal.com/de/blog/sure-al-fatiha-bedeutung.html</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://getdeenpal.com/de/blog/hadsch-schritt-fuer-schritt.html</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
   <!-- French pages -->
   <url>
     <loc>https://getdeenpal.com/fr/blog/</loc>
@@ -300,6 +340,19 @@
   </url>
   <url>
     <loc>https://getdeenpal.com/fr/blog/comment-prier-salah.html</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <url>
+    <loc>https://getdeenpal.com/fr/blog/sourate-al-fatiha-signification.html</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://getdeenpal.com/fr/blog/hajj-etape-par-etape.html</loc>
     <lastmod>2026-05-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.95</priority>
