@@ -147,6 +147,13 @@
     <priority>0.9</priority>
   </url>
 
+  <url>
+    <loc>https://getdeenpal.com/blog/how-to-pray-salah.html</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
 
   <!-- Dutch pages -->
   <url>
@@ -190,6 +197,12 @@
     <lastmod>2026-05-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://getdeenpal.com/nl/blog/hoe-salah-bidden.html</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
   </url>
 
   <!-- German pages -->
@@ -235,6 +248,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
+  <url>
+    <loc>https://getdeenpal.com/de/blog/wie-salah-beten.html</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
 
   <!-- French pages -->
   <url>
@@ -278,6 +297,12 @@
     <lastmod>2026-05-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://getdeenpal.com/fr/blog/comment-prier-salah.html</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
   </url>
 
 </urlset>
