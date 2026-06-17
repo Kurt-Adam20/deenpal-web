@@ -264,7 +264,7 @@ def render_page(post, lang, d: date) -> str:
     "dateModified": "{iso}T10:00:00Z",
     "inLanguage": "{lang}",
     "author": {{ "@type": "Organization", "name": "DeenPal", "url": "{SITE}" }},
-    "publisher": {{ "@type": "Organization", "name": "DeenPal", "logo": {{ "@type": "ImageObject", "url": "{SITE}/assets/img/icon.png" }} }},
+    "publisher": {{ "@type": "Organization", "name": "DeenPal", "logo": {{ "@type": "ImageObject", "url": "{SITE}/assets/img/icon.webp" }} }},
     "mainEntityOfPage": {{ "@type": "WebPage", "@id": "{url}" }}
   }}
   </script>
@@ -293,6 +293,7 @@ def render_page(post, lang, d: date) -> str:
     .article-body li {{ font-size: 16px; line-height: 1.75; color: var(--text-secondary); margin-bottom: 10px; }}
     .article-body strong {{ color: var(--text); font-weight: 700; }}
     .article-body a {{ color: #C9A96E; text-decoration: underline; }}
+    .article-cta .btn {{ color: #0D0D0D; text-decoration: none; }}
     .quran-quote {{ background: rgba(201,169,110,0.06); border-left: 3px solid #C9A96E; padding: 20px 24px; margin: 28px 0; border-radius: 0 12px 12px 0; }}
     .quran-quote p {{ margin: 0; font-size: 16px; font-style: italic; color: var(--text); }}
     .quran-quote .ref {{ font-size: 13px; color: #C9A96E; margin-top: 8px; display: block; font-style: normal; font-family: monospace; }}
@@ -318,7 +319,7 @@ def render_page(post, lang, d: date) -> str:
   <nav class="nav" id="nav" role="navigation" aria-label="Main navigation">
     <div class="nav__inner container">
       <a href="{ch['home']}" class="nav__logo" aria-label="DeenPal Home">
-        <span class="nav__logo-icon"><img src="{ap}assets/img/icon.png" alt="" width="28" height="28" style="border-radius:7px;display:block;object-fit:cover;" /></span>
+        <span class="nav__logo-icon"><img src="{ap}assets/img/icon-nav.webp" alt="" width="28" height="28" style="border-radius:7px;display:block;object-fit:cover;" /></span>
         <span class="nav__logo-text">DeenPal</span>
       </a>
       <button class="nav__hamburger" id="hamburger" aria-label="Toggle menu" aria-expanded="false"><span></span><span></span><span></span></button>
