@@ -205,6 +205,23 @@ def render_page(post, lang, d: date) -> str:
             f'{prev_html}\n{rel_html}\n        </nav>'
         )
 
+    # GEO: FAQPage schema so AI engines (ChatGPT, Perplexity, AI Overviews) can
+    # extract and cite direct Q&A from the page.
+    faq_block = ""
+    faq = L.get("faq")
+    if faq:
+        qa = ",\n".join(
+            "      {{ \"@type\": \"Question\", \"name\": {q}, "
+            "\"acceptedAnswer\": {{ \"@type\": \"Answer\", \"text\": {a} }} }}".format(
+                q=json.dumps(item["q"]), a=json.dumps(item["a"]))
+            for item in faq
+        )
+        faq_block = (
+            '  <script type="application/ld+json">\n'
+            '  {\n    "@context": "https://schema.org",\n    "@type": "FAQPage",\n'
+            '    "mainEntity": [\n' + qa + "\n    ]\n  }\n  </script>\n"
+        )
+
     return f'''<!DOCTYPE html>
 <html lang="{HTML_LANG[lang]}" data-theme="dark">
 <head>
@@ -262,7 +279,7 @@ def render_page(post, lang, d: date) -> str:
     ]
   }}
   </script>
-  <style>
+{faq_block}  <style>
     .blog-article {{ padding-top: 80px; }}
     .article-hdr {{ padding: 64px 0 48px; border-bottom: 1px solid var(--border); max-width: 760px; margin: 0 auto; }}
     .article-hdr__cat {{ font-size: 12px; font-weight: 700; color: #C9A96E; text-transform: uppercase; letter-spacing: 0.6px; margin-bottom: 16px; display: block; }}
@@ -424,7 +441,7 @@ def update_sitemap(posts, d: date, write: bool):
 
 
 # ---------------- validation ----------------
-def validate(spec):
+def validate(spec, force=False):
     posts = spec["posts"]
     seen_slugs = set()
     for i, post in enumerate(posts):
@@ -442,9 +459,10 @@ def validate(spec):
             if key in seen_slugs:
                 raise ValueError(f"Duplicate slug in this batch: {key}")
             seen_slugs.add(key)
-            # don't silently overwrite an existing published file
+            # don't silently overwrite an existing published file (unless --force,
+            # used to regenerate existing posts in place, e.g. to add new schema)
             target = ROOT / LANG_DIR[lang] / f"{L['slug']}.html"
-            if target.exists():
+            if target.exists() and not force:
                 raise ValueError(f"Post {i} [{lang}]: file already exists: {target}")
     return posts
 
@@ -458,8 +476,9 @@ def main():
     spec = json.loads(Path(args[0]).read_text(encoding="utf-8"))
     d = date.fromisoformat(spec.get("date", date.today().isoformat()))
     write = "--check" not in flags
+    force = "--force" in flags  # regenerate post HTML in place; skip index/sitemap
 
-    posts = validate(spec)
+    posts = validate(spec, force=force)
 
     written = []
     for post in posts:
@@ -471,24 +490,30 @@ def main():
                 target.write_text(page, encoding="utf-8")
             written.append(str(target.relative_to(ROOT)))
 
-    # index cards per language (all posts of the batch, newest first => reversed)
-    for lang in LANGS:
-        cards = ""
-        for post in posts:
-            L = post["langs"][lang]
-            if lang == "en":
-                cards = index_card_en(post, L, d) + cards
-            else:
-                cards = index_card_localized(post, L, d, lang) + cards
-        insert_into_index(lang, cards, write)
+    # On a fresh build we also insert index cards + sitemap entries. With --force
+    # we are only re-rendering existing post HTML, so we must NOT touch the
+    # indexes again (would duplicate cards).
+    n_sitemap = 0
+    if not force:
+        for lang in LANGS:
+            cards = ""
+            for post in posts:
+                L = post["langs"][lang]
+                if lang == "en":
+                    cards = index_card_en(post, L, d) + cards
+                else:
+                    cards = index_card_localized(post, L, d, lang) + cards
+            insert_into_index(lang, cards, write)
+        n_sitemap = update_sitemap(posts, d, write)
 
-    n_sitemap = update_sitemap(posts, d, write)
-
-    mode = "CHECK (no files written)" if not write else "WRITTEN"
+    mode = "CHECK (no files written)" if not write else ("REGENERATED" if force else "WRITTEN")
     print(f"[{mode}] {len(posts)} topic(s) x {len(LANGS)} languages = {len(written)} pages")
     for w in written:
         print(f"  + {w}")
-    print(f"  sitemap: +{n_sitemap} urls; {len(LANGS)} blog indexes updated")
+    if not force:
+        print(f"  sitemap: +{n_sitemap} urls; {len(LANGS)} blog indexes updated")
+    else:
+        print("  (index + sitemap left unchanged)")
     print("\nPublished URLs:")
     for post in posts:
         for lang in LANGS:
