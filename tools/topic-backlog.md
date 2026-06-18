@@ -22,11 +22,13 @@ Sunnah). The daily routine should pick the **next 2 unused topics**, mark them
 - [x] The Virtues of Jumu'ah — 2026-06-17
 - [x] Ayatul Kursi: meaning, benefits & transliteration — 2026-06-17
 - [x] Evening Adhkar (adhkar al-masa): complete guide — 2026-06-17
+- [x] Surah Al-Ikhlas: meaning and virtues — 2026-06-18
+- [x] Ayat from Surah Al-Falaq & An-Nas: the protective Mu'awwidhatayn — 2026-06-18
 
 ## Queue (next up first)
 - [ ] Ayatul Kursi — already done; skip
-- [ ] Surah Al-Ikhlas: meaning and virtues
-- [ ] Ayat from Surah Al-Falaq & An-Nas: the protective Mu'awwidhatayn
+- [x] Surah Al-Ikhlas: meaning and virtues — 2026-06-18
+- [x] Ayat from Surah Al-Falaq & An-Nas: the protective Mu'awwidhatayn — 2026-06-18
 - [ ] Istighfar: the power of seeking forgiveness (Astaghfirullah)
 - [ ] Salawat on the Prophet ﷺ: meaning, forms and rewards
 - [ ] Salatul Duha: the forgotten mid-morning prayer
