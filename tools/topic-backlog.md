@@ -26,6 +26,8 @@ Sunnah). The daily routine should pick the **next 2 unused topics**, mark them
 - [x] Ayat from Surah Al-Falaq & An-Nas: the protective Mu'awwidhatayn — 2026-06-18
 - [x] Istighfar: the power of seeking forgiveness (Astaghfirullah) — 2026-06-19
 - [x] Salawat on the Prophet ﷺ: meaning, forms and rewards — 2026-06-19
+- [x] Salatul Duha: the forgotten mid-morning prayer — 2026-06-20
+- [x] Salatul Witr: how and when to pray it — 2026-06-20
 
 ## Queue (next up first)
 - [ ] Ayatul Kursi — already done; skip
@@ -33,8 +35,8 @@ Sunnah). The daily routine should pick the **next 2 unused topics**, mark them
 - [x] Ayat from Surah Al-Falaq & An-Nas: the protective Mu'awwidhatayn — 2026-06-18
 - [x] Istighfar: the power of seeking forgiveness (Astaghfirullah) — 2026-06-19
 - [x] Salawat on the Prophet ﷺ: meaning, forms and rewards — 2026-06-19
-- [ ] Salatul Duha: the forgotten mid-morning prayer
-- [ ] Salatul Witr: how and when to pray it
+- [x] Salatul Duha: the forgotten mid-morning prayer — 2026-06-20
+- [x] Salatul Witr: how and when to pray it — 2026-06-20
 - [ ] Sunnah of sleeping: duas and prophetic etiquette
 - [ ] The adab of making dua: how supplications get answered
 - [ ] What is Sadaqah and how it differs from Zakat
