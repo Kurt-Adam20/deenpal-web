@@ -1,0 +1,1135 @@
+{
+  "date": "2026-06-22",
+  "posts": [
+    {
+      "img_class": "blog-card__img--3",
+      "langs": {
+        "en": {
+          "slug": "what-is-sadaqah",
+          "title": "What is Sadaqah? And How Does It Differ from Zakat?",
+          "meta_desc": "Sadaqah and Zakat are both forms of giving in Islam but differ in obligation, amount and recipients. Learn what sadaqah covers, its many forms, and how it compares with Zakat.",
+          "og_title": "Sadaqah vs Zakat: Understanding the Difference",
+          "og_desc": "What sadaqah means, its many forms beyond money, sadaqah jariyah, and how it differs from the obligatory zakat — with Quran and Sunnah references.",
+          "category": "Fiqh",
+          "h1": "What is Sadaqah? And How Does It Differ from Zakat?",
+          "read_label": "6 min read",
+          "excerpt": "Sadaqah is voluntary charity in Islam — but it covers far more than money. Its meaning, forms, rewards, and how it differs from the obligatory zakat.",
+          "sections": [
+            {
+              "t": "p",
+              "html": "In Islam, generosity is not a luxury reserved for the wealthy — it is an act of worship open to everyone. Two terms appear most often when Muslims discuss charity: <strong>sadaqah</strong> (صدقة) and <strong>zakat</strong> (زكاة). Both involve giving for Allah's sake, both carry immense reward, and both purify the heart from attachment to worldly wealth. Yet they are distinct in nature: one is obligatory and precisely calculated, the other voluntary and unlimited in scope. Understanding both helps a Muslim fulfil their duties and seize the countless rewards of giving freely."
+            },
+            {
+              "t": "h2",
+              "text": "What is Sadaqah?"
+            },
+            {
+              "t": "p",
+              "html": "The word <em>sadaqah</em> derives from the Arabic root <em>ṣ-d-q</em> (صدق), meaning truth or sincerity. Giving sadaqah is therefore an act of sincerity — a demonstration that your faith is genuine and your love for others real. In Islamic law, sadaqah refers broadly to <strong>any voluntary act of giving or goodness done purely for Allah's sake</strong>. It is not limited to money or goods; it encompasses physical acts, words, and even expressions of joy."
+            },
+            {
+              "t": "quran",
+              "text": "مَّن ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ أَضْعَافًا كَثِيرَةً",
+              "ref": "Quran 2:245"
+            },
+            {
+              "t": "p",
+              "html": "“Who is it that would loan Allah a goodly loan so He may multiply it for him many times over?” (Quran 2:245). The verse frames every act of giving as a loan that Allah Himself repays — multiplied many times. This is the promise behind sadaqah: it is never lost, only transformed."
+            },
+            {
+              "t": "h2",
+              "text": "Sadaqah vs Zakat: Key Differences"
+            },
+            {
+              "t": "p",
+              "html": "Zakat is the <strong>third pillar of Islam</strong>, an obligatory annual payment on qualifying wealth. It applies when a Muslim has held wealth above the <em>nisab</em> threshold — equivalent to 85 grams of gold — for one full lunar year. From such wealth, exactly 2.5% is owed. Zakat has eight specific categories of recipients defined in Surah At-Tawbah (9:60), and neglecting it without valid excuse is a serious sin. <strong>Sadaqah</strong>, by contrast, is entirely voluntary, has no minimum amount, no fixed percentage, and can be given to anyone at any time. The word <em>zakat</em> means purification, while <em>sadaqah</em> means sincerity — together they reflect the inner and outer dimensions of Islamic giving."
+            },
+            {
+              "t": "cards",
+              "cards": [
+                {
+                  "icon": "🕌",
+                  "title": "Obligation",
+                  "text": "<strong>Zakat</strong>: obligatory for every eligible Muslim who meets the nisab. <strong>Sadaqah</strong>: voluntary, with no minimum amount or fixed time."
+                },
+                {
+                  "icon": "💰",
+                  "title": "Calculation",
+                  "text": "<strong>Zakat</strong>: 2.5% of qualifying wealth held for one lunar year. <strong>Sadaqah</strong>: any amount, at any time — even half a date counts. (Bukhari)"
+                },
+                {
+                  "icon": "🤝",
+                  "title": "Recipients",
+                  "text": "<strong>Zakat</strong>: eight categories defined in Quran 9:60. <strong>Sadaqah</strong>: can go to anyone — the needy, neighbours, non-Muslims, even animals."
+                },
+                {
+                  "icon": "❤️",
+                  "title": "Form",
+                  "text": "<strong>Zakat</strong>: a financial payment from wealth. <strong>Sadaqah</strong>: money, food, time, a kind word, a smile, or removing something harmful from a path."
+                }
+              ]
+            },
+            {
+              "t": "h2",
+              "text": "The Many Forms of Sadaqah"
+            },
+            {
+              "t": "p",
+              "html": "This is where sadaqah becomes truly remarkable. The Prophet ﷺ described sadaqah in terms so wide that almost every good deed qualifies:"
+            },
+            {
+              "t": "ul",
+              "items": [
+                "Giving money, food, or goods to someone in need.",
+                "<strong>A smile</strong> — the Prophet ﷺ said: ‘Your smile at your brother’s face is sadaqah.’ (Tirmidhi)",
+                "<strong>Removing something harmful</strong> from the road — a stone, a thorn, a discarded object.",
+                "<strong>A kind word</strong> — speaking encouragingly to someone is recorded as sadaqah.",
+                "<strong>Guiding someone who is lost</strong> — helping a person find their way.",
+                "<strong>Sharing beneficial knowledge</strong> — teaching the Quran, explaining the prayer, or mentoring another."
+              ]
+            },
+            {
+              "t": "h2",
+              "text": "The Reward: Charity Does Not Decrease Wealth"
+            },
+            {
+              "t": "highlight",
+              "arabic": "مَا نَقَصَتْ صَدَقَةٌ مِنْ مَالٍ",
+              "trans": "Ma naqasat sadaqatun min malin",
+              "note": "“Charity does not decrease wealth.” — narrated by Abu Hurairah (RA). (Muslim)"
+            },
+            {
+              "t": "p",
+              "html": "Scholars explain this hadith on two levels. Spiritually, whatever you give is returned multiplied in reward and barakah. Practically, a generous person builds trust, goodwill, and community ties that protect their provision in ways they cannot always see. The Prophet ﷺ also said that giving sadaqah extinguishes sins as water extinguishes fire (Tirmidhi) — making it a form of spiritual purification as well as social generosity."
+            },
+            {
+              "t": "h2",
+              "text": "Sadaqah Jariyah: The Charity That Outlives You"
+            },
+            {
+              "t": "p",
+              "html": "One of the most profound Islamic concepts is <strong>sadaqah jariyah</strong> (صدقة جارية) — a continuous, ongoing charity. The Prophet ﷺ said: <em>‘When a person dies, his deeds come to an end except for three: sadaqah jariyah, beneficial knowledge, or a righteous child who makes dua for him.’</em> (Muslim) A water well in a dry village, a Quran recited from a book you donated, a lesson that students pass on for generations — these continue earning rewards long after the giver has passed."
+            },
+            {
+              "t": "p",
+              "html": "Understanding both sadaqah and zakat helps you give in the right spirit. To fulfil your zakat calculation correctly, see our guide to <a href='what-is-zakat.html'>what is Zakat</a>. And to deepen your giving through dua, read about the <a href='adab-of-making-dua.html'>adab of making dua</a>."
+            }
+          ],
+          "cta": {
+            "title": "Track Your Giving with DeenPal",
+            "text": "Get reminders for zakat, guidance on sadaqah, authentic duas, and more — all in one free Islamic companion app.",
+            "btn": "Download DeenPal Free"
+          },
+          "footer_nav": {
+            "prev": {
+              "href": "what-is-zakat.html",
+              "title": "What is Zakat? A Complete Guide"
+            },
+            "related": {
+              "href": "adab-of-making-dua.html",
+              "title": "The Adab of Making Dua"
+            }
+          },
+          "faq": [
+            {
+              "q": "What is sadaqah in Islam?",
+              "a": "Sadaqah is voluntary charity in Islam, derived from the Arabic word meaning sincerity. It includes any good deed done for Allah's sake — giving money, food, a kind word, a smile, or sharing knowledge — with no set amount or condition."
+            },
+            {
+              "q": "What is the difference between sadaqah and zakat?",
+              "a": "Zakat is obligatory annual almsgiving calculated at 2.5% of qualifying wealth above the nisab threshold, with eight defined categories of recipients. Sadaqah is voluntary charity with no minimum, no fixed percentage, and can be given to anyone at any time."
+            },
+            {
+              "q": "Does sadaqah decrease your wealth?",
+              "a": "No. The Prophet ﷺ said ‘Sadaqah does not decrease wealth.’ (Muslim) Allah multiplies the reward and places barakah in the wealth of the giver, and generous people attract goodwill that sustains their provision."
+            },
+            {
+              "q": "What is sadaqah jariyah?",
+              "a": "Sadaqah jariyah is ongoing charity that continues to earn rewards after death. The Prophet ﷺ mentioned it alongside beneficial knowledge and a righteous child who prays for their parent as one of three deeds that do not end at death. (Muslim)"
+            },
+            {
+              "q": "Can sadaqah be non-financial?",
+              "a": "Yes. The Prophet ﷺ said a smile is sadaqah, removing harm from the road is sadaqah, and a kind word is sadaqah. (Tirmidhi) Any sincere good deed done for Allah's sake qualifies."
+            },
+            {
+              "q": "Who can receive sadaqah?",
+              "a": "Unlike zakat, sadaqah can be given to anyone — Muslim or non-Muslim, rich or poor, human or animal. Giving to those most in need is more meritorious, but no category is excluded."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "wat-is-sadaqah",
+          "title": "Wat is Sadaqah? En Hoe Verschilt Het van Zakat?",
+          "meta_desc": "Sadaqah en zakat zijn beide vormen van geven in de islam, maar ze verschillen in verplichting, bedrag en ontvangers. Leer wat sadaqah omvat, de vele vormen en het verschil met zakat.",
+          "og_title": "Sadaqah versus Zakat: Wat is het Verschil?",
+          "og_desc": "Wat sadaqah betekent, de vele vormen voorbij geld, sadaqah jariyah en het verschil met de verplichte zakat — met verwijzingen naar Koran en Soenna.",
+          "category": "Fiqh",
+          "h1": "Wat is Sadaqah? En Hoe Verschilt Het van Zakat?",
+          "read_label": "6 min lezen",
+          "excerpt": "Sadaqah is vrijwillige liefdadigheid in de islam — maar het omvat veel meer dan geld. De betekenis, vormen, beloningen en het verschil met de verplichte zakat.",
+          "sections": [
+            {
+              "t": "p",
+              "html": "In de islam is vrijgevigheid geen luxe die alleen voor de rijken is weggelegd — het is een daad van aanbidding die voor iedereen openstaat. Twee termen duiken het vaakst op wanneer moslims het over liefdadigheid hebben: <strong>sadaqah</strong> (صدقة) en <strong>zakat</strong> (زكاة). Beide houden geven omwille van Allah in, beide dragen een immense beloning, en beide reinigen het hart van gehechtheid aan de wereld. Toch zijn ze van nature verschillend: de een is verplicht en nauwkeurig berekend, de ander is vrijwillig en onbeperkt in reikwijdte."
+            },
+            {
+              "t": "h2",
+              "text": "Wat is Sadaqah?"
+            },
+            {
+              "t": "p",
+              "html": "Het woord <em>sadaqah</em> stamt van de Arabische stam <em>ṣ-d-q</em> (صدق), wat waarheid of oprechtheid betekent. Sadaqah geven is dus een daad van oprechtheid — een bewijs dat je geloof echt is en je liefde voor anderen werkelijk. In de islamitische wet verwijst sadaqah breed naar <strong>elke vrijwillige daad van geven of goedheid die puur omwille van Allah wordt verricht</strong>. Het is niet beperkt tot geld of goederen; het omvat ook lichamelijke daden, woorden en zelfs uitingen van vreugde."
+            },
+            {
+              "t": "quran",
+              "text": "مَّن ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ أَضْعَافًا كَثِيرَةً",
+              "ref": "Koran 2:245"
+            },
+            {
+              "t": "p",
+              "html": "“Wie is het die Allah een goede lening geeft, zodat Hij het voor hem vele malen kan verveelvoudigen?” (Koran 2:245). De aya stelt elke daad van geven voor als een lening die Allah Zelf terugbetaalt — meerdere malen vermenigvuldigd. Dit is de belofte achter sadaqah: het gaat nooit verloren, maar wordt getransformeerd."
+            },
+            {
+              "t": "h2",
+              "text": "Sadaqah versus Zakat: Belangrijkste Verschillen"
+            },
+            {
+              "t": "p",
+              "html": "Zakat is de <strong>derde zuil van de islam</strong>, een verplichte jaarlijkse betaling op in aanmerking komend vermogen. Het is van toepassing wanneer een moslim gedurende een volledig maanjaar vermogen boven de <em>nisab</em>-drempel — overeenkomend met 85 gram goud — heeft bezeten. Van dat vermogen is precies 2,5% verschuldigd. Zakat heeft acht specifieke categorieën van ontvangers vastgelegd in Soerat At-Tawbah (9:60). <strong>Sadaqah</strong> is daarentegen geheel vrijwillig, heeft geen minimumbedrag, geen vast percentage, en kan op elk moment aan iedereen worden gegeven."
+            },
+            {
+              "t": "cards",
+              "cards": [
+                {
+                  "icon": "🕌",
+                  "title": "Verplichting",
+                  "text": "<strong>Zakat</strong>: verplicht voor elke in aanmerking komende moslim die de nisab bereikt. <strong>Sadaqah</strong>: vrijwillig, zonder minimumbedrag of vast tijdstip."
+                },
+                {
+                  "icon": "💰",
+                  "title": "Berekening",
+                  "text": "<strong>Zakat</strong>: 2,5% van het in aanmerking komende vermogen na één maanjaar. <strong>Sadaqah</strong>: elk bedrag, op elk moment — zelfs een halve dadel telt. (Boechari)"
+                },
+                {
+                  "icon": "🤝",
+                  "title": "Ontvangers",
+                  "text": "<strong>Zakat</strong>: acht categorieën vastgelegd in Koran 9:60. <strong>Sadaqah</strong>: kan naar iedereen gaan — armen, buren, niet-moslims, zelfs dieren."
+                },
+                {
+                  "icon": "❤️",
+                  "title": "Vorm",
+                  "text": "<strong>Zakat</strong>: financiële betaling van vermogen. <strong>Sadaqah</strong>: geld, voedsel, tijd, een vriendelijk woord, een glimlach of het verwijderen van iets schadelijks van een pad."
+                }
+              ]
+            },
+            {
+              "t": "h2",
+              "text": "De Vele Vormen van Sadaqah"
+            },
+            {
+              "t": "p",
+              "html": "Dit is waar sadaqah werkelijk bijzonder wordt. De Profeet ﷺ beschreef sadaqah in zulke brede termen dat bijna elke goede daad ervoor in aanmerking komt:"
+            },
+            {
+              "t": "ul",
+              "items": [
+                "Geld, voedsel of goederen geven aan iemand in nood.",
+                "<strong>Een glimlach</strong> — de Profeet ﷺ zei: ‘Jouw glimlach naar het gezicht van je broeder is sadaqah.’ (Tirmidhi)",
+                "<strong>Iets schadelijks verwijderen</strong> van de weg — een steen, een doorn, een weggegooid voorwerp.",
+                "<strong>Een vriendelijk woord</strong> — iemand aanmoedigend toespreken wordt als sadaqah genoteerd.",
+                "<strong>Iemand die verdwaald is de weg wijzen</strong>.",
+                "<strong>Nuttige kennis delen</strong> — de Koran onderwijzen, het gebed uitleggen of een ander begeleiden."
+              ]
+            },
+            {
+              "t": "h2",
+              "text": "De Beloning: Liefdadigheid Vermindert het Vermogen Niet"
+            },
+            {
+              "t": "highlight",
+              "arabic": "مَا نَقَصَتْ صَدَقَةٌ مِنْ مَالٍ",
+              "trans": "Ma naqasat sadaqatun min malin",
+              "note": "“Liefdadigheid vermindert het vermogen niet.” — overgeleverd door Abu Hurairah (ra). (Moeslim)"
+            },
+            {
+              "t": "p",
+              "html": "Geleerden leggen deze hadith op twee niveaus uit. Geestelijk gezien wordt alles wat je geeft terugbetaald, vermenigvuldigd in beloning en barakah. Praktisch gezien bouwt een vrijgevig persoon vertrouwen, welwillendheid en gemeenschapsbanden die zijn voorziening beschermen op manieren die hij niet altijd kan zien. De Profeet ﷺ zei ook dat het geven van sadaqah zonden uitdooft zoals water vuur uitdooft. (Tirmidhi)"
+            },
+            {
+              "t": "h2",
+              "text": "Sadaqah Jariyah: De Liefdadigheid Die Je Overleeft"
+            },
+            {
+              "t": "p",
+              "html": "Een van de meest diepzinnige islamitische concepten is <strong>sadaqah jariyah</strong> (صدقة جارية) — een doorlopende, voortdurende liefdadigheid. De Profeet ﷺ zei: <em>‘Wanneer een mens sterft, houden zijn daden op, behalve drie: sadaqah jariyah, nuttige kennis, of een rechtschapen kind dat dua voor hem maakt.’</em> (Moeslim) Een waterput in een droog dorp, een Koran voorgelezen uit een boek dat je hebt geschonken, een les die studenten generaties lang doorgeven — deze blijven beloningen verdienen lang nadat de gever is heengegaan."
+            },
+            {
+              "t": "p",
+              "html": "Om jouw geven te verdiepen via smeekbede, lees over de <a href='adab-van-dua-maken.html'>adab van dua maken</a>."
+            }
+          ],
+          "cta": {
+            "title": "Bijhouden met DeenPal",
+            "text": "Ontvang herinneringen voor zakat, begeleiding bij sadaqah, authentieke duas en meer — alles in één gratis islamitische metgezel-app.",
+            "btn": "Download DeenPal Gratis"
+          },
+          "footer_nav": {
+            "prev": {
+              "href": "beste-dagelijkse-duas.html",
+              "title": "De Beste Dagelijkse Duas"
+            },
+            "related": {
+              "href": "adab-van-dua-maken.html",
+              "title": "De Adab van Dua Maken"
+            }
+          },
+          "faq": [
+            {
+              "q": "Wat is sadaqah in de islam?",
+              "a": "Sadaqah is vrijwillige liefdadigheid in de islam, afgeleid van het Arabische woord voor oprechtheid. Het omvat elke goede daad omwille van Allah — geld geven, een vriendelijk woord, een glimlach of het delen van kennis — zonder vastgesteld bedrag of voorwaarde."
+            },
+            {
+              "q": "Wat is het verschil tussen sadaqah en zakat?",
+              "a": "Zakat is verplichte jaarlijkse aalmoezen, berekend op 2,5% van het in aanmerking komende vermogen boven de nisab-drempel, met acht vastgestelde categorieën van ontvangers. Sadaqah is vrijwillige liefdadigheid zonder minimum, zonder vast percentage en kan op elk moment aan iedereen worden gegeven."
+            },
+            {
+              "q": "Vermindert sadaqah je vermogen?",
+              "a": "Nee. De Profeet ﷺ zei: ‘Liefdadigheid vermindert het vermogen niet.’ (Moeslim) Allah vermenigvuldigt de beloning en plaatst barakah in het vermogen van de gever, en vrijgevige mensen trekken vertrouwen en welwillendheid aan die hun voorziening ondersteunen."
+            },
+            {
+              "q": "Wat is sadaqah jariyah?",
+              "a": "Sadaqah jariyah is voortdurende liefdadigheid die na de dood beloningen blijft verdienen. De Profeet ﷺ noemde het naast nuttige kennis en een rechtschapen kind dat voor zijn ouder bidt als een van de drie daden die na de dood niet ophouden. (Moeslim)"
+            },
+            {
+              "q": "Kan sadaqah niet-financiële zijn?",
+              "a": "Ja. De Profeet ﷺ zei dat een glimlach sadaqah is, het verwijderen van iets schadelijks van de weg sadaqah is, en een vriendelijk woord sadaqah is. (Tirmidhi) Elke oprechte goede daad omwille van Allah komt in aanmerking."
+            },
+            {
+              "q": "Wie kan sadaqah ontvangen?",
+              "a": "In tegenstelling tot zakat kan sadaqah aan iedereen worden gegeven — moslim of niet-moslim, rijk of arm, mens of dier. Geven aan degenen die het meest in nood zijn is verdienstelijker, maar geen categorie is uitgesloten."
+            }
+          ]
+        },
+        "de": {
+          "slug": "was-ist-sadaqah",
+          "title": "Was ist Sadaqah? Und wie unterscheidet sie sich von Zakat?",
+          "meta_desc": "Sadaqah und Zakat sind beides Formen des Gebens im Islam, unterscheiden sich aber in Pflicht, Betrag und Empfängern. Was Sadaqah umfasst, ihre Formen und der Unterschied zur Zakat.",
+          "og_title": "Sadaqah vs. Zakat: Was ist der Unterschied?",
+          "og_desc": "Was Sadaqah bedeutet, ihre vielen Formen jenseits von Geld, Sadaqah Jariyah und wie sie sich von der Pflicht-Zakat unterscheidet — mit Quran- und Sunna-Referenzen.",
+          "category": "Fiqh",
+          "h1": "Was ist Sadaqah? Und wie unterscheidet sie sich von Zakat?",
+          "read_label": "6 Min. Lesezeit",
+          "excerpt": "Sadaqah ist freiwillige Wohltätigkeit im Islam — sie umfasst aber weit mehr als Geld. Die Bedeutung, Formen, Belohnungen und der Unterschied zur Pflicht-Zakat.",
+          "sections": [
+            {
+              "t": "p",
+              "html": "Im Islam ist Großzügigkeit kein Privileg der Reichen — sie ist ein Gottesdienst, der allen offensteht. Zwei Begriffe tauchen am häufigsten auf, wenn Muslime über Wohltätigkeit sprechen: <strong>Sadaqah</strong> (صدقة) und <strong>Zakat</strong> (زكاة). Beide beinhalten Geben um Allahs willen, beide tragen immense Belohnungen und reinigen das Herz von Anhänglichkeit an weltliche Güter. Dennoch sind sie ihrem Wesen nach verschieden: eine ist verpflichtend und genau berechnet, die andere freiwillig und unbegrenzt im Umfang."
+            },
+            {
+              "t": "h2",
+              "text": "Was ist Sadaqah?"
+            },
+            {
+              "t": "p",
+              "html": "Das Wort <em>Sadaqah</em> leitet sich von der arabischen Wurzel <em>ṣ-d-q</em> (صدق) ab, was Wahrheit oder Aufrichtigkeit bedeutet. Sadaqah zu geben ist daher ein Akt der Aufrichtigkeit — ein Beweis, dass dein Glaube echt ist und deine Liebe zu anderen wirklich. Im islamischen Recht bezeichnet Sadaqah im weiteren Sinne <strong>jede freiwillige Tat des Gebens oder der Güte, die rein um Allahs willen vollbracht wird</strong>. Sie ist nicht auf Geld oder Waren beschränkt, sondern umfasst körperliche Taten, Worte und sogar Ausdrücke der Freude."
+            },
+            {
+              "t": "quran",
+              "text": "مَّن ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ أَضْعَافًا كَثِيرَةً",
+              "ref": "Quran 2:245"
+            },
+            {
+              "t": "p",
+              "html": "„Wer ist es, der Allah ein gutes Darlehen gewährt, sodass Er es für ihn vielfach multiplizieren kann?“ (Quran 2:245). Der Vers stellt jede Tat des Gebens als ein Darlehen dar, das Allah selbst zurückzahlt — um ein Vielfaches vermehrt. Das ist das Versprechen hinter der Sadaqah: Sie geht nie verloren, sie wird nur verwandelt."
+            },
+            {
+              "t": "h2",
+              "text": "Sadaqah vs. Zakat: Die wichtigsten Unterschiede"
+            },
+            {
+              "t": "p",
+              "html": "Zakat ist die <strong>dritte Säule des Islams</strong>, eine verpflichtende jährliche Zahlung auf anrechenbares Vermögen. Sie gilt, wenn ein Muslim Vermögen oberhalb der <em>Nisab</em>-Grenze — entsprechend 85 Gramm Gold — für ein vollständiges Mondjahr besessen hat. Von solchem Vermögen sind genau 2,5% geschuldet. Zakat hat acht bestimmte Empfängerkategorien, die in Sure At-Tawbah (9:60) festgelegt sind. <strong>Sadaqah</strong> hingegen ist vollständig freiwillig, hat keinen Mindestbetrag, keinen festen Prozentsatz und kann jederzeit an jeden gegeben werden."
+            },
+            {
+              "t": "cards",
+              "cards": [
+                {
+                  "icon": "🕌",
+                  "title": "Verpflichtung",
+                  "text": "<strong>Zakat</strong>: Pflicht für jeden in Frage kommenden Muslim, der die Nisab erreicht. <strong>Sadaqah</strong>: freiwillig, ohne Mindestbetrag oder festen Zeitpunkt."
+                },
+                {
+                  "icon": "💰",
+                  "title": "Berechnung",
+                  "text": "<strong>Zakat</strong>: 2,5% des anrechenbaren Vermögens nach einem Mondjahr. <strong>Sadaqah</strong>: jeder Betrag, zu jeder Zeit — sogar eine halbe Dattel zählt. (Bukhari)"
+                },
+                {
+                  "icon": "🤝",
+                  "title": "Empfänger",
+                  "text": "<strong>Zakat</strong>: acht Kategorien in Quran 9:60 festgelegt. <strong>Sadaqah</strong>: kann an jeden gehen — Bedürftige, Nachbarn, Nicht-Muslime, sogar Tiere."
+                },
+                {
+                  "icon": "❤️",
+                  "title": "Form",
+                  "text": "<strong>Zakat</strong>: finanzielle Zahlung aus dem Vermögen. <strong>Sadaqah</strong>: Geld, Essen, Zeit, ein freundliches Wort, ein Lächeln oder das Entfernen von etwas Schädlichem vom Weg."
+                }
+              ]
+            },
+            {
+              "t": "h2",
+              "text": "Die vielen Formen der Sadaqah"
+            },
+            {
+              "t": "p",
+              "html": "Hier wird Sadaqah wirklich bemerkenswert. Der Prophet ﷺ beschrieb Sadaqah in so weiten Begriffen, dass fast jede gute Tat dafür in Frage kommt:"
+            },
+            {
+              "t": "ul",
+              "items": [
+                "Geld, Essen oder Waren an Bedürftige geben.",
+                "<strong>Ein Lächeln</strong> — der Prophet ﷺ sagte: ‘Dein Lächeln ins Gesicht deines Bruders ist Sadaqah.’ (Tirmidhi)",
+                "<strong>Etwas Schädliches vom Weg entfernen</strong> — einen Stein, einen Dorn, einen weggeworfenen Gegenstand.",
+                "<strong>Ein freundliches Wort</strong> — jemanden aufmunternd anzusprechen wird als Sadaqah aufgezeichnet.",
+                "<strong>Jemandem den Weg zeigen, der sich verirrt hat</strong>.",
+                "<strong>Nützliches Wissen teilen</strong> — den Quran lehren, das Gebet erklären oder einen anderen Menschen begleiten."
+              ]
+            },
+            {
+              "t": "h2",
+              "text": "Die Belohnung: Sadaqah mindert das Vermögen nicht"
+            },
+            {
+              "t": "highlight",
+              "arabic": "مَا نَقَصَتْ صَدَقَةٌ مِنْ مَالٍ",
+              "trans": "Ma naqasat sadaqatun min malin",
+              "note": "„Wohltätigkeit mindert das Vermögen nicht.“ — überliefert von Abu Hurairah (ra). (Muslim)"
+            },
+            {
+              "t": "p",
+              "html": "Gelehrte erklären diesen Hadith auf zwei Ebenen. Spirituell gesehen wird alles, was man gibt, in Belohnung und Barakah um ein Vielfaches zurückgegeben. Praktisch baut ein großzügiger Mensch Vertrauen, Wohlwollen und Gemeinschaftsbande auf, die seinen Lebensunterhalt schützen. Der Prophet ﷺ sagte auch, dass Sadaqah Sünden auslöscht wie Wasser das Feuer löscht. (Tirmidhi)"
+            },
+            {
+              "t": "h2",
+              "text": "Sadaqah Jariyah: Die Wohltätigkeit, die dich überlebt"
+            },
+            {
+              "t": "p",
+              "html": "Eines der tiefgründigsten islamischen Konzepte ist <strong>Sadaqah Jariyah</strong> (صدقة جارية) — eine anhaltende, fortwährende Wohltätigkeit. Der Prophet ﷺ sagte: <em>„Wenn ein Mensch stirbt, enden seine Taten außer dreien: Sadaqah Jariyah, nützliches Wissen oder ein rechtschaffenes Kind, das Dua für ihn macht.“</em> (Muslim) Ein Brunnen in einem trockenen Dorf, ein Quran, der aus einem von dir gespendeten Buch vorgelesen wird, eine Lektion, die Schüler über Generationen weitergeben — diese verdienen noch lange nach dem Tod des Gebers Belohnungen."
+            },
+            {
+              "t": "p",
+              "html": "Um dein Geben durch Bittgebet zu vertiefen, lies über den <a href='adab-des-bittgebets.html'>Adab des Bittgebets</a>."
+            }
+          ],
+          "cta": {
+            "title": "Geben nachverfolgen mit DeenPal",
+            "text": "Erhalte Erinnerungen für Zakat, Orientierung bei Sadaqah, authentische Bittgebete und mehr — alles in einer kostenlosen islamischen Begleiter-App.",
+            "btn": "DeenPal kostenlos laden"
+          },
+          "footer_nav": {
+            "prev": {
+              "href": "beste-tagliche-duas.html",
+              "title": "Die besten täglichen Bittgebete"
+            },
+            "related": {
+              "href": "adab-des-bittgebets.html",
+              "title": "Der Adab des Bittgebets"
+            }
+          },
+          "faq": [
+            {
+              "q": "Was ist Sadaqah im Islam?",
+              "a": "Sadaqah ist freiwillige Wohltätigkeit im Islam, abgeleitet vom arabischen Wort für Aufrichtigkeit. Sie umfasst jede gute Tat um Allahs willen — Geld geben, ein freundliches Wort, ein Lächeln oder das Teilen von Wissen — ohne festgelegten Betrag oder Bedingung."
+            },
+            {
+              "q": "Was ist der Unterschied zwischen Sadaqah und Zakat?",
+              "a": "Zakat ist die verpflichtende jährliche Almosensteuer, berechnet mit 2,5% des anrechenbaren Vermögens oberhalb der Nisab-Grenze, mit acht festgelegten Empfängerkategorien. Sadaqah ist freiwillige Wohltätigkeit ohne Mindestbetrag, ohne festen Prozentsatz und kann jederzeit an jeden gegeben werden."
+            },
+            {
+              "q": "Mindert Sadaqah das Vermögen?",
+              "a": "Nein. Der Prophet ﷺ sagte: ‘Wohltätigkeit mindert das Vermögen nicht.’ (Muslim) Allah multipliziert die Belohnung und legt Barakah in das Vermögen des Gebers, und großzügige Menschen ziehen Vertrauen und Wohlwollen an, das ihren Lebensunterhalt sichert."
+            },
+            {
+              "q": "Was ist Sadaqah Jariyah?",
+              "a": "Sadaqah Jariyah ist anhaltende Wohltätigkeit, die nach dem Tod weiterhin Belohnungen einbringt. Der Prophet ﷺ nannte sie neben nützlichem Wissen und einem rechtschaffenen Kind, das für einen Elternteil betet, als eine der drei Taten, die nach dem Tod nicht enden. (Muslim)"
+            },
+            {
+              "q": "Kann Sadaqah nicht-finanziell sein?",
+              "a": "Ja. Der Prophet ﷺ sagte, ein Lächeln sei Sadaqah, das Entfernen von Schädlichem vom Weg sei Sadaqah, und ein freundliches Wort sei Sadaqah. (Tirmidhi) Jede aufrichtige gute Tat um Allahs willen kommt in Frage."
+            },
+            {
+              "q": "Wer kann Sadaqah empfangen?",
+              "a": "Im Gegensatz zu Zakat kann Sadaqah an jeden gegeben werden — Muslim oder Nicht-Muslim, reich oder arm, Mensch oder Tier. An die Bedürftigsten zu geben ist verdienstvoller, aber keine Kategorie ist ausgeschlossen."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "qu-est-ce-que-la-sadaqah",
+          "title": "Qu’est-ce que la Sadaqah ? Et en quoi diffère-t-elle de la Zakat ?",
+          "meta_desc": "La sadaqah et la zakat sont toutes deux des formes de don en islam, mais elles diffèrent par leur caractère obligatoire, leur montant et leurs bénéficiaires. Ce que couvre la sadaqah, ses formes et sa différence avec la zakat.",
+          "og_title": "Sadaqah vs Zakat : quelle différence ?",
+          "og_desc": "Ce que signifie la sadaqah, ses nombreuses formes au-delà de l’argent, la sadaqah jariyah et comment elle diffère de la zakat obligatoire — avec des références au Coran et à la Sunna.",
+          "category": "Fiqh",
+          "h1": "Qu’est-ce que la Sadaqah ? Et en quoi diffère-t-elle de la Zakat ?",
+          "read_label": "6 min de lecture",
+          "excerpt": "La sadaqah est la charité volontaire en islam — mais elle couvre bien plus que l’argent. Sa signification, ses formes, ses récompenses et sa différence avec la zakat obligatoire.",
+          "sections": [
+            {
+              "t": "p",
+              "html": "Dans la tradition islamique, la générosité n’est pas un luxe réservé aux riches — c’est un acte d’adoration accessible à tous. Deux termes reviennent le plus souvent quand les musulmans parlent de charité : <strong>la sadaqah</strong> (صدقة) et <strong>la zakat</strong> (زكاة). Les deux impliquent de donner pour l’amour d’Allah, les deux portent une récompense immense et les deux purifient le cœur de l’attachement aux biens de ce monde. Pourtant, ils sont distincts par nature : l’un est obligatoire et précisément calculé, l’autre est volontaire et illimité dans sa portée."
+            },
+            {
+              "t": "h2",
+              "text": "Qu’est-ce que la Sadaqah ?"
+            },
+            {
+              "t": "p",
+              "html": "Le mot <em>sadaqah</em> vient de la racine arabe <em>ṣ-d-q</em> (صدق), qui signifie vérité ou sincérité. Donner la sadaqah est donc un acte de sincérité — une démonstration que ta foi est authentique et ton amour pour les autres réel. En droit islamique, la sadaqah désigne au sens large <strong>tout acte volontaire de don ou de bienfaisance accompli uniquement pour Allah</strong>. Elle ne se limite pas à l’argent ou aux biens ; elle englobe les actes physiques, les paroles et même les expressions de joie."
+            },
+            {
+              "t": "quran",
+              "text": "مَّن ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ أَضْعَافًا كَثِيرَةً",
+              "ref": "Coran 2:245"
+            },
+            {
+              "t": "p",
+              "html": "« Qui est-il celui qui accordera à Allah un beau prêt, afin qu’Il le lui multiplie en abondance ? » (Coran 2:245). Le verset présente chaque acte de don comme un prêt qu’Allah rembourse Lui-même — multiplié de nombreuses fois. C’est la promesse derrière la sadaqah : elle n’est jamais perdue, seulement transformée."
+            },
+            {
+              "t": "h2",
+              "text": "Sadaqah vs Zakat : les différences essentielles"
+            },
+            {
+              "t": "p",
+              "html": "La zakat est le <strong>troisième pilier de l’islam</strong>, un paiement annuel obligatoire sur la richesse éligible. Elle s’applique lorsqu’un musulman a possédé une richesse supérieure au seuil du <em>nisab</em> — équivalent à 85 grammes d’or — pendant une année lunaire complète. De cette richesse, exactement 2,5 % sont dus. La zakat a huit catégories spécifiques de bénéficiaires définies dans la sourate At-Tawbah (9:60). La <strong>sadaqah</strong>, en revanche, est entièrement volontaire, n’a pas de montant minimum, pas de pourcentage fixe et peut être donnée à n’importe qui à n’importe quel moment."
+            },
+            {
+              "t": "cards",
+              "cards": [
+                {
+                  "icon": "🕌",
+                  "title": "Obligation",
+                  "text": "<strong>Zakat</strong> : obligatoire pour tout musulman éligible ayant atteint le nisab. <strong>Sadaqah</strong> : volontaire, sans montant minimum ni délai fixe."
+                },
+                {
+                  "icon": "💰",
+                  "title": "Calcul",
+                  "text": "<strong>Zakat</strong> : 2,5 % de la richesse éligible détenue pendant une année lunaire. <strong>Sadaqah</strong> : tout montant, à tout moment — même une demi-datte compte. (Bukhari)"
+                },
+                {
+                  "icon": "🤝",
+                  "title": "Bénéficiaires",
+                  "text": "<strong>Zakat</strong> : huit catégories définies dans le Coran 9:60. <strong>Sadaqah</strong> : peut aller à n’importe qui — les nécessiteux, les voisins, les non-musulmans, même les animaux."
+                },
+                {
+                  "icon": "❤️",
+                  "title": "Forme",
+                  "text": "<strong>Zakat</strong> : paiement financier de la richesse. <strong>Sadaqah</strong> : argent, nourriture, temps, un mot gentil, un sourire ou retirer quelque chose de nuisible du chemin."
+                }
+              ]
+            },
+            {
+              "t": "h2",
+              "text": "Les nombreuses formes de la Sadaqah"
+            },
+            {
+              "t": "p",
+              "html": "C’est là que la sadaqah devient véritablement remarquable. Le Prophète ﷺ a décrit la sadaqah en des termes si larges que presque toute bonne action est admissible :"
+            },
+            {
+              "t": "ul",
+              "items": [
+                "Donner de l’argent, de la nourriture ou des biens à quelqu’un dans le besoin.",
+                "<strong>Un sourire</strong> — le Prophète ﷺ a dit : ‘Ton sourire à l’égard de ton frère est une sadaqah.’ (Tirmidhi)",
+                "<strong>Retirer quelque chose de nuisible</strong> du chemin — une pierre, une épine, un objet jeté.",
+                "<strong>Un mot gentil</strong> — parler à quelqu’un de manière encourageante est enregistré comme sadaqah.",
+                "<strong>Guider quelqu’un qui est perdu</strong> — aider une personne à trouver son chemin.",
+                "<strong>Partager une connaissance utile</strong> — enseigner le Coran, expliquer la prière ou guider un autre."
+              ]
+            },
+            {
+              "t": "h2",
+              "text": "La récompense : la Sadaqah ne diminue pas la richesse"
+            },
+            {
+              "t": "highlight",
+              "arabic": "مَا نَقَصَتْ صَدَقَةٌ مِنْ مَالٍ",
+              "trans": "Ma naqasat sadaqatun min malin",
+              "note": "« La charité ne diminue pas la richesse. » — rapporté par Abu Hurairah (ra). (Muslim)"
+            },
+            {
+              "t": "p",
+              "html": "Les savants expliquent ce hadith à deux niveaux. Spirituellement, tout ce que tu donnes est rendu multiplié en récompense et en barakah. Pratiquement, une personne généreuse construit la confiance, la bienveillance et des liens communautaires qui protègent sa subsistance. Le Prophète ﷺ a également dit que la sadaqah éteint les péchés comme l’eau éteint le feu. (Tirmidhi)"
+            },
+            {
+              "t": "h2",
+              "text": "La Sadaqah Jariyah : la charité qui te survit"
+            },
+            {
+              "t": "p",
+              "html": "L’un des concepts islamiques les plus profonds est la <strong>sadaqah jariyah</strong> (صدقة جارية) — une charité continue et permanente. Le Prophète ﷺ a dit : <em>‘Lorsqu’une personne meurt, ses œuvres s’arrêtent sauf trois : une sadaqah jariyah, une connaissance utile, ou un enfant pieux qui fait des invocations pour lui.’</em> (Muslim) Un puits d’eau dans un village aride, un Coran récité à partir d’un livre que tu as offert, une leçon transmise par des élèves pendant des générations — ceux-ci continuent à rapporter des récompenses longtemps après que le donneur est parti."
+            },
+            {
+              "t": "p",
+              "html": "Pour approfondir ton don par la dua, lis notre article sur <a href='adab-de-la-dua.html'>l’adab de la dua</a>."
+            }
+          ],
+          "cta": {
+            "title": "Suivez vos dons avec DeenPal",
+            "text": "Recevez des rappels pour la zakat, des conseils sur la sadaqah, des invocations authentiques et bien plus encore — le tout dans une seule application islamique gratuite.",
+            "btn": "Télécharger DeenPal gratuitement"
+          },
+          "footer_nav": {
+            "prev": {
+              "href": "meilleures-duas-quotidiennes.html",
+              "title": "Les meilleures duas quotidiennes"
+            },
+            "related": {
+              "href": "adab-de-la-dua.html",
+              "title": "L’adab de la dua"
+            }
+          },
+          "faq": [
+            {
+              "q": "Qu’est-ce que la sadaqah en islam ?",
+              "a": "La sadaqah est la charité volontaire en islam, dérivée du mot arabe signifiant sincérité. Elle englobe tout acte bon accompli pour Allah — donner de l’argent, un mot gentil, un sourire ou partager des connaissances — sans montant ni condition fixés."
+            },
+            {
+              "q": "Quelle est la différence entre la sadaqah et la zakat ?",
+              "a": "La zakat est l’aumône annuelle obligatoire calculée à 2,5 % de la richesse éligible au-delà du seuil du nisab, avec huit catégories définies de bénéficiaires. La sadaqah est une charité volontaire sans minimum, sans pourcentage fixe et peut être donnée à n’importe qui à tout moment."
+            },
+            {
+              "q": "La sadaqah diminue-t-elle ta richesse ?",
+              "a": "Non. Le Prophète ﷺ a dit : ‘La charité ne diminue pas la richesse.’ (Muslim) Allah multiplie la récompense et place la barakah dans la richesse du donneur, et les personnes généreuses attirent la confiance et la bienveillance qui soutiennent leur subsistance."
+            },
+            {
+              "q": "Qu’est-ce que la sadaqah jariyah ?",
+              "a": "La sadaqah jariyah est une charité continue qui continue à rapporter des récompenses après la mort. Le Prophète ﷺ l’a mentionnée aux côtés d’une connaissance utile et d’un enfant pieux qui prie pour son parent comme l’une des trois œuvres qui ne s’arrêtent pas à la mort. (Muslim)"
+            },
+            {
+              "q": "La sadaqah peut-elle être non financière ?",
+              "a": "Oui. Le Prophète ﷺ a dit qu’un sourire est sadaqah, retirer quelque chose de nuisible du chemin est sadaqah, et un mot gentil est sadaqah. (Tirmidhi) Tout acte sincèrement bon accompli pour Allah est admissible."
+            },
+            {
+              "q": "Qui peut recevoir la sadaqah ?",
+              "a": "Contrairement à la zakat, la sadaqah peut être donnée à n’importe qui — musulman ou non-musulman, riche ou pauvre, humain ou animal. Donner à ceux qui en ont le plus besoin est plus méritoire, mais aucune catégorie n’est exclue."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "img_class": "blog-card__img--1",
+      "langs": {
+        "en": {
+          "slug": "fasting-mondays-thursdays",
+          "title": "Fasting Mondays and Thursdays: The Prophetic Sunnah",
+          "meta_desc": "Why the Prophet ﷺ fasted every Monday and Thursday, what the hadith says about deeds being presented on these days, and how to observe this voluntary fast.",
+          "og_title": "Fasting Mondays and Thursdays: Why the Prophet Did It",
+          "og_desc": "The hadith behind Monday and Thursday fasting, the spiritual significance of these days, and practical guidance on how to observe this rewarding sunnah.",
+          "category": "Fasting",
+          "h1": "Fasting Mondays and Thursdays: The Prophetic Sunnah",
+          "read_label": "7 min read",
+          "excerpt": "Every Monday and Thursday, the Prophet ﷺ would fast — and he explained exactly why. The hadith, the spiritual meaning of these days, and how to make this sunnah your own.",
+          "sections": [
+            {
+              "t": "p",
+              "html": "Among the voluntary acts of worship in the Sunnah, few are as consistent and accessible as fasting every Monday and Thursday. The Prophet ﷺ observed this fast with remarkable regularity throughout his life, and when asked about it, he offered an explanation that reveals the deep spiritual logic behind these two particular days. This is not an obligatory fast — it is a voluntary act of worship, a way of investing two days each week in the currency of accountability and gratitude."
+            },
+            {
+              "t": "h2",
+              "text": "The Hadith: Why Monday and Thursday?"
+            },
+            {
+              "t": "highlight",
+              "arabic": "تُعْرَضُ الْأَعْمَالُ يَوْمَ الِاثْنَيْنِ وَالْخَمِيسِ، فَأُحِبُّ أَنْ يُعْرَضَ عَمَلِي وَأَنَا صَائِمٌ",
+              "trans": "Tu'radu al-a'malu yawmal-ithnayn wal-khamis, fa-uhibbu an yu'rada 'amali wa ana sa'im.",
+              "note": "“Deeds are presented on Mondays and Thursdays, and I love for my deeds to be presented while I am fasting.” — narrated by Abu Hurairah (RA). (Tirmidhi, Abu Dawud)"
+            },
+            {
+              "t": "p",
+              "html": "This hadith is the heart of the practice. Every Monday and Thursday, the deeds of every servant are presented to Allah. The Prophet ﷺ wanted his deeds to be presented while he was in a state of fasting — a beautiful expression of voluntary devotion. Usamah ibn Zayd (ra) also asked the Prophet ﷺ about fasting on Mondays and received confirmation that this was the day deeds were presented, and also the day the Prophet was born and the day revelation came to him. (Abu Dawud, Muslim)"
+            },
+            {
+              "t": "h2",
+              "text": "The Special Virtue of Monday"
+            },
+            {
+              "t": "p",
+              "html": "Monday carries three reasons for particular honour in the life of the Prophet ﷺ. It is the day of his birth, the day the first revelation came to him — <em>Iqra</em>, the command to read — and according to some narrations, the day he passed away. All three are milestones of the prophetic mission, and the Prophet ﷺ fasted on this day as a form of gratitude for the blessings it brought. He said: <em>‘That is the day on which I was born, and the day on which I was sent as a Prophet, or the day on which the revelation came to me.’</em> (Muslim)"
+            },
+            {
+              "t": "h2",
+              "text": "How to Observe the Monday–Thursday Fast"
+            },
+            {
+              "t": "p",
+              "html": "Observing this fast is straightforward. It is a nafl (voluntary) fast and follows the same rules as all voluntary fasts:"
+            },
+            {
+              "t": "ol",
+              "items": [
+                "<strong>Form the intention (niyyah)</strong> in the morning before eating or drinking anything. For voluntary fasts, the intention can be made during the morning hours.",
+                "<strong>Abstain from eating, drinking</strong> and anything that breaks the fast from the true dawn (Fajr) until sunset (Maghrib).",
+                "<strong>Have suhoor (the pre-dawn meal)</strong> if possible — the Prophet ﷺ encouraged it: ‘Take suhoor, for in suhoor there is barakah.’ (Bukhari, Muslim)",
+                "<strong>Break the fast at Maghrib</strong> with dates and water, following the sunnah of iftar.",
+                "<strong>Pair the fast with other acts of worship</strong> such as the mid-morning prayer — see our guide on <a href='salatul-duha-guide.html'>Salatul Duha</a>."
+              ]
+            },
+            {
+              "t": "h2",
+              "text": "Can You Fast Only One of the Two Days?"
+            },
+            {
+              "t": "p",
+              "html": "Yes. While the Prophet ﷺ typically fasted both Monday and Thursday, scholars agree that fasting either one alone carries great reward. Aishah (ra) reported that the Prophet ﷺ was very particular about fasting on Mondays and Thursdays. (An-Nasa’i) If your schedule allows only one day, begin with Monday because of its additional virtues, and gradually add Thursday as the habit takes root."
+            },
+            {
+              "t": "h2",
+              "text": "Combining These Fasts with Other Sunnah Fasts"
+            },
+            {
+              "t": "p",
+              "html": "The Monday–Thursday fast fits beautifully alongside the other recommended fasts of the Islamic calendar. The three white days — the 13th, 14th, and 15th of each lunar month — often fall on weekdays and can coincide. The six days of Shawwal after Ramadan are another pillar of voluntary fasting. The Prophet ﷺ said: <em>‘Whoever fasts Ramadan and follows it with six days of Shawwal has fasted the whole year.’</em> (Muslim) Building a habit of Monday and Thursday fasting creates the discipline that makes these other fasts feel natural."
+            },
+            {
+              "t": "quran",
+              "text": "وَأَن تَصُومُوا خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+              "ref": "Quran 2:184"
+            },
+            {
+              "t": "p",
+              "html": "“To fast is better for you, if you only knew.” (Quran 2:184) This verse reminds us that the discipline, the health benefits, and the spiritual elevation of fasting are a gift, not a burden — and one that is available to us every single week."
+            },
+            {
+              "t": "p",
+              "html": "Start small: commit to one Monday fast. Then add Thursday. Let your fasting be accompanied by <a href='morning-adhkar-guide.html'>morning adhkar</a> to set the tone for a day of mindful worship."
+            }
+          ],
+          "cta": {
+            "title": "Fast with Purpose Using DeenPal",
+            "text": "Get prayer times, sunnah fast reminders for Mondays, Thursdays and white days, and authentic duas for breaking your fast — in one free app.",
+            "btn": "Download DeenPal Free"
+          },
+          "footer_nav": {
+            "prev": {
+              "href": "salatul-duha-guide.html",
+              "title": "Salatul Duha: The Mid-Morning Prayer"
+            },
+            "related": {
+              "href": "morning-adhkar-guide.html",
+              "title": "Morning Adhkar: Complete Guide"
+            }
+          },
+          "faq": [
+            {
+              "q": "Is fasting on Mondays and Thursdays obligatory?",
+              "a": "No. It is a voluntary (nafl) sunnah fast, not obligatory. It is, however, a firmly established practice of the Prophet ﷺ and carries great reward."
+            },
+            {
+              "q": "Why did the Prophet ﷺ fast on Mondays and Thursdays?",
+              "a": "He explained: Deeds are presented to Allah on Mondays and Thursdays, and I love for my deeds to be presented while I am fasting. (Tirmidhi) Monday also carries the added significance of being the day he was born and the day revelation began."
+            },
+            {
+              "q": "Can I make the intention for the voluntary fast in the morning?",
+              "a": "Yes. For voluntary fasts, the intention can be formed in the morning as long as you have not yet eaten, drunk or done anything that would break the fast. An explicit verbal statement is not required — the heart’s intention is sufficient."
+            },
+            {
+              "q": "Can I fast only on Monday or only on Thursday?",
+              "a": "Yes. Fasting either day alone earns great reward. The Prophet ﷺ regularly observed both, but scholars agree that either day on its own is praiseworthy. If you can only manage one, start with Monday."
+            },
+            {
+              "q": "Does fasting on these days require ghusl or special prayer?",
+              "a": "No. A voluntary fast requires only the intention and abstinence from eating and drinking until sunset. You continue your regular prayers normally throughout the day."
+            },
+            {
+              "q": "What happens if I miss the Monday or Thursday fast?",
+              "a": "There is no sin or makeup required for missing a voluntary fast. Simply resume the following week. These fasts are an opportunity and a sunnah to build on gradually."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "vasten-maandag-donderdag",
+          "title": "Vasten op Maandag en Donderdag: De Profetische Soenna",
+          "meta_desc": "Waarom de Profeet ﷺ elke maandag en donderdag vastte, wat de hadith zegt over daden die op deze dagen worden gepresenteerd, en hoe je dit vrijwillige vasten verricht.",
+          "og_title": "Vasten op Maandag en Donderdag: Waarom de Profeet Het Deed",
+          "og_desc": "De hadith achter het maandag-donderdagvasten, de spirituele betekenis van deze dagen en praktische begeleiding om deze beloningsvolle soenna in de praktijk te brengen.",
+          "category": "Vasten",
+          "h1": "Vasten op Maandag en Donderdag: De Profetische Soenna",
+          "read_label": "7 min lezen",
+          "excerpt": "Elke maandag en donderdag vastte de Profeet ﷺ — en hij legde precies uit waarom. De hadith, de spirituele betekenis van deze dagen en hoe je deze soenna eigen maakt.",
+          "sections": [
+            {
+              "t": "p",
+              "html": "Onder de vrijwillige daden van aanbidding in de Soenna zijn er maar weinig zo consistent en toegankelijk als vasten op iedere maandag en donderdag. De Profeet ﷺ observeerde dit vasten met opmerkelijke regelmaat gedurende zijn hele leven, en wanneer ernaar gevraagd, gaf hij een uitleg die de diepe spirituele logica achter deze twee specifieke dagen onthult. Het is geen verplicht vasten — het is een vrijwillige daad van aanbidding, een manier om twee dagen per week te investeren in verantwoording en dankbaarheid."
+            },
+            {
+              "t": "h2",
+              "text": "De Hadith: Waarom Maandag en Donderdag?"
+            },
+            {
+              "t": "highlight",
+              "arabic": "تُعْرَضُ الْأَعْمَالُ يَوْمَ الِاثْنَيْنِ وَالْخَمِيسِ، فَأُحِبُّ أَنْ يُعْرَضَ عَمَلِي وَأَنَا صَائِمٌ",
+              "trans": "Tu'radu al-a'malu yawmal-ithnayn wal-khamis, fa-uhibbu an yu'rada 'amali wa ana sa'im.",
+              "note": "“Daden worden op maandag en donderdag gepresenteerd, en ik hou ervan dat mijn daden worden gepresenteerd terwijl ik vast.” — overgeleverd door Abu Hurairah (ra). (Tirmidhi, Abu Dawud)"
+            },
+            {
+              "t": "p",
+              "html": "Deze hadith is het hart van de praktijk. Elke maandag en donderdag worden de daden van iedere dienaar aan Allah gepresenteerd. De Profeet ﷺ wilde dat zijn daden werden gepresenteerd terwijl hij vastte — een prachtige uitdrukking van vrijwillige toewijding. Usamah ibn Zayd (ra) vroeg de Profeet ﷺ ook over het vasten op maandag en ontving bevestiging dat dit de dag was waarop daden werden gepresenteerd, en tevens de dag van geboorte van de Profeet en de dag waarop de openbaring tot hem kwam. (Abu Dawud, Moeslim)"
+            },
+            {
+              "t": "h2",
+              "text": "De Bijzondere Deugd van Maandag"
+            },
+            {
+              "t": "p",
+              "html": "Maandag draagt drie redenen voor bijzondere eer in het leven van de Profeet ﷺ. Het is de dag van zijn geboorte, de dag waarop de eerste openbaring tot hem kwam — <em>Iqra</em>, het bevel om te lezen — en, volgens sommige overleveringen, de dag waarop hij overleed. De Profeet ﷺ vastte op deze dag als een vorm van dankbaarheid voor de zegeningen die het bracht. Hij zei: <em>‘Dat is de dag waarop ik geboren werd, en de dag waarop ik als profeet werd gestuurd, of de dag waarop de openbaring tot mij kwam.’</em> (Moeslim)"
+            },
+            {
+              "t": "h2",
+              "text": "Hoe het Maandag–Donderdag Vasten Verrichten"
+            },
+            {
+              "t": "p",
+              "html": "Dit vasten waarnemen is eenvoudig. Het is een nafl (vrijwillig) vasten en volgt dezelfde regels als alle vrijwillige vastendagen:"
+            },
+            {
+              "t": "ol",
+              "items": [
+                "<strong>Maak de intentie (niyyah)</strong> ’s ochtends voordat je iets eet of drinkt. Voor vrijwillige vastendagen kan de intentie in de ochtenduren worden gemaakt.",
+                "<strong>Onthoud je van eten, drinken</strong> en alles wat het vasten verbreekt, van het ware ochtendgloren (Fajr) tot zonsondergang (Maghrib).",
+                "<strong>Eet de suhoor</strong> indien mogelijk — de Profeet ﷺ moedigde dit sterk aan: ‘Eet de suhoor, want in de suhoor zit barakah.’ (Boechari, Moeslim)",
+                "<strong>Verbreek het vasten bij Maghrib</strong> met dadels en water, in navolging van de soenna van iftar.",
+                "<strong>Combineer het vasten met andere daden van aanbidding</strong> zoals het ochtendgebed — zie onze gids over <a href='salatul-duha-gids.html'>Salatul Duha</a>."
+              ]
+            },
+            {
+              "t": "h2",
+              "text": "Kun Je Slechts één van de Twee Dagen Vasten?"
+            },
+            {
+              "t": "p",
+              "html": "Ja. Hoewel de Profeet ﷺ gewoonlijk op zowel maandag als donderdag vastte, zijn geleerden het erover eens dat alleen op één dag vasten ook een grote beloning draagt. Aisha (ra) meldde dat de Profeet ﷺ erg zorgvuldig was met het vasten op maandag en donderdag. (An-Nasa’i) Als je schema slechts één dag toelaat, begin dan met maandag vanwege de extra deugden ervan."
+            },
+            {
+              "t": "h2",
+              "text": "Combineren met Andere Soenna-Vastendagen"
+            },
+            {
+              "t": "p",
+              "html": "Het maandag-donderdagvasten past prachtig bij de andere aanbevolen vastendagen van de islamitische kalender. De drie witte dagen — de 13e, 14e en 15e van elke maanmaand — vallen vaak op weekdagen en kunnen samenvallen. De zes dagen van Shawwal na Ramadan zijn een andere pijler van vrijwillig vasten. De Profeet ﷺ zei: <em>‘Wie Ramadan vast en het dan opvolgt met zes dagen van Shawwal heeft het gehele jaar gevast.’</em> (Moeslim) Door een gewoonte van maandag-donderdagvasten op te bouwen, creër je de discipline die andere vrijwillige vastendagen vanzelfsprekender maakt."
+            },
+            {
+              "t": "quran",
+              "text": "وَأَن تَصُومُوا خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+              "ref": "Koran 2:184"
+            },
+            {
+              "t": "p",
+              "html": "“Vasten is beter voor jullie, als jullie het maar wisten.” (Koran 2:184) Dit vers herinnert ons eraan dat de discipline, de gezondheidsvoordelen en de spirituele verhoging van het vasten een geschenk zijn, geen last — en een dat elke week beschikbaar is."
+            },
+            {
+              "t": "p",
+              "html": "Begin klein: verbind je aan één maandagvasten. Voeg dan donderdag toe. Verricht naast het vasten ook je <a href='hoe-salah-bidden.html'>dagelijkse salah</a> met aandacht en overgave."
+            }
+          ],
+          "cta": {
+            "title": "Vast met Doel met DeenPal",
+            "text": "Ontvang gebedstijden, soenna-vastherinneringen voor maandag, donderdag en witte dagen, en authentieke duas voor het verbreken van je vasten — in één gratis app.",
+            "btn": "Download DeenPal Gratis"
+          },
+          "footer_nav": {
+            "prev": {
+              "href": "salatul-duha-gids.html",
+              "title": "Salatul Duha: Het Ochtendgebed"
+            },
+            "related": {
+              "href": "sunnah-van-slapen.html",
+              "title": "Soenna van het Slapen"
+            }
+          },
+          "faq": [
+            {
+              "q": "Is vasten op maandag en donderdag verplicht?",
+              "a": "Nee. Het is een vrijwillig (nafl) soenna-vasten, niet verplicht. Het is echter een stevige praktijk van de Profeet ﷺ en draagt een grote beloning."
+            },
+            {
+              "q": "Waarom vastte de Profeet ﷺ op maandag en donderdag?",
+              "a": "Hij legde uit: daden worden aan Allah gepresenteerd op maandag en donderdag, en ik hou ervan dat mijn daden worden gepresenteerd terwijl ik vast. (Tirmidhi) Maandag heeft ook de extra betekenis van de dag waarop hij werd geboren en de dag waarop de openbaring begon."
+            },
+            {
+              "q": "Kan ik ’s ochtends de intentie maken voor het vrijwillig vasten?",
+              "a": "Ja. Voor vrijwillige vastendagen kan de intentie ’s ochtends worden gemaakt zolang je nog niet hebt gegeten, gedronken of iets hebt gedaan dat het vasten zou verbreken. Een expliciete mondelinge verklaring is niet vereist — de intentie van het hart is voldoende."
+            },
+            {
+              "q": "Kan ik alleen op maandag of alleen op donderdag vasten?",
+              "a": "Ja. Alleen op één dag vasten verdient een grote beloning. De Profeet ﷺ observeerde gewoonlijk beide dagen, maar geleerden zijn het erover eens dat één dag op zich prijzenswaardig is."
+            },
+            {
+              "q": "Vereist dit vasten ghusl of een speciaal gebed?",
+              "a": "Nee. Een vrijwillig vasten vereist alleen de intentie en het onthouden van eten en drinken tot zonsondergang. Je verricht je reguliere gebeden normaal gedurende de dag."
+            },
+            {
+              "q": "Wat als ik het maandag- of donderdagvasten mis?",
+              "a": "Er is geen zonde of inhaaltaak vereist voor het missen van een vrijwillig vasten. Hervat het de volgende week. Deze vastendagen zijn een kans en een soenna om geleidelijk op te bouwen."
+            }
+          ]
+        },
+        "de": {
+          "slug": "fasten-montag-donnerstag",
+          "title": "Fasten an Montag und Donnerstag: Die prophetische Sunna",
+          "meta_desc": "Warum der Prophet ﷺ jeden Montag und Donnerstag fastete, was der Hadith über die Präsentation der Taten an diesen Tagen sagt, und wie man dieses freiwillige Fasten praktiziert.",
+          "og_title": "Fasten an Montag und Donnerstag: Warum der Prophet es tat",
+          "og_desc": "Der Hadith hinter dem Montag-Donnerstag-Fasten, die spirituelle Bedeutung dieser Tage und praktische Anleitungen zur Durchführung dieser lohnenden Sunna.",
+          "category": "Fasten",
+          "h1": "Fasten an Montag und Donnerstag: Die prophetische Sunna",
+          "read_label": "7 Min. Lesezeit",
+          "excerpt": "Jeden Montag und Donnerstag fastete der Prophet ﷺ — und erklärte genau warum. Der Hadith, die spirituelle Bedeutung dieser Tage und wie man diese Sunna lebt.",
+          "sections": [
+            {
+              "t": "p",
+              "html": "Unter den freiwilligen Gottesdiensten der Sunna gibt es nur wenige, die so konsequent und zugänglich sind wie das Fasten jeden Montag und Donnerstag. Der Prophet ﷺ hielt dieses Fasten mit bemerkenswerter Regelmäßigkeit ein und erläuterte auf Nachfrage die tiefe spirituelle Logik hinter diesen zwei bestimmten Tagen. Es handelt sich nicht um ein Pflichtfasten — es ist ein freiwilliger Gottesdienst, eine Möglichkeit, jede Woche zwei Tage in die Währung der Rechenschaft und der Dankbarkeit zu investieren."
+            },
+            {
+              "t": "h2",
+              "text": "Der Hadith: Warum Montag und Donnerstag?"
+            },
+            {
+              "t": "highlight",
+              "arabic": "تُعْرَضُ الْأَعْمَالُ يَوْمَ الِاثْنَيْنِ وَالْخَمِيسِ، فَأُحِبُّ أَنْ يُعْرَضَ عَمَلِي وَأَنَا صَائِمٌ",
+              "trans": "Tu'radu al-a'malu yawmal-ithnayn wal-khamis, fa-uhibbu an yu'rada 'amali wa ana sa'im.",
+              "note": "„Die Taten werden am Montag und Donnerstag präsentiert, und ich liebe es, dass meine Taten präsentiert werden, während ich faste.“ — überliefert von Abu Hurairah (ra). (Tirmidhi, Abu Dawud)"
+            },
+            {
+              "t": "p",
+              "html": "Dieser Hadith ist der Kern der Praxis. Jeden Montag und Donnerstag werden die Taten jedes Dieners Allah vorgelegt. Der Prophet ﷺ wollte, dass seine Taten präsentiert werden, während er fastete — ein schöner Ausdruck freiwilliger Hingabe. Usamah ibn Zayd (ra) fragte den Propheten ﷺ auch über das häufige Fasten am Montag und erhielt die Bestätigung, dass dies der Tag der Tatenpresentation, der Tag seiner Geburt und der Tag der Offenbarung sei. (Abu Dawud, Muslim)"
+            },
+            {
+              "t": "h2",
+              "text": "Die besondere Tugend des Montags"
+            },
+            {
+              "t": "p",
+              "html": "Der Montag trägt drei Gründe für besondere Ehrung im Leben des Propheten ﷺ. Es ist der Tag seiner Geburt, der Tag, an dem die erste Offenbarung zu ihm kam — <em>Iqra</em>, der Befehl zu lesen — und nach einigen Überlieferungen der Tag, an dem er verstarb. Der Prophet ﷺ fastete an diesem Tag als eine Form der Dankbarkeit. Er sagte: <em>„Das ist der Tag, an dem ich geboren wurde, und der Tag, an dem ich als Prophet gesandt wurde, oder der Tag, an dem mir die Offenbarung kam.“</em> (Muslim)"
+            },
+            {
+              "t": "h2",
+              "text": "Wie das Montag–Donnerstag-Fasten einzuhalten ist"
+            },
+            {
+              "t": "p",
+              "html": "Dieses Fasten zu halten ist unkompliziert. Es ist ein Nafl-Fasten (freiwillig) und folgt denselben Regeln wie alle freiwilligen Fastentage:"
+            },
+            {
+              "t": "ol",
+              "items": [
+                "<strong>Fasse die Absicht (Niyyah)</strong> morgens, bevor du etwas gegessen oder getrunken hast. Bei freiwilligen Fastentagen kann die Absicht in den Morgenstunden gefasst werden.",
+                "<strong>Enthalte dich vom Essen, Trinken</strong> und allem, was das Fasten bricht, vom wahren Morgengrauen (Fajr) bis Sonnenuntergang (Maghrib).",
+                "<strong>Nimm das Suhoor</strong> ein, wenn möglich — der Prophet ﷺ empfahl es ausdrücklich: ‘Nehmt das Suhoor ein, denn im Suhoor liegt Barakah.’ (Bukhari, Muslim)",
+                "<strong>Brich das Fasten bei Maghrib</strong> mit Datteln und Wasser, gemäß der Sunna des Iftars.",
+                "<strong>Verbinde das Fasten mit anderen Gottesdiensten</strong> wie dem Vormittagsgebet — siehe unsere Anleitung zu <a href='salatul-duha-anleitung.html'>Salatul Duha</a>."
+              ]
+            },
+            {
+              "t": "h2",
+              "text": "Kann ich nur einen der beiden Tage fasten?"
+            },
+            {
+              "t": "p",
+              "html": "Ja. Obwohl der Prophet ﷺ in der Regel sowohl montags als auch donnerstags fastete, sind die Gelehrten sich einig, dass das Fasten an nur einem Tag allein ebenfalls eine große Belohnung trägt. Aischa (ra) berichtete, dass der Prophet ﷺ sehr gewissenhaft beim Fasten an Montagen und Donnerstagen war. (An-Nasa’i) Wenn dein Zeitplan nur einen Tag erlaubt, beginne mit dem Montag wegen seiner zusätzlichen Vorzugs."
+            },
+            {
+              "t": "h2",
+              "text": "Kombination mit anderen Sunna-Fastentagen"
+            },
+            {
+              "t": "p",
+              "html": "Das Montag-Donnerstag-Fasten passt wunderbar zu den anderen empfohlenen Fastentagen des islamischen Kalenders. Die drei weißen Tage — der 13., 14. und 15. jedes Mondmonats — fallen oft auf Wochentage und können zusammenfallen. Die sechs Tage des Schawwals nach dem Ramadan sind ein weiterer Pfeiler des freiwilligen Fastens. Der Prophet ﷺ sagte: <em>„Wer den Ramadan fastet und ihm dann sechs Tage des Schawwals folgen lässt, hat das ganze Jahr gefastet.“</em> (Muslim)"
+            },
+            {
+              "t": "quran",
+              "text": "وَأَن تَصُومُوا خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+              "ref": "Quran 2:184"
+            },
+            {
+              "t": "p",
+              "html": "„Zu fasten ist besser für euch, wenn ihr es nur wüsst.“ (Quran 2:184) Dieser Vers erinnert uns daran, dass die Disziplin, die gesundheitlichen Vorteile und die spirituelle Erhebung des Fastens ein Geschenk sind, keine Last — und eines, das uns jede Woche zur Verfügung steht."
+            },
+            {
+              "t": "p",
+              "html": "Fang klein an: Verpflichte dich zu einem Montagsfasten. Füge dann den Donnerstag hinzu. Begleite das Fasten mit dem <a href='wie-salah-beten.html'>täglichen Salah</a>, um den Ton für einen Tag bewusster Hingabe zu setzen."
+            }
+          ],
+          "cta": {
+            "title": "Faste mit Zweck mit DeenPal",
+            "text": "Erhalte Gebetszeiten, Sunna-Fastenentscheidungen für Montage, Donnerstage und weiße Tage sowie authentische Bittgebete zum Fastenbrechen — in einer kostenlosen App.",
+            "btn": "DeenPal kostenlos laden"
+          },
+          "footer_nav": {
+            "prev": {
+              "href": "salatul-duha-anleitung.html",
+              "title": "Salatul Duha: Das Vormittagsgebet"
+            },
+            "related": {
+              "href": "sunna-des-schlafens.html",
+              "title": "Die Sunna des Schlafens"
+            }
+          },
+          "faq": [
+            {
+              "q": "Ist das Fasten an Montag und Donnerstag verpflichtend?",
+              "a": "Nein. Es ist ein freiwilliges (Nafl) Sunna-Fasten, nicht verpflichtend. Es ist jedoch eine fest etablierte Praxis des Propheten ﷺ und trägt eine große Belohnung."
+            },
+            {
+              "q": "Warum fastete der Prophet ﷺ an Montag und Donnerstag?",
+              "a": "Er erklärte: Die Taten werden Allah an Montag und Donnerstag vorgelegt, und ich liebe es, dass meine Taten vorgelegt werden, während ich faste. (Tirmidhi) Der Montag trägt auch die zusätzliche Bedeutung als Tag seiner Geburt und des Beginns der Offenbarung."
+            },
+            {
+              "q": "Kann ich die Absicht zum freiwilligen Fasten morgens fassen?",
+              "a": "Ja. Bei freiwilligen Fastentagen kann die Absicht morgens gefasst werden, solange man noch nichts gegessen, getrunken oder etwas getan hat, das das Fasten brechen würde. Eine ausdrückliche mündliche Erklärung ist nicht erforderlich — die Absicht im Herzen genügt."
+            },
+            {
+              "q": "Kann ich nur montags oder nur donnerstags fasten?",
+              "a": "Ja. Das Fasten an nur einem Tag allein bringt eine große Belohnung. Der Prophet ﷺ beobachtete normalerweise beide Tage, aber die Gelehrten sind sich einig, dass jeder Tag für sich genommen lobenswert ist."
+            },
+            {
+              "q": "Erfordert dieses Fasten Ghusl oder ein spezielles Gebet?",
+              "a": "Nein. Ein freiwilliges Fasten erfordert nur die Absicht und das Enthalten von Essen und Trinken bis zum Sonnenuntergang. Man verrichtet die regulären Gebete normal über den Tag."
+            },
+            {
+              "q": "Was passiert, wenn ich das Montags- oder Donnerstagsfasten versäume?",
+              "a": "Es gibt keine Sünde oder Nachholpflicht für ein versäumtes freiwilliges Fasten. Setze es in der nächsten Woche fort. Diese Fastentage sind eine Gelegenheit und eine Sunna, die man schrittweise aufbaut."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "jeune-lundi-jeudi",
+          "title": "Le jeûne du lundi et du jeudi : la sunna prophétique",
+          "meta_desc": "Pourquoi le Prophète ﷺ jeûnait chaque lundi et jeudi, ce que dit le hadith sur la présentation des œuvres ces jours-là, et comment observer ce jeûne volontaire.",
+          "og_title": "Le jeûne du lundi et du jeudi : pourquoi le Prophète le pratiquait",
+          "og_desc": "Le hadith derrière le jeûne du lundi-jeudi, la signification spirituelle de ces jours et des conseils pratiques pour pratiquer cette sunna bénéfique.",
+          "category": "Jeûne",
+          "h1": "Le jeûne du lundi et du jeudi : la sunna prophétique",
+          "read_label": "7 min de lecture",
+          "excerpt": "Chaque lundi et jeudi, le Prophète ﷺ jeûnait — et expliquait exactement pourquoi. Le hadith, la signification spirituelle de ces jours et comment faire de cette sunna la tienne.",
+          "sections": [
+            {
+              "t": "p",
+              "html": "Parmi les actes d’adoration volontaires de la Sunna, peu sont aussi constants et accessibles que le jeûne chaque lundi et chaque jeudi. Le Prophète ﷺ observait ce jeûne avec une régularité remarquable tout au long de sa vie, et lorsqu’on lui demandait pourquoi, il offrait une explication qui révèle la logique spirituelle profonde derrière ces deux jours particuliers. Ce n’est pas un jeûne obligatoire — c’est un acte d’adoration volontaire, une façon d’investir deux jours chaque semaine dans la monnaie de la responsabilité et de la gratitude."
+            },
+            {
+              "t": "h2",
+              "text": "Le hadith : pourquoi le lundi et le jeudi ?"
+            },
+            {
+              "t": "highlight",
+              "arabic": "تُعْرَضُ الْأَعْمَالُ يَوْمَ الِاثْنَيْنِ وَالْخَمِيسِ، فَأُحِبُّ أَنْ يُعْرَضَ عَمَلِي وَأَنَا صَائِمٌ",
+              "trans": "Tu'radu al-a'malu yawmal-ithnayn wal-khamis, fa-uhibbu an yu'rada 'amali wa ana sa'im.",
+              "note": "« Les œuvres sont présentées le lundi et le jeudi, et j’aime que mes œuvres soient présentées pendant que je jeûne. » — rapporté par Abu Hurairah (ra). (Tirmidhi, Abu Dawud)"
+            },
+            {
+              "t": "p",
+              "html": "Ce hadith est le cœur de la pratique. Chaque lundi et jeudi, les œuvres de chaque serviteur sont présentées à Allah. Le Prophète ﷺ voulait que ses œuvres soient présentées pendant qu’il jeûnait — une belle expression de dévotion volontaire. Usamah ibn Zayd (ra) interrogea également le Prophète ﷺ sur le jeûne fréquent du lundi et reçut la confirmation que c’était le jour de présentation des œuvres, le jour de sa naissance et le jour où la révélation lui était venue. (Abu Dawud, Muslim)"
+            },
+            {
+              "t": "h2",
+              "text": "La vertu particulière du lundi"
+            },
+            {
+              "t": "p",
+              "html": "Le lundi porte trois raisons d’honneur particulier dans la vie du Prophète ﷺ. C’est le jour de sa naissance, le jour où la première révélation lui est venue — <em>Iqra</em>, l’ordre de lire — et selon certaines traditions, le jour où il est décédé. Le Prophète ﷺ jeûnait ce jour-là comme une forme de gratitude. Il a dit : <em>‘C’est le jour où je suis né, le jour où j’ai été envoyé comme prophète, ou le jour où la révélation m’est venue.’</em> (Muslim)"
+            },
+            {
+              "t": "h2",
+              "text": "Comment observer le jeûne du lundi–jeudi"
+            },
+            {
+              "t": "p",
+              "html": "Observer ce jeûne est simple. C’est un jeûne nafl (volontaire) et il suit les mêmes règles que tous les jeûnes volontaires :"
+            },
+            {
+              "t": "ol",
+              "items": [
+                "<strong>Forme l’intention (niyyah)</strong> le matin avant de manger ou boire quoi que ce soit. Pour les jeûnes volontaires, l’intention peut être formée dans les heures matinales.",
+                "<strong>Abstiens-toi de manger, boire</strong> et de tout ce qui rompt le jeûne, de l’aube véritable (Fajr) jusqu’au coucher du soleil (Maghrib).",
+                "<strong>Prends le suhoor</strong> si possible — le Prophète ﷺ l’encourageait vivement : ‘Prenez le suhoor, car dans le suhoor il y a une barakah.’ (Bukhari, Muslim)",
+                "<strong>Romps le jeûne au Maghrib</strong> avec des dattes et de l’eau, selon la sunna de l’iftar.",
+                "<strong>Associe le jeûne à d’autres actes d’adoration</strong> comme la prière du milieu de matinée — voir notre guide sur <a href='salat-al-duha-guide.html'>Salat al-Doha</a>."
+              ]
+            },
+            {
+              "t": "h2",
+              "text": "Peut-on ne jeûner qu’un seul des deux jours ?"
+            },
+            {
+              "t": "p",
+              "html": "Oui. Bien que le Prophète ﷺ jeûnait généralement les deux jours, les savants s’accordent à dire que jeûner un seul jour porte également une grande récompense. Aïcha (ra) a rapporté que le Prophète ﷺ attachait beaucoup d’importance au jeûne des lundis et des jeudis. (An-Nasa’i) Si ton emploi du temps ne permet qu’un seul jour, commence par le lundi en raison de ses vertus supplémentaires."
+            },
+            {
+              "t": "h2",
+              "text": "Combiner avec d’autres jeûnes sunnah"
+            },
+            {
+              "t": "p",
+              "html": "Le jeûne du lundi-jeudi s’accorde magnifiquement avec les autres jeûnes recommandés du calendrier islamique. Les trois jours blancs — les 13e, 14e et 15e de chaque mois lunaire — tombent souvent en semaine et peuvent coïncider. Les six jours de Chawwal après le Ramadan sont un autre pilier du jeûne volontaire. Le Prophète ﷺ a dit : <em>‘Quiconque jeûne le Ramadan puis le fait suivre de six jours de Chawwal a jeûné toute l’année.’</em> (Muslim)"
+            },
+            {
+              "t": "quran",
+              "text": "وَأَن تَصُومُوا خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+              "ref": "Coran 2:184"
+            },
+            {
+              "t": "p",
+              "html": "« Jeûner est meilleur pour vous, si vous saviez. » (Coran 2:184) Ce verset nous rappelle que la discipline, les bienfaits pour la santé et l’élévation spirituelle du jeûne sont un cadeau, non un fardeau — et un cadeau disponible chaque semaine."
+            },
+            {
+              "t": "p",
+              "html": "Commence doucement : engage-toi pour un jeûne du lundi. Ajoute ensuite le jeudi. Accompagne ton jeûne de la <a href='comment-prier-salah.html'>prière quotidienne du salah</a> pour donner le ton d’une journée d’adoration consciente."
+            }
+          ],
+          "cta": {
+            "title": "Jeûnez avec intention grâce à DeenPal",
+            "text": "Obtenez les horaires de prière, des rappels de jeûne sunnah pour les lundis, jeudis et jours blancs, et des invocations authentiques pour rompre le jeûne — dans une seule application gratuite.",
+            "btn": "Télécharger DeenPal gratuitement"
+          },
+          "footer_nav": {
+            "prev": {
+              "href": "salat-al-duha-guide.html",
+              "title": "Salat al-Doha : guide complet"
+            },
+            "related": {
+              "href": "sunna-du-sommeil.html",
+              "title": "La sunna du sommeil"
+            }
+          },
+          "faq": [
+            {
+              "q": "Le jeûne du lundi et du jeudi est-il obligatoire ?",
+              "a": "Non. C’est un jeûne sunnah volontaire (nafl), non obligatoire. C’est cependant une pratique solidement établie du Prophète ﷺ qui porte une grande récompense."
+            },
+            {
+              "q": "Pourquoi le Prophète ﷺ jeûnait-il le lundi et le jeudi ?",
+              "a": "Il expliquait : les œuvres sont présentées à Allah le lundi et le jeudi, et j’aime que mes œuvres soient présentées pendant que je jeûne. (Tirmidhi) Le lundi porte aussi la signification supplémentaire d’être le jour de sa naissance et celui du début de la révélation."
+            },
+            {
+              "q": "Puis-je former l’intention du jeûne volontaire le matin ?",
+              "a": "Oui. Pour les jeûnes volontaires, l’intention peut être formée le matin tant qu’on n’a pas encore mangé, bu ou fait quelque chose qui romprait le jeûne. Une déclaration verbale explicite n’est pas requise — l’intention du cœur suffit."
+            },
+            {
+              "q": "Puis-je jeûner uniquement le lundi ou uniquement le jeudi ?",
+              "a": "Oui. Jeûner un seul jour porte une grande récompense. Le Prophète ﷺ observait généralement les deux jours, mais les savants s’accordent à dire que chaque jour en lui-même est louable."
+            },
+            {
+              "q": "Ce jeûne nécessite-t-il un ghusl ou une prière spéciale ?",
+              "a": "Non. Un jeûne volontaire ne nécessite que l’intention et l’abstention de manger et boire jusqu’au coucher du soleil. On accomplit ses prières régulières normalement tout au long de la journée."
+            },
+            {
+              "q": "Que faire si je manque le jeûne du lundi ou du jeudi ?",
+              "a": "Il n’y a ni péché ni obligation de rattrapage pour un jeûne volontaire manqué. Reprends simplement la semaine suivante. Ces jeûnes sont une opportunité et une sunna à construire progressivement."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

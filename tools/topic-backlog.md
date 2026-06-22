@@ -30,6 +30,8 @@ Sunnah). The daily routine should pick the **next 2 unused topics**, mark them
 - [x] Salatul Witr: how and when to pray it — 2026-06-20
 - [x] Sunnah of sleeping: duas and prophetic etiquette — 2026-06-21
 - [x] The adab of making dua: how supplications get answered — 2026-06-21
+- [x] What is Sadaqah and how it differs from Zakat — 2026-06-22
+- [x] Fasting Mondays and Thursdays: the prophetic sunnah — 2026-06-22
 
 ## Queue (next up first)
 - [ ] Ayatul Kursi — already done; skip
@@ -41,8 +43,8 @@ Sunnah). The daily routine should pick the **next 2 unused topics**, mark them
 - [x] Salatul Witr: how and when to pray it — 2026-06-20
 - [x] Sunnah of sleeping: duas and prophetic etiquette — 2026-06-21
 - [x] The adab of making dua: how supplications get answered — 2026-06-21
-- [ ] What is Sadaqah and how it differs from Zakat
-- [ ] Fasting Mondays and Thursdays: the prophetic sunnah
+- [x] What is Sadaqah and how it differs from Zakat — 2026-06-22
+- [x] Fasting Mondays and Thursdays: the prophetic sunnah — 2026-06-22
 - [ ] Fasting the Day of Ashura (10th Muharram)
 - [ ] Fasting six days of Shawwal
 - [x] The virtues of Surah Al-Kahf on Fridays — 2026-06-17
