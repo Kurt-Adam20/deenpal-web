@@ -32,6 +32,8 @@ Sunnah). The daily routine should pick the **next 2 unused topics**, mark them
 - [x] The adab of making dua: how supplications get answered — 2026-06-21
 - [x] What is Sadaqah and how it differs from Zakat — 2026-06-22
 - [x] Fasting Mondays and Thursdays: the prophetic sunnah — 2026-06-22
+- [x] Fasting the Day of Ashura (10th Muharram) — 2026-06-23
+- [x] Fasting six days of Shawwal — 2026-06-23
 
 ## Queue (next up first)
 - [ ] Ayatul Kursi — already done; skip
@@ -45,8 +47,8 @@ Sunnah). The daily routine should pick the **next 2 unused topics**, mark them
 - [x] The adab of making dua: how supplications get answered — 2026-06-21
 - [x] What is Sadaqah and how it differs from Zakat — 2026-06-22
 - [x] Fasting Mondays and Thursdays: the prophetic sunnah — 2026-06-22
-- [ ] Fasting the Day of Ashura (10th Muharram)
-- [ ] Fasting six days of Shawwal
+- [x] Fasting the Day of Ashura (10th Muharram) — 2026-06-23
+- [x] Fasting six days of Shawwal — 2026-06-23
 - [x] The virtues of Surah Al-Kahf on Fridays — 2026-06-17
 - [x] The importance of Jumu'ah (Friday prayer) — 2026-06-17
 - [ ] Tasbih of Fatimah: 33-33-34 after salah and before sleep
