@@ -36,6 +36,8 @@ Sunnah). The daily routine should pick the **next 2 unused topics**, mark them
 - [x] Fasting six days of Shawwal — 2026-06-23
 - [x] Tasbih of Fatimah: 33-33-34 after salah and before sleep — 2026-06-24
 - [x] The three things that continue after death (sadaqah jariyah) — 2026-06-24
+- [x] Birr al-walidayn: kindness to parents in Islam — 2026-06-25
+- [x] The rights of neighbours in Islam — 2026-06-25
 
 ## Queue (next up first)
 - [ ] Ayatul Kursi — already done; skip
@@ -55,8 +57,8 @@ Sunnah). The daily routine should pick the **next 2 unused topics**, mark them
 - [x] The importance of Jumu'ah (Friday prayer) — 2026-06-17
 - [x] Tasbih of Fatimah: 33-33-34 after salah and before sleep — 2026-06-24
 - [x] The three things that continue after death (sadaqah jariyah) — 2026-06-24
-- [ ] Birr al-walidayn: kindness to parents in Islam
-- [ ] The rights of neighbours in Islam
+- [x] Birr al-walidayn: kindness to parents in Islam — 2026-06-25
+- [x] The rights of neighbours in Islam — 2026-06-25
 - [ ] Halal earning and the barakah of lawful income
 - [ ] Patience (sabr) in the Quran and Sunnah
 - [ ] Gratitude (shukr): the worship that increases blessings
