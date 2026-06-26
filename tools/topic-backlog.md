@@ -38,6 +38,8 @@ Sunnah). The daily routine should pick the **next 2 unused topics**, mark them
 - [x] The three things that continue after death (sadaqah jariyah) — 2026-06-24
 - [x] Birr al-walidayn: kindness to parents in Islam — 2026-06-25
 - [x] The rights of neighbours in Islam — 2026-06-25
+- [x] Halal earning and the barakah of lawful income — 2026-06-26
+- [x] Patience (sabr) in the Quran and Sunnah — 2026-06-26
 
 ## Queue (next up first)
 - [ ] Ayatul Kursi — already done; skip
@@ -59,8 +61,8 @@ Sunnah). The daily routine should pick the **next 2 unused topics**, mark them
 - [x] The three things that continue after death (sadaqah jariyah) — 2026-06-24
 - [x] Birr al-walidayn: kindness to parents in Islam — 2026-06-25
 - [x] The rights of neighbours in Islam — 2026-06-25
-- [ ] Halal earning and the barakah of lawful income
-- [ ] Patience (sabr) in the Quran and Sunnah
+- [x] Halal earning and the barakah of lawful income — 2026-06-26
+- [x] Patience (sabr) in the Quran and Sunnah — 2026-06-26
 - [ ] Gratitude (shukr): the worship that increases blessings
 - [ ] Tawakkul: trusting Allah while tying your camel
 - [ ] The etiquette of reciting the Quran
