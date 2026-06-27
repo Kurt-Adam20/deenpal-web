@@ -40,6 +40,8 @@ Sunnah). The daily routine should pick the **next 2 unused topics**, mark them
 - [x] The rights of neighbours in Islam — 2026-06-25
 - [x] Halal earning and the barakah of lawful income — 2026-06-26
 - [x] Patience (sabr) in the Quran and Sunnah — 2026-06-26
+- [x] Gratitude (shukr): the worship that increases blessings — 2026-06-27
+- [x] Tawakkul: trusting Allah while tying your camel — 2026-06-27
 
 ## Queue (next up first)
 - [ ] Ayatul Kursi — already done; skip
@@ -63,8 +65,8 @@ Sunnah). The daily routine should pick the **next 2 unused topics**, mark them
 - [x] The rights of neighbours in Islam — 2026-06-25
 - [x] Halal earning and the barakah of lawful income — 2026-06-26
 - [x] Patience (sabr) in the Quran and Sunnah — 2026-06-26
-- [ ] Gratitude (shukr): the worship that increases blessings
-- [ ] Tawakkul: trusting Allah while tying your camel
+- [x] Gratitude (shukr): the worship that increases blessings — 2026-06-27
+- [x] Tawakkul: trusting Allah while tying your camel — 2026-06-27
 - [ ] The etiquette of reciting the Quran
 - [ ] How to make the most of the last third of the night
 - [ ] The story and lessons of Prophet Yusuf (AS)
