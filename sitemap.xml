@@ -1209,4 +1209,61 @@
     <priority>0.7</priority>
   </url>
 
+
+  <url>
+    <loc>https://getdeenpal.com/blog/story-of-prophet-yusuf.html</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://getdeenpal.com/nl/blog/verhaal-profeet-yusuf.html</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://getdeenpal.com/de/blog/geschichte-des-propheten-yusuf.html</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://getdeenpal.com/fr/blog/histoire-prophete-yusuf.html</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://getdeenpal.com/blog/mercy-of-allah-ar-rahman-ar-raheem.html</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://getdeenpal.com/nl/blog/barmhartigheid-van-allah-ar-rahman.html</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://getdeenpal.com/de/blog/barmherzigkeit-allahs-ar-rahman-ar-rahim.html</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://getdeenpal.com/fr/blog/misericorde-allah-ar-rahman-ar-rahim.html</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
 </urlset>
