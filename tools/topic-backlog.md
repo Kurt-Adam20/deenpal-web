@@ -46,6 +46,8 @@ Sunnah). The daily routine should pick the **next 2 unused topics**, mark them
 - [x] How to make the most of the last third of the night — 2026-06-28
 - [x] The story and lessons of Prophet Yusuf (AS) — 2026-06-29
 - [x] The mercy of Allah: understanding Ar-Rahman Ar-Raheem — 2026-06-29
+- [x] Dhul-Hijjah: the best ten days of the year — 2026-06-30
+- [x] The reward of feeding the fasting person — 2026-06-30
 
 ## Queue (next up first)
 - [ ] Ayatul Kursi — already done; skip
@@ -75,8 +77,8 @@ Sunnah). The daily routine should pick the **next 2 unused topics**, mark them
 - [x] How to make the most of the last third of the night — 2026-06-28
 - [x] The story and lessons of Prophet Yusuf (AS) — 2026-06-29
 - [x] The mercy of Allah: understanding Ar-Rahman Ar-Raheem — 2026-06-29
-- [ ] Dhul-Hijjah: the best ten days of the year
-- [ ] The reward of feeding the fasting person
+- [x] Dhul-Hijjah: the best ten days of the year — 2026-06-30
+- [x] The reward of feeding the fasting person — 2026-06-30
 - [ ] Lowering the gaze and guarding modesty (haya)
 - [ ] The sunnah of eating: bismillah, right hand, gratitude
 - [ ] Duas for anxiety and distress from the Sunnah
