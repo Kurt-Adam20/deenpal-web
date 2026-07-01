@@ -48,6 +48,8 @@ Sunnah). The daily routine should pick the **next 2 unused topics**, mark them
 - [x] The mercy of Allah: understanding Ar-Rahman Ar-Raheem — 2026-06-29
 - [x] Dhul-Hijjah: the best ten days of the year — 2026-06-30
 - [x] The reward of feeding the fasting person — 2026-06-30
+- [x] Lowering the gaze and guarding modesty (haya) — 2026-07-01
+- [x] The sunnah of eating: bismillah, right hand, gratitude — 2026-07-01
 
 ## Queue (next up first)
 - [ ] Ayatul Kursi — already done; skip
@@ -79,8 +81,8 @@ Sunnah). The daily routine should pick the **next 2 unused topics**, mark them
 - [x] The mercy of Allah: understanding Ar-Rahman Ar-Raheem — 2026-06-29
 - [x] Dhul-Hijjah: the best ten days of the year — 2026-06-30
 - [x] The reward of feeding the fasting person — 2026-06-30
-- [ ] Lowering the gaze and guarding modesty (haya)
-- [ ] The sunnah of eating: bismillah, right hand, gratitude
+- [x] Lowering the gaze and guarding modesty (haya) — 2026-07-01
+- [x] The sunnah of eating: bismillah, right hand, gratitude — 2026-07-01
 - [ ] Duas for anxiety and distress from the Sunnah
 - [ ] The virtue of learning and teaching the Quran
 - [ ] Understanding Qadr: belief in divine decree
