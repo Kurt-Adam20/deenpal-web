@@ -1380,4 +1380,61 @@
     <priority>0.7</priority>
   </url>
 
+
+  <url>
+    <loc>https://getdeenpal.com/blog/duas-for-anxiety-and-distress.html</loc>
+    <lastmod>2026-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://getdeenpal.com/nl/blog/duas-voor-angst-en-nood.html</loc>
+    <lastmod>2026-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://getdeenpal.com/de/blog/duas-bei-angst-und-not.html</loc>
+    <lastmod>2026-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://getdeenpal.com/fr/blog/duas-pour-anxiete-et-detresse.html</loc>
+    <lastmod>2026-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://getdeenpal.com/blog/virtue-of-learning-and-teaching-quran.html</loc>
+    <lastmod>2026-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://getdeenpal.com/nl/blog/deugd-van-leren-en-onderwijzen-koran.html</loc>
+    <lastmod>2026-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://getdeenpal.com/de/blog/tugend-des-lernens-und-lehrens-des-qurans.html</loc>
+    <lastmod>2026-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://getdeenpal.com/fr/blog/vertu-apprendre-enseigner-coran.html</loc>
+    <lastmod>2026-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
 </urlset>

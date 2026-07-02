@@ -50,6 +50,8 @@ Sunnah). The daily routine should pick the **next 2 unused topics**, mark them
 - [x] The reward of feeding the fasting person — 2026-06-30
 - [x] Lowering the gaze and guarding modesty (haya) — 2026-07-01
 - [x] The sunnah of eating: bismillah, right hand, gratitude — 2026-07-01
+- [x] Duas for anxiety and distress from the Sunnah — 2026-07-02
+- [x] The virtue of learning and teaching the Quran — 2026-07-02
 
 ## Queue (next up first)
 - [ ] Ayatul Kursi — already done; skip
@@ -83,8 +85,8 @@ Sunnah). The daily routine should pick the **next 2 unused topics**, mark them
 - [x] The reward of feeding the fasting person — 2026-06-30
 - [x] Lowering the gaze and guarding modesty (haya) — 2026-07-01
 - [x] The sunnah of eating: bismillah, right hand, gratitude — 2026-07-01
-- [ ] Duas for anxiety and distress from the Sunnah
-- [ ] The virtue of learning and teaching the Quran
+- [x] Duas for anxiety and distress from the Sunnah — 2026-07-02
+- [x] The virtue of learning and teaching the Quran — 2026-07-02
 - [ ] Understanding Qadr: belief in divine decree
 - [ ] The etiquette of the masjid
 - [ ] Smiling is charity: small good deeds with big reward
