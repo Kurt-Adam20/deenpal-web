@@ -52,6 +52,8 @@ Sunnah). The daily routine should pick the **next 2 unused topics**, mark them
 - [x] The sunnah of eating: bismillah, right hand, gratitude — 2026-07-01
 - [x] Duas for anxiety and distress from the Sunnah — 2026-07-02
 - [x] The virtue of learning and teaching the Quran — 2026-07-02
+- [x] Understanding Qadr: belief in divine decree — 2026-07-03
+- [x] The etiquette of the masjid — 2026-07-03
 
 ## Queue (next up first)
 - [ ] Ayatul Kursi — already done; skip
@@ -87,6 +89,6 @@ Sunnah). The daily routine should pick the **next 2 unused topics**, mark them
 - [x] The sunnah of eating: bismillah, right hand, gratitude — 2026-07-01
 - [x] Duas for anxiety and distress from the Sunnah — 2026-07-02
 - [x] The virtue of learning and teaching the Quran — 2026-07-02
-- [ ] Understanding Qadr: belief in divine decree
-- [ ] The etiquette of the masjid
+- [x] Understanding Qadr: belief in divine decree — 2026-07-03
+- [x] The etiquette of the masjid — 2026-07-03
 - [ ] Smiling is charity: small good deeds with big reward
