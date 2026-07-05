@@ -56,6 +56,8 @@ Sunnah). The daily routine should pick the **next 2 unused topics**, mark them
 - [x] The etiquette of the masjid — 2026-07-03
 - [x] Smiling is charity: small good deeds with big reward — 2026-07-04
 - [x] The sunnah of greeting: As-salamu alaykum and its etiquette — 2026-07-04
+- [x] The 99 Names of Allah (Asma ul Husna): a guided overview — 2026-07-05
+- [x] Hayaa (modesty) as a branch of faith: meaning and practice — 2026-07-05
 
 ## Queue (next up first)
 - [ ] Ayatul Kursi — already done; skip
@@ -95,7 +97,7 @@ Sunnah). The daily routine should pick the **next 2 unused topics**, mark them
 - [x] The etiquette of the masjid — 2026-07-03
 - [x] Smiling is charity: small good deeds with big reward — 2026-07-04
 - [x] The sunnah of greeting: As-salamu alaykum and its etiquette — 2026-07-04
-- [ ] The 99 Names of Allah (Asma ul Husna): a guided overview
-- [ ] Hayaa (modesty) as a branch of faith: meaning and practice
+- [x] The 99 Names of Allah (Asma ul Husna): a guided overview — 2026-07-05
+- [x] Hayaa (modesty) as a branch of faith: meaning and practice — 2026-07-05
 - [ ] The Islamic etiquette of visiting the sick (Ziyarat al-Marid)
 - [ ] How to make tawbah (sincere repentance) in Islam
