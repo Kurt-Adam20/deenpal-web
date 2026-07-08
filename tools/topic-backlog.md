@@ -62,10 +62,12 @@ Sunnah). The daily routine should pick the **next 2 unused topics**, mark them
 - [x] How to make tawbah (sincere repentance) in Islam — 2026-07-06
 - [x] Surah Ya-Sin: meaning, virtues and when to recite it — 2026-07-07
 - [x] Amanah (trustworthiness): the Islamic duty of keeping trust — 2026-07-07
+- [x] The concept of Ihsan: excellence in worship and conduct — 2026-07-08
+- [x] Dua before and after meals: the sunnah of eating supplications — 2026-07-08
 
 ## Queue (next up first)
-- [ ] The concept of Ihsan: excellence in worship and conduct
-- [ ] Dua before and after meals: the sunnah of eating supplications
+- [x] The concept of Ihsan: excellence in worship and conduct — 2026-07-08
+- [x] Dua before and after meals: the sunnah of eating supplications — 2026-07-08
 - [ ] The etiquette of Friday (Jumu'ah): full sunnah guide
 - [ ] Silat ar-rahim: maintaining family ties in Islam
 - [ ] The Islamic view on envy (hasad) and how to protect against it

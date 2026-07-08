@@ -1722,4 +1722,61 @@
     <priority>0.7</priority>
   </url>
 
+
+  <url>
+    <loc>https://getdeenpal.com/blog/ihsan-excellence-in-worship-and-conduct.html</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://getdeenpal.com/nl/blog/ihsan-excellentie-in-aanbidding-en-gedrag.html</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://getdeenpal.com/de/blog/ihsan-vortrefflichkeit-im-gottesdienst-und-verhalten.html</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://getdeenpal.com/fr/blog/ihsan-excellence-dans-adoration-et-conduite.html</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://getdeenpal.com/blog/dua-before-and-after-meals.html</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://getdeenpal.com/nl/blog/dua-voor-en-na-de-maaltijd.html</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://getdeenpal.com/de/blog/dua-vor-und-nach-dem-essen.html</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://getdeenpal.com/fr/blog/dua-avant-et-apres-les-repas.html</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
 </urlset>
