@@ -64,12 +64,14 @@ Sunnah). The daily routine should pick the **next 2 unused topics**, mark them
 - [x] Amanah (trustworthiness): the Islamic duty of keeping trust — 2026-07-07
 - [x] The concept of Ihsan: excellence in worship and conduct — 2026-07-08
 - [x] Dua before and after meals: the sunnah of eating supplications — 2026-07-08
+- [x] The etiquette of Friday (Jumu'ah): full sunnah guide — 2026-07-09
+- [x] Silat ar-rahim: maintaining family ties in Islam — 2026-07-09
 
 ## Queue (next up first)
 - [x] The concept of Ihsan: excellence in worship and conduct — 2026-07-08
 - [x] Dua before and after meals: the sunnah of eating supplications — 2026-07-08
-- [ ] The etiquette of Friday (Jumu'ah): full sunnah guide
-- [ ] Silat ar-rahim: maintaining family ties in Islam
+- [x] The etiquette of Friday (Jumu'ah): full sunnah guide — 2026-07-09
+- [x] Silat ar-rahim: maintaining family ties in Islam — 2026-07-09
 - [ ] The Islamic view on envy (hasad) and how to protect against it
 - [ ] Wudu: the complete guide to ritual purification
 - [ ] The spiritual benefits of Surah Al-Mulk
