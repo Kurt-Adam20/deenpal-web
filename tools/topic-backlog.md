@@ -66,14 +66,16 @@ Sunnah). The daily routine should pick the **next 2 unused topics**, mark them
 - [x] Dua before and after meals: the sunnah of eating supplications — 2026-07-08
 - [x] The etiquette of Friday (Jumu'ah): full sunnah guide — 2026-07-09
 - [x] Silat ar-rahim: maintaining family ties in Islam — 2026-07-09
+- [x] The Islamic view on envy (hasad) and how to protect against it — 2026-07-10
+- [x] Wudu: the complete guide to ritual purification — 2026-07-10
 
 ## Queue (next up first)
 - [x] The concept of Ihsan: excellence in worship and conduct — 2026-07-08
 - [x] Dua before and after meals: the sunnah of eating supplications — 2026-07-08
 - [x] The etiquette of Friday (Jumu'ah): full sunnah guide — 2026-07-09
 - [x] Silat ar-rahim: maintaining family ties in Islam — 2026-07-09
-- [ ] The Islamic view on envy (hasad) and how to protect against it
-- [ ] Wudu: the complete guide to ritual purification
+- [x] The Islamic view on envy (hasad) and how to protect against it — 2026-07-10
+- [x] Wudu: the complete guide to ritual purification — 2026-07-10
 - [ ] The spiritual benefits of Surah Al-Mulk
 - [ ] Istikhara dua: text, meaning and when to use it
 - [ ] Morning Adhkar (adhkar al-sabah): the complete guide
