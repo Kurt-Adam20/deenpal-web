@@ -68,6 +68,8 @@ Sunnah). The daily routine should pick the **next 2 unused topics**, mark them
 - [x] Silat ar-rahim: maintaining family ties in Islam — 2026-07-09
 - [x] The Islamic view on envy (hasad) and how to protect against it — 2026-07-10
 - [x] Wudu: the complete guide to ritual purification — 2026-07-10
+- [x] The spiritual benefits of Surah Al-Mulk — 2026-07-11
+- [x] Istikhara dua: text, meaning and when to use it — 2026-07-11
 
 ## Queue (next up first)
 - [x] The concept of Ihsan: excellence in worship and conduct — 2026-07-08
@@ -76,7 +78,7 @@ Sunnah). The daily routine should pick the **next 2 unused topics**, mark them
 - [x] Silat ar-rahim: maintaining family ties in Islam — 2026-07-09
 - [x] The Islamic view on envy (hasad) and how to protect against it — 2026-07-10
 - [x] Wudu: the complete guide to ritual purification — 2026-07-10
-- [ ] The spiritual benefits of Surah Al-Mulk
-- [ ] Istikhara dua: text, meaning and when to use it
+- [x] The spiritual benefits of Surah Al-Mulk — 2026-07-11
+- [x] Istikhara dua: text, meaning and when to use it — 2026-07-11
 - [ ] Morning Adhkar (adhkar al-sabah): the complete guide
 - [ ] The sunnahs of Ramadan beyond fasting
