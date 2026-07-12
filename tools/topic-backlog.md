@@ -70,6 +70,8 @@ Sunnah). The daily routine should pick the **next 2 unused topics**, mark them
 - [x] Wudu: the complete guide to ritual purification — 2026-07-10
 - [x] The spiritual benefits of Surah Al-Mulk — 2026-07-11
 - [x] Istikhara dua: text, meaning and when to use it — 2026-07-11
+- [x] Morning Adhkar (adhkar al-sabah): the complete guide — 2026-07-12
+- [x] The sunnahs of Ramadan beyond fasting — 2026-07-12
 
 ## Queue (next up first)
 - [x] The concept of Ihsan: excellence in worship and conduct — 2026-07-08
@@ -80,5 +82,5 @@ Sunnah). The daily routine should pick the **next 2 unused topics**, mark them
 - [x] Wudu: the complete guide to ritual purification — 2026-07-10
 - [x] The spiritual benefits of Surah Al-Mulk — 2026-07-11
 - [x] Istikhara dua: text, meaning and when to use it — 2026-07-11
-- [ ] Morning Adhkar (adhkar al-sabah): the complete guide
-- [ ] The sunnahs of Ramadan beyond fasting
+- [x] Morning Adhkar (adhkar al-sabah): the complete guide — 2026-07-12
+- [x] The sunnahs of Ramadan beyond fasting — 2026-07-12
