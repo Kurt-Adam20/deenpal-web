@@ -74,10 +74,10 @@ Sunnah). The daily routine should pick the **next 2 unused topics**, mark them
 - [x] The sunnahs of Ramadan beyond fasting — 2026-07-12
 - [x] Niyyah (intention) in Islam: why intention shapes every deed — 2026-07-13
 - [x] Salat al-Janazah: how to pray the Islamic funeral prayer — 2026-07-13
+- [x] The Islamic etiquette of Janazah: washing, shrouding and burial rites — 2026-07-14
+- [x] Dhikr after salah: the complete guide to post-prayer remembrance — 2026-07-14
 
 ## Queue (next up first)
-- [ ] The Islamic etiquette of Janazah: washing, shrouding and burial rites
-- [ ] Dhikr after salah: the complete guide to post-prayer remembrance
 - [ ] Surah Al-Baqarah: virtues, the last two verses, and why to recite it
 - [ ] Zakat al-Fitr: the obligatory charity at the end of Ramadan
 - [ ] The concept of Barakah: how to invite Allah's blessing into daily life
