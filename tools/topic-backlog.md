@@ -76,9 +76,9 @@ Sunnah). The daily routine should pick the **next 2 unused topics**, mark them
 - [x] Salat al-Janazah: how to pray the Islamic funeral prayer — 2026-07-13
 - [x] The Islamic etiquette of Janazah: washing, shrouding and burial rites — 2026-07-14
 - [x] Dhikr after salah: the complete guide to post-prayer remembrance — 2026-07-14
+- [x] Surah Al-Baqarah: virtues, the last two verses, and why to recite it — 2026-07-15
+- [x] Zakat al-Fitr: the obligatory charity at the end of Ramadan — 2026-07-15
 
 ## Queue (next up first)
-- [ ] Surah Al-Baqarah: virtues, the last two verses, and why to recite it
-- [ ] Zakat al-Fitr: the obligatory charity at the end of Ramadan
 - [ ] The concept of Barakah: how to invite Allah's blessing into daily life
 - [ ] Tayammum: dry ablution when water is unavailable
