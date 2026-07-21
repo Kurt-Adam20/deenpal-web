@@ -80,5 +80,13 @@ Sunnah). The daily routine should pick the **next 2 unused topics**, mark them
 - [x] Zakat al-Fitr: the obligatory charity at the end of Ramadan — 2026-07-15
 - [x] The concept of Barakah: how to invite Allah's blessing into daily life — 2026-07-16
 - [x] Tayammum: dry ablution when water is unavailable — 2026-07-16
+- [x] Khushu in Salah: how to pray with focus and presence of heart — 2026-07-21
+- [x] Salat al-Jama'ah: the virtue and reward of congregational prayer — 2026-07-21
 
 ## Queue (next up first)
+- [x] Khushu in Salah: how to pray with focus and presence of heart — 2026-07-21
+- [x] Salat al-Jama'ah: the virtue and reward of congregational prayer — 2026-07-21
+- [ ] Taqwa: God-consciousness in daily life and its Quranic meaning
+- [ ] Duas for entering and leaving the home: the prophetic supplications
+- [ ] Zakat: who must pay, how to calculate it, and when to give
+- [ ] Ruqyah: seeking protection and healing through the Quran and Sunnah
