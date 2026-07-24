@@ -1,0 +1,1367 @@
+{
+  "date": "2026-07-24",
+  "posts": [
+    {
+      "img_class": "blog-card__img--1",
+      "langs": {
+        "en": {
+          "slug": "zakat-nisab-how-to-calculate",
+          "title": "Zakat: Who Must Pay, How to Calculate It, and When to Give",
+          "meta_desc": "A practical guide to zakat: the nisab threshold, who is obligated to pay, what wealth is zakatable, the 2.5% calculation, and the eight Quranic categories of recipients.",
+          "og_title": "Zakat: Who Must Pay, How to Calculate It, and When to Give",
+          "og_desc": "Everything you need about zakat: nisab, hawl, zakatable wealth, the 2.5% calculation, and the eight recipients from Quran 9:60.",
+          "category": "Fiqh",
+          "h1": "Zakat: Who Must Pay, How to Calculate It, and When to Give",
+          "read_label": "8 min read",
+          "excerpt": "Zakat is the third pillar of Islam. This guide covers who is obligated, the nisab threshold, which assets are zakatable, how to apply the 2.5% rate, and the eight Quranic categories of recipients.",
+          "sections": [
+            {
+              "t": "p",
+              "html": "Zakat is the third pillar of Islam and one of the most frequently mentioned obligations in the Quran, paired with prayer in dozens of verses. It is not charity in the voluntary sense — it is a fixed right that the poor hold over the wealth of those who exceed a minimum threshold. Unlike <a href='what-is-sadaqah.html'>sadaqah</a>, which may be given any time for any amount, zakat has precise conditions, a fixed rate, and a defined list of recipients."
+            },
+            {
+              "t": "p",
+              "html": "Many Muslims want to fulfil this obligation correctly but are unsure about the details: what triggers it, what counts as zakatable wealth, how to perform the calculation, and when exactly it falls due. This guide answers all of those questions."
+            },
+            {
+              "t": "h2",
+              "text": "Who Is Obligated to Pay Zakat?"
+            },
+            {
+              "t": "p",
+              "html": "Zakat is obligatory on a Muslim who is: (1) <strong>adult</strong> (has reached puberty), (2) <strong>of sound mind</strong>, (3) <strong>free</strong> (classical scholars exempted enslaved people), and (4) in possession of wealth that meets two conditions: it reaches the <strong>nisab</strong> (minimum threshold) and a full <strong>hawl</strong> (one Hijri lunar year) has passed since it reached nisab. A child's wealth may still be subject to zakat in the Maliki and Shafi'i schools — their guardian pays it on their behalf."
+            },
+            {
+              "t": "h3",
+              "text": "The Nisab Threshold"
+            },
+            {
+              "t": "p",
+              "html": "The nisab is derived from two prophetic standards: <strong>85 grams of gold</strong> or <strong>595 grams of silver</strong>. For cash, savings, and trade goods, most scholars today use the gold or silver equivalent in the local currency. The gold nisab is typically higher than the silver nisab, meaning fewer people meet it. Many contemporary scholars lean toward the silver standard as it brings more people into the obligation and benefits more recipients. Check the current gold or silver price in your currency to find today's nisab. If your net zakatable wealth exceeds this value for a full lunar year, zakat is due."
+            },
+            {
+              "t": "h2",
+              "text": "What Wealth Is Zakatable?"
+            },
+            {
+              "t": "ul",
+              "items": [
+                "<strong>Gold and silver</strong> — in any form, including jewellery (obligatory in the Hanafi school; disputed in others — consult your local scholar)",
+                "<strong>Cash and savings</strong> — all money in bank accounts, savings funds, and at hand",
+                "<strong>Trade inventory</strong> — goods intended for sale, valued at their current market price",
+                "<strong>Business assets and equity</strong> — the zakatable portion of business shares, calculated on the underlying assets",
+                "<strong>Investments and stocks</strong> — zakat is due on the proportion of the investment that corresponds to zakatable assets (cash, inventory, receivables)",
+                "<strong>Livestock</strong> — camels, cattle, sheep and goats above specific thresholds with separate rates",
+                "<strong>Agricultural produce</strong> — 10% on rain-watered crops, 5% on irrigated crops, due at harvest"
+              ]
+            },
+            {
+              "t": "p",
+              "html": "Your personal home, vehicle, clothing, professional tools, and household goods are <strong>not</strong> zakatable regardless of their value, because they are not held as wealth but as means of living."
+            },
+            {
+              "t": "h2",
+              "text": "How to Calculate Zakat on Cash, Gold, and Trade Goods"
+            },
+            {
+              "t": "p",
+              "html": "The rate on these categories is <strong>2.5%</strong> of net zakatable wealth. The calculation follows four steps:"
+            },
+            {
+              "t": "ol",
+              "items": [
+                "List all zakatable assets: cash, gold value, trade inventory at market price, relevant investment value.",
+                "Subtract <strong>debts that are immediately due</strong> (payable within the coming year).",
+                "Check whether the net total is above the nisab.",
+                "If yes, and one full lunar year has passed, pay <strong>2.5%</strong> of that net total."
+              ]
+            },
+            {
+              "t": "p",
+              "html": "<strong>Example:</strong> Savings of £20,000 + gold worth £4,000 − a credit card balance of £3,000 due this month = <strong>net £21,000</strong>. Zakat due: 2.5% × £21,000 = <strong>£525</strong>."
+            },
+            {
+              "t": "h2",
+              "text": "When Is Zakat Due?"
+            },
+            {
+              "t": "p",
+              "html": "Zakat becomes obligatory when a complete Hijri lunar year has passed with your net wealth continuously above nisab. Track the <strong>hawl start date</strong> — the day your wealth first reached nisab — and pay on or before that anniversary each year. If your wealth dips below nisab during the year, the hawl resets from the next day it returns above nisab."
+            },
+            {
+              "t": "p",
+              "html": "Most Muslims choose to pay in <strong>Ramadan</strong> because the reward for good deeds is multiplied in that month, and many charities facilitate efficient distribution during Ramadan. Paying early (once the hawl has completed) is valid, and paying after the hawl date without excuse is sinful. See our guide to <a href='zakat-al-fitr-charity-end-of-ramadan.html'>Zakat al-Fitr</a>, the separate per-head charity due at the end of Ramadan."
+            },
+            {
+              "t": "h2",
+              "text": "The Eight Categories of Zakat Recipients"
+            },
+            {
+              "t": "quran",
+              "text": "إِنَّمَا الصَّدَقَاتُ لِلْفُقَرَاءِ وَالْمَسَاكِينِ وَالْعَامِلِينَ عَلَيْهَا وَالْمُؤَلَّفَةِ قُلُوبُهُمْ وَفِي الرِّقَابِ وَالْغَارِمِينَ وَفِي سَبِيلِ اللَّهِ وَابْنِ السَّبِيلِ ۖ فَرِيضَةً مِّنَ اللَّهِ",
+              "ref": "Quran 9:60"
+            },
+            {
+              "t": "cards",
+              "cards": [
+                {
+                  "icon": "🤲",
+                  "title": "Al-Fuqara — the poor",
+                  "text": "Those who lack enough to meet their basic needs and have no regular income."
+                },
+                {
+                  "icon": "🏠",
+                  "title": "Al-Masakin — the needy",
+                  "text": "Those who have some income or assets but not enough to cover their needs."
+                },
+                {
+                  "icon": "📋",
+                  "title": "Zakat administrators",
+                  "text": "Those officially appointed to collect, manage, and distribute zakat funds."
+                },
+                {
+                  "icon": "💛",
+                  "title": "Those whose hearts are won",
+                  "text": "New Muslims or those whose goodwill benefits the community."
+                },
+                {
+                  "icon": "⛓️",
+                  "title": "Freeing those in bondage",
+                  "text": "Historically to free enslaved people; applied by scholars to analogous situations today."
+                },
+                {
+                  "icon": "💸",
+                  "title": "Al-Gharimun — the indebted",
+                  "text": "People crushed by debt incurred for permissible purposes who cannot repay it themselves."
+                },
+                {
+                  "icon": "🛡️",
+                  "title": "Fi sabilillah — in Allah's cause",
+                  "text": "Efforts in the way of Allah, understood by scholars to include Islamic education, da'wah, and defence."
+                },
+                {
+                  "icon": "✈️",
+                  "title": "Ibn al-sabil — the wayfarer",
+                  "text": "A traveller who is stranded and cut off from their resources, even if wealthy at home."
+                }
+              ]
+            },
+            {
+              "t": "p",
+              "html": "Zakat may not be given to non-Muslims (except under the 'hearts to be won' category), to the wealthy, to one's own parents, children or spouse, or to Banu Hashim (the Prophet's ﷺ family), according to the majority of scholars. You may give zakat to other relatives who qualify, and doing so earns double reward — once for fulfilling zakat and once for maintaining family ties."
+            }
+          ],
+          "cta": {
+            "title": "Track Your Zakat with DeenPal",
+            "text": "Calculate your nisab, record your hawl date, and get reminders — all in one free app with authentic references.",
+            "btn": "Download DeenPal Free"
+          },
+          "footer_nav": {
+            "prev": {
+              "href": "what-is-sadaqah.html",
+              "title": "What Is Sadaqah and How It Differs from Zakat"
+            },
+            "related": {
+              "href": "zakat-al-fitr-charity-end-of-ramadan.html",
+              "title": "Zakat al-Fitr: The Obligatory Charity at the End of Ramadan"
+            }
+          },
+          "faq": [
+            {
+              "q": "What is the nisab for zakat on cash and savings?",
+              "a": "The nisab is the monetary equivalent of 85 grams of gold or 595 grams of silver. The figure in your local currency changes daily with market prices. Many online zakat calculators update this automatically."
+            },
+            {
+              "q": "Do I pay zakat on my debts or only on what I actually have?",
+              "a": "You may deduct debts that are due within the coming year from your total zakatable wealth before calculating. Long-term debts like a mortgage are treated differently — most scholars allow only the portion due that year to be deducted."
+            },
+            {
+              "q": "Is zakat obligatory on gold jewellery worn for personal use?",
+              "a": "The Hanafi school holds that all gold and silver jewellery is zakatable at 2.5%, even if worn regularly. The Shafi'i and Hanbali schools generally exempt jewellery used for personal adornment. Follow your school's ruling or ask a trusted scholar."
+            },
+            {
+              "q": "Can I give zakat to my brother or sister?",
+              "a": "Yes. You may give zakat to siblings, aunts, uncles, cousins and other relatives who qualify as poor or needy. This earns double reward — once for fulfilling the zakat obligation and once for upholding family ties."
+            },
+            {
+              "q": "When does my zakat year (hawl) start?",
+              "a": "The hawl begins on the day your wealth first reaches the nisab. If it drops below nisab at any point during the year, the hawl resets from the next time it returns above nisab."
+            },
+            {
+              "q": "Can I give zakat to a mosque?",
+              "a": "Mosques as institutions are not among the eight Quranic categories of recipients. However, if a mosque distributes funds directly to the poor or funds Islamic education, some scholars permit it under 'fi sabilillah'. Check with a local scholar about your mosque's zakat eligibility."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "zakat-nisab-hoe-berekenen",
+          "title": "Zakat: Wie Moet Betalen, Hoe Bereken Je Het en Wanneer Geef Je",
+          "meta_desc": "Praktische gids over zakat: de nisab-drempel, wie verplicht is te betalen, welk vermogen zakatable is, de 2,5%-berekening en de acht koranische categorieën.",
+          "og_title": "Zakat: Wie Moet Betalen, Hoe Bereken Je Het en Wanneer Geef Je",
+          "og_desc": "Alles over zakat: nisab, hawl, zakatable vermogen, de 2,5%-berekening en de acht begunstigden uit Koran 9:60.",
+          "category": "Fiqh",
+          "h1": "Zakat: Wie Moet Betalen, Hoe Bereken Je Het en Wanneer Geef Je",
+          "read_label": "8 min lezen",
+          "excerpt": "Zakat is de derde zuil van de islam. Deze gids behandelt wie verplicht is, de nisab-drempel, welke bezittingen zakatable zijn, hoe je de 2,5% berekent en de acht koranische categorieën van begunstigden.",
+          "sections": [
+            {
+              "t": "p",
+              "html": "Zakat is de derde zuil van de islam en één van de meest genoemde verplichtingen in de Koran, waarbij het naast het gebed in tientallen verzen wordt vermeld. Het is geen vrijwillige liefdadigheid — het is een vastgesteld recht dat de armen hebben over het vermogen van degenen die een minimumdrempel overschrijden. Anders dan <a href='wat-is-sadaqah.html'>sadaqah</a>, die op elk moment en in elk bedrag kan worden gegeven, heeft zakat nauwkeurige voorwaarden, een vast tarief en een omschreven lijst van begunstigden."
+            },
+            {
+              "t": "p",
+              "html": "Veel moslims willen deze verplichting correct nakomen maar zijn onzeker over de details: wat activeert de verplichting, welk vermogen telt mee, hoe voer je de berekening uit en wanneer valt zakat precies verschuldigd. Deze gids beantwoordt al deze vragen."
+            },
+            {
+              "t": "h2",
+              "text": "Wie Is Verplicht Zakat te Betalen?"
+            },
+            {
+              "t": "p",
+              "html": "Zakat is verplicht voor een moslim die: (1) <strong>volwassen</strong> is (de puberteit heeft bereikt), (2) <strong>van gezond verstand</strong> is, (3) <strong>vrij</strong> is, en (4) vermogen bezit dat twee voorwaarden vervult: het bereikt de <strong>nisab</strong> (minimumdrempel) en er is een volledige <strong>hawl</strong> (één islamitisch maanjaar) verstreken sinds het de nisab bereikte. Het vermogen van een kind kan ook zakatable zijn in de Maliki- en Shafi'i-scholen — de voogd betaalt namens het kind."
+            },
+            {
+              "t": "h3",
+              "text": "De Nisab-Drempel"
+            },
+            {
+              "t": "p",
+              "html": "De nisab is gebaseerd op twee profetische maatstaven: <strong>85 gram goud</strong> of <strong>595 gram zilver</strong>. Voor contant geld, spaargeld en handelsgoederen gebruiken de meeste geleerden vandaag de dag het goud- of zilveräquivalent in de lokale munteenheid. De goud-nisab is doorgaans hoger dan de zilver-nisab, wat betekent dat minder mensen aan de verplichting voldoen. Raadpleeg de actuele goud- of zilverprijs in jouw valuta om de huidige nisab te berekenen. Als je netto zakatable vermogen dit bedrag gedurende een volledig maanjaar overschrijdt, is zakat verschuldigd."
+            },
+            {
+              "t": "h2",
+              "text": "Welk Vermogen Is Zakatable?"
+            },
+            {
+              "t": "ul",
+              "items": [
+                "<strong>Goud en zilver</strong> — in elke vorm, inclusief sieraden (verplicht in de Hanafi-school; omstreden in anderen — raadpleeg je plaatselijke geleerde)",
+                "<strong>Contant geld en spaargeld</strong> — al het geld op bankrekeningen, spaarfondsen en in huis",
+                "<strong>Handelsvoorraad</strong> — goederen bestemd voor verkoop, gewaardeerd op de actuele marktprijs",
+                "<strong>Bedrijfsvermogen en aandelen</strong> — het zakatable deel van bedrijfsaandelen, berekend op de onderliggende activa",
+                "<strong>Investeringen en aandelen</strong> — zakat is verschuldigd over het deel van de investering dat overeenkomt met zakatable activa",
+                "<strong>Vee</strong> — kamelen, runderen, schapen en geiten boven specifieke drempels met afzonderlijke tarieven",
+                "<strong>Landbouwproducten</strong> — 10% op regengewassen, 5% op bevloeide gewassen, verschuldigd bij de oogst"
+              ]
+            },
+            {
+              "t": "p",
+              "html": "Je eigen woning, voertuig, kleding, gereedschap voor je beroep en huishoudelijke goederen zijn <strong>niet</strong> zakatable, ongeacht hun waarde, omdat ze niet als vermogen worden aangehouden maar als levensmiddelen."
+            },
+            {
+              "t": "h2",
+              "text": "Hoe Bereken Je Zakat op Contant Geld, Goud en Handelsgoederen?"
+            },
+            {
+              "t": "p",
+              "html": "Het tarief op deze categorieën is <strong>2,5%</strong> van het netto zakatable vermogen. De berekening volgt vier stappen:"
+            },
+            {
+              "t": "ol",
+              "items": [
+                "Maak een lijst van alle zakatable activa: contant geld, waarde van goud, handelsvoorraad tegen marktprijs, relevant investeringsvermogen.",
+                "Trek <strong>schulden af die onmiddellijk opeisbaar zijn</strong> (betaalbaar binnen het komende jaar).",
+                "Controleer of het netto totaal boven de nisab ligt.",
+                "Als dat zo is en er een volledig maanjaar is verstreken, betaal dan <strong>2,5%</strong> van dat netto totaal."
+              ]
+            },
+            {
+              "t": "p",
+              "html": "<strong>Voorbeeld:</strong> Spaargeld van €20.000 + goud ter waarde van €4.000 − een creditcardschuld van €3.000 die deze maand vervalt = <strong>netto €21.000</strong>. Verschuldigde zakat: 2,5% × €21.000 = <strong>€525</strong>."
+            },
+            {
+              "t": "h2",
+              "text": "Wanneer Is Zakat Verschuldigd?"
+            },
+            {
+              "t": "p",
+              "html": "Zakat wordt verplicht wanneer een volledig islamitisch maanjaar is verstreken terwijl je netto vermogen doorlopend boven de nisab lag. Noteer de <strong>startdatum van de hawl</strong> — de dag waarop je vermogen voor het eerst de nisab bereikte — en betaal op of vóór die verjaardag elk jaar. Als je vermogen tijdens het jaar onder de nisab daalt, begint de hawl opnieuw vanaf de volgende dag dat het de nisab weer overschrijdt."
+            },
+            {
+              "t": "p",
+              "html": "De meeste moslims kiezen ervoor te betalen in <strong>Ramadan</strong>, omdat de beloning voor goede daden in die maand wordt vermenigvuldigd. Eerder betalen (zodra de hawl is voltooid) is geldig; te laat betalen zonder geldig excuus is zondig. Zie ook onze gids over <a href='zakat-al-fitr-liefdadigheid-einde-ramadan.html'>Zakat al-Fitr</a>, de aparte per-hoofd liefdadigheid aan het einde van de Ramadan."
+            },
+            {
+              "t": "h2",
+              "text": "De Acht Categorieën van Zakatontvangers"
+            },
+            {
+              "t": "quran",
+              "text": "إِنَّمَا الصَّدَقَاتُ لِلْفُقَرَاءِ وَالْمَسَاكِينِ وَالْعَامِلِينَ عَلَيْهَا وَالْمُؤَلَّفَةِ قُلُوبُهُمْ وَفِي الرِّقَابِ وَالْغَارِمِينَ وَفِي سَبِيلِ اللَّهِ وَابْنِ السَّبِيلِ ۖ فَرِيضَةً مِّنَ اللَّهِ",
+              "ref": "Koran 9:60"
+            },
+            {
+              "t": "cards",
+              "cards": [
+                {
+                  "icon": "🤲",
+                  "title": "Al-Fuqara — de armen",
+                  "text": "Degenen die niet genoeg hebben om in hun basisbehoeften te voorzien en geen regelmatig inkomen hebben."
+                },
+                {
+                  "icon": "🏠",
+                  "title": "Al-Masakin — de behoeftigen",
+                  "text": "Degenen die enig inkomen of bezittingen hebben, maar niet genoeg om in hun behoeften te voorzien."
+                },
+                {
+                  "icon": "📋",
+                  "title": "Zakatbeheerders",
+                  "text": "Degenen die officieel zijn aangesteld om zakatmiddelen te innen, beheren en verdelen."
+                },
+                {
+                  "icon": "💛",
+                  "title": "Degenen wier harten gewonnen worden",
+                  "text": "Nieuwe moslims of degenen wier welwillendheid de gemeenschap ten goede komt."
+                },
+                {
+                  "icon": "⛓️",
+                  "title": "Bevrijding uit gevangenschap",
+                  "text": "Historisch gezien om tot slaaf gemaakten te bevrijden; geleerden passen dit toe op vergelijkbare situaties."
+                },
+                {
+                  "icon": "💸",
+                  "title": "Al-Gharimun — de schuldenaars",
+                  "text": "Mensen die zijn bedolven onder schulden die zijn aangegaan voor geoorloofde doeleinden en die ze zelf niet kunnen terugbetalen."
+                },
+                {
+                  "icon": "🛡️",
+                  "title": "Fi sabilillah — op de weg van Allah",
+                  "text": "Inspanningen op de weg van Allah, door geleerden begrepen als islamitisch onderwijs, da'wah en verdediging."
+                },
+                {
+                  "icon": "✈️",
+                  "title": "Ibn al-sabil — de reiziger",
+                  "text": "Een reiziger die gestrand is en van zijn middelen is afgesneden, zelfs als hij thuis vermogend is."
+                }
+              ]
+            },
+            {
+              "t": "p",
+              "html": "Zakat mag niet worden gegeven aan niet-moslims (behalve onder de categorie 'harten te winnen'), aan de vermogenden, aan de eigen ouders, kinderen of echtgeno(o)t(e), of aan Banu Hashim (de familie van de Profeet ﷺ), volgens de meerderheid van de geleerden. Je mag zakat aan andere familieleden geven die in aanmerking komen, en dit levert een dubbele beloning op — eenmaal voor het nakomen van de zakitverplichting en eenmaal voor het onderhouden van familiebanden."
+            }
+          ],
+          "cta": {
+            "title": "Beheers Je Zakat met DeenPal",
+            "text": "Bereken je nisab, registreer je hawl-datum en ontvang herinneringen — alles in één gratis app met authentieke bronnen.",
+            "btn": "Download DeenPal Gratis"
+          },
+          "footer_nav": {
+            "prev": {
+              "href": "wat-is-sadaqah.html",
+              "title": "Wat Is Sadaqah en Hoe Verschilt Het van Zakat"
+            },
+            "related": {
+              "href": "zakat-al-fitr-liefdadigheid-einde-ramadan.html",
+              "title": "Zakat al-Fitr: De Verplichte Aalmoes aan het Einde van Ramadan"
+            }
+          },
+          "faq": [
+            {
+              "q": "Wat is de nisab voor zakat op spaargeld?",
+              "a": "De nisab is het monetaire equivalent van 85 gram goud of 595 gram zilver. Het bedrag in jouw valuta verandert dagelijks met de marktprijzen. Veel online zakatabrekeningen werken dit automatisch bij."
+            },
+            {
+              "q": "Mag ik schulden aftrekken bij het berekenen van mijn zakat?",
+              "a": "Ja, je mag schulden die binnen het komende jaar verschuldigd zijn aftrekken van je totale zakatable vermogen vóór de berekening. Bij langlopende schulden zoals een hypotheek mogen de meeste geleerden alleen het deel dat dat jaar verschuldigd is aftrekken."
+            },
+            {
+              "q": "Is zakat verplicht op gouden sieraden die ik draag?",
+              "a": "De Hanafi-school houdt dat alle gouden en zilveren sieraden zakatable zijn tegen 2,5%, ook als ze regelmatig worden gedragen. De Shafi'i- en Hanbali-scholen stellen persoonlijk gedragen sieraden doorgaans vrij. Volg de uitspraak van jouw school of raadpleeg een geleerde."
+            },
+            {
+              "q": "Mag ik zakat aan mijn broer of zus geven?",
+              "a": "Ja. Je mag zakat geven aan broers, zussen, neven, nichten en andere familieleden die als arm of behoeftig kwalificeren. Dit levert een dubbele beloning op — eenmaal voor het nakomen van de zakitverplichting en eenmaal voor het onderhouden van familiebanden."
+            },
+            {
+              "q": "Wanneer begint mijn zakatjaar (hawl)?",
+              "a": "De hawl begint op de dag dat je vermogen voor het eerst de nisab bereikt. Als het tijdens het jaar onder de nisab daalt, begint de hawl opnieuw vanaf de volgende keer dat het de nisab overschrijdt."
+            },
+            {
+              "q": "Mag ik zakat aan een moskee geven?",
+              "a": "Moskeeën als instelling behoren niet tot de acht koranische categorieën. Als een moskee echter rechtstreeks middelen verdeelt aan de armen of islamitisch onderwijs financiert, staan sommige geleerden dit toe onder 'fi sabilillah'. Vraag een plaatselijke geleerde naar de zakitstatus van jouw moskee."
+            }
+          ]
+        },
+        "de": {
+          "slug": "zakat-nisab-wie-berechnen",
+          "title": "Zakat: Wer muss zahlen, wie berechnet man es und wann geben",
+          "meta_desc": "Ein praktischer Leitfaden zur Zakat: die Nisab-Schwelle, wer zahlungspflichtig ist, welches Vermögen zakatpflichtig ist, die 2,5%-Berechnung und die acht koranischen Empfängerkategorien.",
+          "og_title": "Zakat: Wer muss zahlen, wie berechnet man es und wann geben",
+          "og_desc": "Alles zur Zakat: Nisab, Hawl, zakatpflichtiges Vermögen, die 2,5%-Berechnung und die acht Empfänger aus Koran 9:60.",
+          "category": "Fiqh",
+          "h1": "Zakat: Wer muss zahlen, wie berechnet man es und wann geben",
+          "read_label": "8 Min. Lesezeit",
+          "excerpt": "Zakat ist die dritte Säule des Islam. Dieser Leitfaden erklärt, wer zahlungspflichtig ist, die Nisab-Schwelle, welche Vermögenswerte zakatpflichtig sind, wie man die 2,5% berechnet und die acht koranischen Empfängerkategorien.",
+          "sections": [
+            {
+              "t": "p",
+              "html": "Zakat ist die dritte Säule des Islam und eine der am häufigsten erwähnten Pflichten im Koran — sie wird neben dem Gebet in Dutzenden von Versen genannt. Sie ist keine Freiwilligkeit, sondern ein festgelegtes Recht der Armen auf das Vermögen derjenigen, die eine Mindestgrenze überschreiten. Anders als <a href='was-ist-sadaqah.html'>Sadaqa</a>, die jederzeit und in beliebiger Höhe gegeben werden kann, hat Zakat genaue Bedingungen, einen festen Satz und eine definierte Liste von Empfängern."
+            },
+            {
+              "t": "p",
+              "html": "Viele Muslime möchten diese Pflicht korrekt erfüllen, sind aber unsicher über die Details: Was löst sie aus, welches Vermögen zählt, wie führt man die Berechnung durch und wann wird die Zakat genau fällig? Dieser Leitfaden beantwortet all diese Fragen."
+            },
+            {
+              "t": "h2",
+              "text": "Wer ist zur Zahlung der Zakat verpflichtet?"
+            },
+            {
+              "t": "p",
+              "html": "Zakat ist für einen Muslim verpflichtend, der: (1) <strong>volljährig</strong> ist (die Pubertät erreicht hat), (2) <strong>geistig gesund</strong> ist, (3) <strong>frei</strong> ist, und (4) Vermögen besitzt, das zwei Bedingungen erfüllt: Es erreicht die <strong>Nisab</strong> (Mindestgrenze) und ein vollständiger <strong>Hawl</strong> (ein islamisches Mondjahr) ist vergangen, seit es die Nisab erreicht hat. Das Vermögen eines Kindes kann in den malikitischen und schafiitischen Schulen ebenfalls zakatpflichtig sein — der Vormund zahlt für das Kind."
+            },
+            {
+              "t": "h3",
+              "text": "Die Nisab-Schwelle"
+            },
+            {
+              "t": "p",
+              "html": "Die Nisab leitet sich aus zwei prophetischen Maßstäben ab: <strong>85 Gramm Gold</strong> oder <strong>595 Gramm Silber</strong>. Für Bargeld, Ersparnisse und Handelsgüter verwenden die meisten Gelehrten heute das Gold- oder Silberäquivalent in der Landeswährung. Die Gold-Nisab liegt in der Regel höher als die Silber-Nisab, was bedeutet, dass weniger Menschen die Verpflichtung erfüllen. Prüfen Sie den aktuellen Gold- oder Silberpreis in Ihrer Währung, um die heutige Nisab zu ermitteln."
+            },
+            {
+              "t": "h2",
+              "text": "Welches Vermögen ist zakatpflichtig?"
+            },
+            {
+              "t": "ul",
+              "items": [
+                "<strong>Gold und Silber</strong> — in jeder Form, einschließlich Schmuck (Pflicht in der hanafitischen Schule; in anderen umstritten)",
+                "<strong>Bargeld und Ersparnisse</strong> — alle Gelder auf Bankkonten, Sparfonds und zu Hause",
+                "<strong>Handelsinventar</strong> — zum Verkauf bestimmte Waren, bewertet zu aktuellen Marktpreisen",
+                "<strong>Unternehmensanteile und Eigenkapital</strong> — der zakatpflichtige Anteil an Unternehmensanteilen",
+                "<strong>Investitionen und Aktien</strong> — Zakat ist auf den Anteil der Investition fällig, der zakatpflichtigem Vermögen entspricht",
+                "<strong>Vieh</strong> — Kamele, Rinder, Schafe und Ziegen über bestimmten Schwellenwerten mit eigenen Sätzen",
+                "<strong>Landwirtschaftliche Erzeugnisse</strong> — 10% bei Regenfeldkulturen, 5% bei bewässerten Kulturen, fällig bei der Ernte"
+              ]
+            },
+            {
+              "t": "p",
+              "html": "Die eigene Wohnung, das Fahrzeug, die Kleidung, Berufsgeräte und Haushaltsgegenstände sind <strong>nicht</strong> zakatpflichtig, unabhängig von ihrem Wert, da sie nicht als Vermögen gehalten werden, sondern als Lebensmittel."
+            },
+            {
+              "t": "h2",
+              "text": "Wie berechnet man Zakat auf Bargeld, Gold und Handelsgüter?"
+            },
+            {
+              "t": "p",
+              "html": "Der Satz auf diese Kategorien beträgt <strong>2,5%</strong> des Netto-zakatpflichtigen Vermögens. Die Berechnung folgt vier Schritten:"
+            },
+            {
+              "t": "ol",
+              "items": [
+                "Alle zakatpflichtigen Aktiva auflisten: Bargeld, Goldwert, Handelsinventar zum Marktpreis, relevantes Investitionsvermögen.",
+                "<strong>Sofort fällige Schulden abziehen</strong> (zahlbar innerhalb des kommenden Jahres).",
+                "Prüfen, ob das Netto-Total die Nisab übersteigt.",
+                "Wenn ja und ein volles Mondjahr vergangen ist, <strong>2,5%</strong> dieses Netto-Totals zahlen."
+              ]
+            },
+            {
+              "t": "p",
+              "html": "<strong>Beispiel:</strong> Ersparnisse von 20.000 € + Gold im Wert von 4.000 € − eine diesen Monat fällige Kreditkartenschuld von 3.000 € = <strong>Netto 21.000 €</strong>. Fällige Zakat: 2,5% × 21.000 € = <strong>525 €</strong>."
+            },
+            {
+              "t": "h2",
+              "text": "Wann ist Zakat fällig?"
+            },
+            {
+              "t": "p",
+              "html": "Zakat wird fällig, wenn ein vollständiges islamisches Mondjahr verstrichen ist und das Netto-Vermögen durchgehend über der Nisab lag. Notieren Sie das <strong>Hawl-Startdatum</strong> — den Tag, an dem Ihr Vermögen erstmals die Nisab erreicht hat — und zahlen Sie jährlich bis zu diesem Jahrestag. Fällt das Vermögen während des Jahres unter die Nisab, beginnt der Hawl neu ab dem nächsten Tag, an dem er die Nisab wieder überschreitet."
+            },
+            {
+              "t": "p",
+              "html": "Die meisten Muslime wählen den <strong>Ramadan</strong> zur Zahlung, da die Belohnung für gute Taten in diesem Monat vervielfacht wird. Früher zu zahlen (sobald der Hawl abgeschlossen ist) ist gültig; zu spät ohne gültigen Grund zu zahlen ist sündhaft. Siehe unseren Leitfaden zur <a href='zakat-al-fitr-pflichtabgabe-ende-ramadan.html'>Zakat al-Fitr</a>, der gesonderten Pro-Kopf-Abgabe am Ende des Ramadan."
+            },
+            {
+              "t": "h2",
+              "text": "Die acht Empfängerkategorien der Zakat"
+            },
+            {
+              "t": "quran",
+              "text": "إِنَّمَا الصَّدَقَاتُ لِلْفُقَرَاءِ وَالْمَسَاكِينِ وَالْعَامِلِينَ عَلَيْهَا وَالْمُؤَلَّفَةِ قُلُوبُهُمْ وَفِي الرِّقَابِ وَالْغَارِمِينَ وَفِي سَبِيلِ اللَّهِ وَابْنِ السَّبِيلِ ۖ فَرِيضَةً مِّنَ اللَّهِ",
+              "ref": "Koran 9:60"
+            },
+            {
+              "t": "cards",
+              "cards": [
+                {
+                  "icon": "🤲",
+                  "title": "Al-Fuqara — die Armen",
+                  "text": "Diejenigen, die nicht genug haben, um ihren Grundbedarf zu decken, und kein regelmäßiges Einkommen haben."
+                },
+                {
+                  "icon": "🏠",
+                  "title": "Al-Masakin — die Bedürftigen",
+                  "text": "Diejenigen, die etwas Einkommen oder Vermögen haben, aber nicht genug, um ihren Bedarf zu decken."
+                },
+                {
+                  "icon": "📋",
+                  "title": "Zakat-Verwalter",
+                  "text": "Diejenigen, die offiziell mit der Einziehung, Verwaltung und Verteilung von Zakatmitteln beauftragt sind."
+                },
+                {
+                  "icon": "💛",
+                  "title": "Die, deren Herzen gewonnen werden",
+                  "text": "Neu-Muslime oder diejenigen, deren Wohlwollen der Gemeinschaft zugute kommt."
+                },
+                {
+                  "icon": "⛓️",
+                  "title": "Befreiung aus der Knechtschaft",
+                  "text": "Historisch zur Befreiung versklavter Menschen; von Gelehrten auf vergleichbare Situationen angewendet."
+                },
+                {
+                  "icon": "💸",
+                  "title": "Al-Gharimun — die Verschuldeten",
+                  "text": "Menschen, die durch Schulden für erlaubte Zwecke erdrückt werden und diese nicht selbst zurückzahlen können."
+                },
+                {
+                  "icon": "🛡️",
+                  "title": "Fi sabilillah — auf dem Weg Allahs",
+                  "text": "Bemühungen auf dem Weg Allahs, von Gelehrten als islamische Bildung, Da'wa und Verteidigung verstanden."
+                },
+                {
+                  "icon": "✈️",
+                  "title": "Ibn al-Sabil — der Reisende",
+                  "text": "Ein Reisender, der gestrandet ist und von seinen Mitteln abgeschnitten ist, auch wenn er zu Hause wohlhabend ist."
+                }
+              ]
+            },
+            {
+              "t": "p",
+              "html": "Zakat darf nicht an Nicht-Muslime gegeben werden (außer in der Kategorie 'Herzen zu gewinnen'), an Wohlhabende, an die eigenen Eltern, Kinder oder Ehepartner oder an Banu Haschim (die Familie des Propheten ﷺ), nach der Mehrheit der Gelehrten. Zakat an andere Verwandte zu geben, die sich qualifizieren, bringt doppelte Belohnung — einmal für die Erfüllung der Zakatpflicht und einmal für die Pflege der Familienbande."
+            }
+          ],
+          "cta": {
+            "title": "Verwalte deine Zakat mit DeenPal",
+            "text": "Berechne deine Nisab, erfasse dein Hawl-Datum und erhalte Erinnerungen — alles in einer kostenlosen App mit authentischen Quellen.",
+            "btn": "DeenPal kostenlos laden"
+          },
+          "footer_nav": {
+            "prev": {
+              "href": "was-ist-sadaqah.html",
+              "title": "Was ist Sadaqah und wie unterscheidet sie sich von Zakat"
+            },
+            "related": {
+              "href": "zakat-al-fitr-pflichtabgabe-ende-ramadan.html",
+              "title": "Zakat al-Fitr: Die Pflichtabgabe am Ende des Ramadan"
+            }
+          },
+          "faq": [
+            {
+              "q": "Was ist die Nisab für Zakat auf Bargeld und Ersparnisse?",
+              "a": "Die Nisab entspricht dem Geldwert von 85 Gramm Gold oder 595 Gramm Silber. Der Betrag in Ihrer Währung ändert sich täglich mit den Marktpreisen. Viele Online-Zakatrechner aktualisieren dies automatisch."
+            },
+            {
+              "q": "Darf ich Schulden von meiner Zakat abziehen?",
+              "a": "Ja, Sie dürfen sofort fällige Schulden (zahlbar innerhalb des kommenden Jahres) von Ihrem gesamten zakatpflichtigen Vermögen abziehen, bevor Sie berechnen. Bei langfristigen Schulden wie einer Hypothek erlauben die meisten Gelehrten nur den in diesem Jahr fälligen Anteil abzuziehen."
+            },
+            {
+              "q": "Ist Zakat auf Goldschmuck verpflichtend?",
+              "a": "Die hanafitische Schule hält allen Gold- und Silberschmuck für zakatpflichtig mit 2,5%, auch wenn er regelmäßig getragen wird. Die schafiitischen und hanbalitischen Schulen befreien persönlich getragenen Schmuck in der Regel. Befolgen Sie die Regelung Ihrer Schule oder fragen Sie einen Gelehrten."
+            },
+            {
+              "q": "Darf ich Zakat an meine Geschwister geben?",
+              "a": "Ja. Sie dürfen Zakat an Geschwister, Tanten, Onkel, Cousins und andere Verwandte geben, die als arm oder bedürftig gelten. Dies bringt doppelte Belohnung — einmal für die Erfüllung der Zakatpflicht und einmal für die Pflege der Familienbande."
+            },
+            {
+              "q": "Wann beginnt mein Zakatjahr (Hawl)?",
+              "a": "Der Hawl beginnt an dem Tag, an dem Ihr Vermögen erstmals die Nisab erreicht. Fällt es während des Jahres unter die Nisab, beginnt der Hawl neu ab dem nächsten Mal, wenn es die Nisab wieder überschreitet."
+            },
+            {
+              "q": "Darf ich Zakat an eine Moschee geben?",
+              "a": "Moscheen als Institutionen gehören nicht zu den acht koranischen Kategorien. Wenn eine Moschee jedoch Mittel direkt an die Armen verteilt oder islamische Bildung finanziert, erlauben manche Gelehrten dies unter 'fi sabilillah'. Fragen Sie einen lokalen Gelehrten zur Zakatberechtigung Ihrer Moschee."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "zakat-nisab-comment-calculer",
+          "title": "Zakat : qui doit payer, comment la calculer et quand donner",
+          "meta_desc": "Guide pratique sur la zakat : le seuil du nisab, qui est tenu de payer, quelles richesses sont zakatables, le calcul à 2,5 % et les huit catégories coraniques de bénéficiaires.",
+          "og_title": "Zakat : qui doit payer, comment la calculer et quand donner",
+          "og_desc": "Tout sur la zakat : nisab, hawl, richesses zakatables, le calcul à 2,5 % et les huit bénéficiaires de Coran 9:60.",
+          "category": "Fiqh",
+          "h1": "Zakat : qui doit payer, comment la calculer et quand donner",
+          "read_label": "8 min de lecture",
+          "excerpt": "La zakat est le troisième pilier de l'islam. Ce guide couvre qui est obligé de payer, le seuil du nisab, quels biens sont zakatables, comment appliquer le taux de 2,5 % et les huit catégories coraniques de bénéficiaires.",
+          "sections": [
+            {
+              "t": "p",
+              "html": "La zakat est le troisième pilier de l'islam et l'une des obligations les plus souvent citées dans le Coran — elle est mentionnée aux côtés de la prière dans des dizaines de versets. Ce n'est pas une aumône volontaire : c'est un droit fixé que les pauvres ont sur la richesse de ceux qui dépassent un seuil minimum. Contrairement à la <a href='qu-est-ce-que-la-sadaqah.html'>sadaqah</a>, qui peut être donnée à tout moment et en n'importe quel montant, la zakat a des conditions précises, un taux fixe et une liste définie de bénéficiaires."
+            },
+            {
+              "t": "p",
+              "html": "De nombreux musulmans souhaitent accomplir cette obligation correctement mais sont incertains sur les détails : qu'est-ce qui déclenche l'obligation, quels biens comptent, comment effectuer le calcul et quand la zakat est-elle exactement due ? Ce guide répond à toutes ces questions."
+            },
+            {
+              "t": "h2",
+              "text": "Qui est obligé de payer la zakat ?"
+            },
+            {
+              "t": "p",
+              "html": "La zakat est obligatoire pour un musulman qui est : (1) <strong>adulte</strong> (a atteint la puberté), (2) <strong>sain d'esprit</strong>, (3) <strong>libre</strong>, et (4) en possession d'une richesse qui remplit deux conditions : elle atteint le <strong>nisab</strong> (seuil minimum) et un <strong>hawl</strong> complet (une année lunaire islamique) s'est écoulé depuis qu'elle a atteint le nisab. La richesse d'un enfant peut également être soumise à la zakat dans les écoles malikite et chaféite — le tuteur la paye en son nom."
+            },
+            {
+              "t": "h3",
+              "text": "Le seuil du nisab"
+            },
+            {
+              "t": "p",
+              "html": "Le nisab est basé sur deux étalons prophétiques : <strong>85 grammes d'or</strong> ou <strong>595 grammes d'argent</strong>. Pour l'argent liquide, l'épargne et les marchandises, la plupart des savants utilisent aujourd'hui l'équivalent en or ou en argent dans la monnaie locale. Le nisab d'or est généralement plus élevé que le nisab d'argent, ce qui signifie que moins de personnes remplissent l'obligation. Consultez le prix actuel de l'or ou de l'argent dans votre devise pour trouver le nisab d'aujourd'hui."
+            },
+            {
+              "t": "h2",
+              "text": "Quelles richesses sont zakatables ?"
+            },
+            {
+              "t": "ul",
+              "items": [
+                "<strong>L'or et l'argent</strong> — sous toutes les formes, y compris les bijoux (obligatoire dans l'école hanafite ; contesté dans d'autres)",
+                "<strong>Les espèces et l'épargne</strong> — tout l'argent sur les comptes bancaires, les fonds d'épargne et en main",
+                "<strong>Le stock commercial</strong> — les marchandises destinées à la vente, évaluées à leur prix de marché actuel",
+                "<strong>Les actifs d'entreprise et les capitaux propres</strong> — la part zakatable des parts d'entreprise calculée sur les actifs sous-jacents",
+                "<strong>Les investissements et les actions</strong> — la zakat est due sur la proportion de l'investissement correspondant aux actifs zakatables",
+                "<strong>Le bétail</strong> — chameaux, bovins, ovins et caprins au-dessus de seuils spécifiques avec des taux distincts",
+                "<strong>Les produits agricoles</strong> — 10 % pour les cultures pluviales, 5 % pour les cultures irriguées, dues à la récolte"
+              ]
+            },
+            {
+              "t": "p",
+              "html": "Votre résidence personnelle, votre véhicule, vos vêtements, vos outils de travail et vos biens ménagers ne sont <strong>pas</strong> zakatables, quelle que soit leur valeur, car ils ne sont pas détenus comme richesse mais comme moyens de vie."
+            },
+            {
+              "t": "h2",
+              "text": "Comment calculer la zakat sur les espèces, l'or et les marchandises ?"
+            },
+            {
+              "t": "p",
+              "html": "Le taux sur ces catégories est de <strong>2,5 %</strong> de la richesse zakatable nette. Le calcul suit quatre étapes :"
+            },
+            {
+              "t": "ol",
+              "items": [
+                "Lister tous les actifs zakatables : espèces, valeur de l'or, stock commercial au prix du marché, valeur d'investissement pertinente.",
+                "Déduire les <strong>dettes immédiatement exigibles</strong> (payables dans l'année à venir).",
+                "Vérifier si le total net dépasse le nisab.",
+                "Si oui, et qu'une année lunaire complète s'est écoulée, payer <strong>2,5 %</strong> de ce total net."
+              ]
+            },
+            {
+              "t": "p",
+              "html": "<strong>Exemple :</strong> Épargne de 20 000 € + or d'une valeur de 4 000 € − une dette de carte de crédit de 3 000 € due ce mois-ci = <strong>net 21 000 €</strong>. Zakat due : 2,5 % × 21 000 € = <strong>525 €</strong>."
+            },
+            {
+              "t": "h2",
+              "text": "Quand la zakat est-elle due ?"
+            },
+            {
+              "t": "p",
+              "html": "La zakat devient obligatoire quand une année lunaire islamique complète s'est écoulée avec votre richesse nette continuellement au-dessus du nisab. Notez la <strong>date de début du hawl</strong> — le jour où votre richesse a atteint le nisab pour la première fois — et payez au plus tard à chaque anniversaire de cette date. Si votre richesse tombe en dessous du nisab au cours de l'année, le hawl repart à zéro à partir du prochain jour où il repasse au-dessus du nisab."
+            },
+            {
+              "t": "p",
+              "html": "La plupart des musulmans choisissent de payer pendant le <strong>Ramadan</strong>, car la récompense des bonnes actions est multipliée ce mois-là. Payer plus tôt (une fois le hawl terminé) est valide ; payer en retard sans excuse valable est pécheur. Voir notre guide sur la <a href='zakat-al-fitr-aumone-fin-ramadan.html'>Zakat al-Fitr</a>, l'aumône par personne distincte à la fin du Ramadan."
+            },
+            {
+              "t": "h2",
+              "text": "Les huit catégories de bénéficiaires de la zakat"
+            },
+            {
+              "t": "quran",
+              "text": "إِنَّمَا الصَّدَقَاتُ لِلْفُقَرَاءِ وَالْمَسَاكِينِ وَالْعَامِلِينَ عَلَيْهَا وَالْمُؤَلَّفَةِ قُلُوبُهُمْ وَفِي الرِّقَابِ وَالْغَارِمِينَ وَفِي سَبِيلِ اللَّهِ وَابْنِ السَّبِيلِ ۖ فَرِيضَةً مِّنَ اللَّهِ",
+              "ref": "Coran 9:60"
+            },
+            {
+              "t": "cards",
+              "cards": [
+                {
+                  "icon": "🤲",
+                  "title": "Al-Fuqara — les pauvres",
+                  "text": "Ceux qui n'ont pas assez pour couvrir leurs besoins essentiels et n'ont pas de revenu régulier."
+                },
+                {
+                  "icon": "🏠",
+                  "title": "Al-Masakin — les nécessiteux",
+                  "text": "Ceux qui ont quelques revenus ou biens, mais pas suffisamment pour couvrir leurs besoins."
+                },
+                {
+                  "icon": "📋",
+                  "title": "Les administrateurs de la zakat",
+                  "text": "Ceux officiellement désignés pour collecter, gérer et distribuer les fonds de zakat."
+                },
+                {
+                  "icon": "💛",
+                  "title": "Ceux dont les cœurs sont à gagner",
+                  "text": "Les nouveaux musulmans ou ceux dont la bienveillance profite à la communauté."
+                },
+                {
+                  "icon": "⛓️",
+                  "title": "L'affranchissement des esclaves",
+                  "text": "Historiquement pour libérer des personnes réduites en esclavage ; appliqué par les savants à des situations analogues."
+                },
+                {
+                  "icon": "💸",
+                  "title": "Al-Gharimun — les endettés",
+                  "text": "Les personnes écrasées par des dettes contractées pour des raisons licites et incapables de les rembourser."
+                },
+                {
+                  "icon": "🛡️",
+                  "title": "Fi sabilillah — dans la voie d'Allah",
+                  "text": "Les efforts dans la voie d'Allah, compris par les savants comme l'éducation islamique, la da'wa et la défense."
+                },
+                {
+                  "icon": "✈️",
+                  "title": "Ibn al-sabil — le voyageur",
+                  "text": "Un voyageur bloqué et coupé de ses ressources, même s'il est riche chez lui."
+                }
+              ]
+            },
+            {
+              "t": "p",
+              "html": "La zakat ne peut pas être donnée aux non-musulmans (sauf dans la catégorie 'cœurs à gagner'), aux riches, aux parents, enfants ou époux du donateur, ni aux Banu Hashim (la famille du Prophète ﷺ), selon la majorité des savants. Donner la zakat à d'autres membres de la famille qui y ont droit mérite une double récompense — une fois pour l'accomplissement de l'obligation de zakat et une fois pour le maintien des liens familiaux."
+            }
+          ],
+          "cta": {
+            "title": "Gérez votre zakat avec DeenPal",
+            "text": "Calculez votre nisab, enregistrez votre date de hawl et recevez des rappels — le tout dans une application gratuite avec des références authentiques.",
+            "btn": "Télécharger DeenPal gratuitement"
+          },
+          "footer_nav": {
+            "prev": {
+              "href": "qu-est-ce-que-la-sadaqah.html",
+              "title": "Qu'est-ce que la sadaqah et comment diffère-t-elle de la zakat"
+            },
+            "related": {
+              "href": "zakat-al-fitr-aumone-fin-ramadan.html",
+              "title": "Zakat al-Fitr : l'aumône obligatoire à la fin du Ramadan"
+            }
+          },
+          "faq": [
+            {
+              "q": "Quel est le nisab pour la zakat sur les espèces et l'épargne ?",
+              "a": "Le nisab correspond à la valeur monétaire de 85 grammes d'or ou 595 grammes d'argent. Le montant dans votre devise change quotidiennement avec les prix du marché. De nombreux calculateurs de zakat en ligne mettent cela à jour automatiquement."
+            },
+            {
+              "q": "Puis-je déduire mes dettes avant de calculer la zakat ?",
+              "a": "Oui, vous pouvez déduire les dettes immédiatement exigibles (payables dans l'année à venir) de votre richesse zakatable totale avant le calcul. Pour les dettes à long terme comme un prêt immobilier, la plupart des savants n'autorisent à déduire que la part due dans l'année."
+            },
+            {
+              "q": "La zakat est-elle obligatoire sur les bijoux en or portés personnellement ?",
+              "a": "L'école hanafite considère que tous les bijoux en or et en argent sont zakatables à 2,5 %, même portés régulièrement. Les écoles chaféite et hanbalite exemptent généralement les bijoux portés à titre personnel. Suivez la règle de votre école ou consultez un savant."
+            },
+            {
+              "q": "Puis-je donner la zakat à mon frère ou à ma sœur ?",
+              "a": "Oui. Vous pouvez donner la zakat à des frères et sœurs, tantes, oncles, cousins et autres proches qui se qualifient comme pauvres ou nécessiteux. Cela mérite une double récompense — une fois pour l'accomplissement de la zakat et une fois pour le maintien des liens familiaux."
+            },
+            {
+              "q": "Quand commence mon année de zakat (hawl) ?",
+              "a": "Le hawl commence le jour où votre richesse atteint le nisab pour la première fois. S'il tombe en dessous du nisab au cours de l'année, le hawl repart à zéro à partir du prochain moment où il repasse au-dessus du nisab."
+            },
+            {
+              "q": "Puis-je donner la zakat à une mosquée ?",
+              "a": "Les mosquées en tant qu'institutions ne font pas partie des huit catégories coraniques. Cependant, si une mosquée distribue des fonds directement aux pauvres ou finance l'éducation islamique, certains savants le permettent sous 'fi sabilillah'. Consultez un savant local sur l'éligibilité à la zakat de votre mosquée."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "img_class": "blog-card__img--2",
+      "langs": {
+        "en": {
+          "slug": "ruqyah-quran-healing-protection",
+          "title": "Ruqyah: Seeking Protection and Healing through the Quran and Sunnah",
+          "meta_desc": "What is ruqyah, what makes it lawful, which Quranic surahs are used, how the Prophet ﷺ practiced it, and a step-by-step guide to performing self-ruqyah.",
+          "og_title": "Ruqyah: Quranic Protection and Healing Explained",
+          "og_desc": "The Islamic practice of ruqyah: what makes it lawful, the key surahs and verses, how the Prophet ﷺ practiced it, and how to perform it yourself.",
+          "category": "Quran & Dhikr",
+          "h1": "Ruqyah: Seeking Protection and Healing through the Quran and Sunnah",
+          "read_label": "7 min read",
+          "excerpt": "Ruqyah is the practice of reciting Quran and authentic supplications for spiritual protection and healing. This guide explains what makes it lawful, the key verses, the prophetic method, and how to perform it yourself.",
+          "sections": [
+            {
+              "t": "p",
+              "html": "The word <strong>ruqyah</strong> (رُقْيَة) refers to the recitation of Quranic verses and authentic supplications as a means of seeking Allah's protection and healing. It is one of the most firmly established spiritual practices in Islam, carried out by the Prophet ﷺ himself and explicitly approved in the Sunnah. Unlike many folk or cultural remedies, lawful ruqyah draws its power entirely from the Quran and from sincere reliance on Allah — Who alone is Al-Shafi, the Healer."
+            },
+            {
+              "t": "highlight",
+              "arabic": "وَنُنَزِّلُ مِنَ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ لِّلْمُؤْمِنِينَ",
+              "trans": "Wa nunazzilu minal-qur'ani ma huwa shifa'un wa rahmatun lil-mu'mineen",
+              "note": "\"And We send down of the Quran that which is healing and mercy for the believers.\" (Quran 17:82)"
+            },
+            {
+              "t": "h2",
+              "text": "Lawful Ruqyah vs. Forbidden Practices"
+            },
+            {
+              "t": "p",
+              "html": "Not all practices called 'ruqyah' are the same. The Prophet ﷺ drew a clear line: <em>\"There is nothing wrong with ruqyah as long as it does not involve shirk.\"</em> (Muslim) Lawful ruqyah — <strong>ruqyah al-shar'iyyah</strong> — fulfils three conditions that scholars have derived from the Sunnah:"
+            },
+            {
+              "t": "ul",
+              "items": [
+                "It consists only of the Quran, authentic duas from the Sunnah, or words with a known meaning that do not contradict Islam.",
+                "It is done in a language the reciter understands or in Arabic, not in meaningless symbols or words from unknown sources.",
+                "The person performing it does not believe the words have power in themselves — all healing comes from Allah, and ruqyah is merely a means of seeking it."
+              ]
+            },
+            {
+              "t": "p",
+              "html": "Ruqyah that involves calling on jinn, seeking the help of anyone besides Allah, using unintelligible incantations, or mixing Islamic phrases with prohibited elements is <strong>forbidden</strong> and falls under shirk or bid'ah. If you are seeking someone to perform ruqyah for you, choose a person of known religious integrity who recites only from the Quran and Sunnah."
+            },
+            {
+              "t": "h2",
+              "text": "The Key Surahs and Verses Used in Ruqyah"
+            },
+            {
+              "t": "p",
+              "html": "The following are among the most established recitations for ruqyah, supported by Hadith:"
+            },
+            {
+              "t": "cards",
+              "cards": [
+                {
+                  "icon": "📖",
+                  "title": "Surah Al-Fatiha",
+                  "text": "A Companion recited Al-Fatiha over a scorpion sting and the man recovered. When the Prophet ﷺ was told, he approved it and said, 'How did you know it was a ruqyah?' (Bukhari)"
+                },
+                {
+                  "icon": "🛡️",
+                  "title": "Ayatul Kursi (2:255)",
+                  "text": "Whoever recites Ayatul Kursi in the morning is protected from jinn until the evening, and vice versa. See our full guide to <a href='ayatul-kursi-meaning-benefits.html'>Ayatul Kursi</a> for the complete text and transliteration."
+                },
+                {
+                  "icon": "🌙",
+                  "title": "Al-Ikhlas, Al-Falaq and An-Nas",
+                  "text": "The Prophet ﷺ recited these three surahs into his cupped hands and passed them over his body when ill. (Bukhari/Muslim) Reciting each three times gives complete protection when done morning and evening."
+                },
+                {
+                  "icon": "📜",
+                  "title": "Last two verses of Al-Baqarah (2:285–286)",
+                  "text": "The Prophet ﷺ said: 'Whoever recites the last two verses of Surah Al-Baqarah at night, they will suffice him.' (Bukhari/Muslim) Scholars explain this includes protection from harm."
+                }
+              ]
+            },
+            {
+              "t": "h2",
+              "text": "How the Prophet ﷺ Practiced Ruqyah"
+            },
+            {
+              "t": "p",
+              "html": "Aisha (RA) narrated: <em>\"When the Prophet ﷺ was ill, he would blow into his hands, recite the Mu'awwidhatayn — Surah Al-Falaq and An-Nas — and wipe his hands over whatever he could reach of his body, starting with his head and face.\"</em> (Bukhari/Muslim) This is the foundational method that scholars base self-ruqyah upon."
+            },
+            {
+              "t": "p",
+              "html": "He ﷺ also used to say when visiting the sick: <em>\"Adhhib al-ba's, Rabb an-nas, washfi anta al-Shafi, la shifa'a illa shifa'uk, shifa'an la yughadiru saqaman\"</em> — \"Remove the hardship, O Lord of people, and heal, for You are the Healer. There is no healing except Your healing, a healing that leaves no illness behind.\" (Bukhari/Muslim)"
+            },
+            {
+              "t": "h2",
+              "text": "How to Perform Self-Ruqyah"
+            },
+            {
+              "t": "ol",
+              "items": [
+                "<strong>Be in a state of wudu</strong> — recommended, though not strictly required for recitation.",
+                "<strong>Sit facing the qiblah</strong> and calm your mind, focusing on the meaning of what you are about to recite.",
+                "<strong>Recite Surah Al-Fatiha</strong> seven times, either aloud or in a low voice.",
+                "<strong>Recite Ayatul Kursi</strong> (2:255) once or three times.",
+                "<strong>Recite Surah Al-Ikhlas, Al-Falaq and An-Nas</strong> — each three times.",
+                "<strong>Cup your hands</strong>, blow gently into them (a light breath, not forcefully), and pass them over your face, head and body as far as you can reach.",
+                "<strong>Repeat this after Fajr and before Maghrib</strong>, incorporating it into your regular <a href='morning-adhkar-complete-guide.html'>morning and evening adhkar</a>."
+              ]
+            },
+            {
+              "t": "p",
+              "html": "Ruqyah is a means, not a magic solution. Islam encourages seeking appropriate medical care alongside spiritual remedies — the Prophet ﷺ said: <em>\"Make use of medical treatment, for Allah has not made a disease without appointing a remedy for it.\"</em> (Abu Dawud) Use ruqyah as a sincere act of worship and a means of drawing closer to Allah, while also seeking all other lawful means of cure."
+            }
+          ],
+          "cta": {
+            "title": "Recite with Confidence Using DeenPal",
+            "text": "Access the complete text, transliteration and audio of Ayatul Kursi, the Mu'awwidhatayn, and the morning and evening adhkar — all in one free app.",
+            "btn": "Download DeenPal Free"
+          },
+          "footer_nav": {
+            "prev": {
+              "href": "ayatul-kursi-meaning-benefits.html",
+              "title": "Ayatul Kursi: Meaning, Benefits and Transliteration"
+            },
+            "related": {
+              "href": "surah-al-baqarah-virtues-last-two-verses.html",
+              "title": "Surah Al-Baqarah: Virtues, the Last Two Verses, and Why to Recite It"
+            }
+          },
+          "faq": [
+            {
+              "q": "What is ruqyah in Islam?",
+              "a": "Ruqyah is the recitation of Quranic verses and authentic prophetic supplications as a means of seeking Allah's protection and healing from illness, evil eye, and spiritual harm. It is a firmly established practice in Islam based on Quran and Sunnah."
+            },
+            {
+              "q": "Is ruqyah permissible in Islam?",
+              "a": "Yes, ruqyah is permissible and encouraged when it consists only of Quran and authentic duas, is recited in a known language without shirk, and the person believes that healing comes from Allah alone. The Prophet ﷺ said there is no harm in ruqyah that does not involve shirk. (Muslim)"
+            },
+            {
+              "q": "Which surah is best for ruqyah?",
+              "a": "Surah Al-Fatiha, Ayatul Kursi (2:255), Surah Al-Ikhlas (112), Surah Al-Falaq (113), and Surah An-Nas (114) are the most established surahs for ruqyah, all supported by authentic narrations. The last two verses of Surah Al-Baqarah (2:285-286) are also strongly recommended."
+            },
+            {
+              "q": "Can I perform ruqyah on myself?",
+              "a": "Yes. Self-ruqyah (ruqyah on oneself) is the most common form. You recite the relevant Quranic verses into your cupped hands and pass them over your body, as narrated from the Prophet ﷺ by Aisha. (Bukhari/Muslim)"
+            },
+            {
+              "q": "How many times should I repeat ruqyah verses?",
+              "a": "Surah Al-Fatiha is recited seven times for ruqyah in the relevant narration. Surah Al-Ikhlas, Al-Falaq and An-Nas are recited three times each in the morning and evening adhkar. There is no strict rule for all situations — sincerity and consistency matter most."
+            },
+            {
+              "q": "What is the difference between ruqyah and magic?",
+              "a": "Ruqyah is the use of Quranic verses and authentic duas, relying entirely on Allah as the source of healing. Magic involves seeking supernatural power from sources other than Allah, including jinn or forbidden means. One is an act of worship; the other is a major sin."
+            }
+          ]
+        },
+        "nl": {
+          "slug": "ruqyah-koran-genezing-bescherming",
+          "title": "Ruqyah: Bescherming en Genezing Zoeken via de Koran en Soenna",
+          "meta_desc": "Wat is ruqyah, wat maakt het geoorloofd, welke koranische soera's worden gebruikt, hoe de Profeet ﷺ het beoefende en een stapsgewijze handleiding voor zelf-ruqyah.",
+          "og_title": "Ruqyah: Koranische Bescherming en Genezing Uitgelegd",
+          "og_desc": "De islamitische praktijk van ruqyah: wat het wettig maakt, de belangrijkste soera's en verzen, hoe de Profeet ﷺ het beoefende en hoe je het zelf kunt uitvoeren.",
+          "category": "Koran & Dhikr",
+          "h1": "Ruqyah: Bescherming en Genezing Zoeken via de Koran en Soenna",
+          "read_label": "7 min lezen",
+          "excerpt": "Ruqyah is het reciteren van koranverzen en authentieke smeekbeden voor spirituele bescherming en genezing. Deze gids legt uit wat het wettig maakt, de belangrijkste verzen, de profetische methode en hoe je het zelf kunt uitvoeren.",
+          "sections": [
+            {
+              "t": "p",
+              "html": "Het woord <strong>ruqyah</strong> (رُقْيَة) verwijst naar het reciteren van koranverzen en authentieke smeekbeden als middel om Allah's bescherming en genezing te zoeken. Het is een van de meest gevestigde spirituele praktijken in de islam, uitgeoefend door de Profeet ﷺ zelf en uitdrukkelijk goedgekeurd in de Soenna. In tegenstelling tot veel volksgebruiken put wettige ruqyah haar kracht volledig uit de Koran en uit oprecht vertrouwen op Allah — Die alleen Al-Shafi is, de Genezende."
+            },
+            {
+              "t": "highlight",
+              "arabic": "وَنُنَزِّلُ مِنَ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ لِّلْمُؤْمِنِينَ",
+              "trans": "Wa nunazzilu minal-qur'ani ma huwa shifa'un wa rahmatun lil-mu'mineen",
+              "note": "\"En Wij zenden van de Koran neer wat een genezing en een genade is voor de gelovigen.\" (Koran 17:82)"
+            },
+            {
+              "t": "h2",
+              "text": "Geoorloofde Ruqyah vs. Verboden Praktijken"
+            },
+            {
+              "t": "p",
+              "html": "Niet alle praktijken die 'ruqyah' worden genoemd zijn hetzelfde. De Profeet ﷺ trok een duidelijke grens: <em>\"Er is niets mis met ruqyah zolang het geen shirk bevat.\"</em> (Moeslim) Geoorloofde ruqyah — <strong>ruqyah al-shar'iyyah</strong> — voldoet aan drie voorwaarden die geleerden uit de Soenna hebben afgeleid:"
+            },
+            {
+              "t": "ul",
+              "items": [
+                "Ze bestaat uitsluitend uit de Koran, authentieke smeekbeden uit de Soenna of woorden met een bekende betekenis die de islam niet tegenspreken.",
+                "Ze wordt gedaan in een taal die de reciteerder begrijpt of in het Arabisch, niet in zinloze symbolen of woorden uit onbekende bronnen.",
+                "Degene die het uitvoert gelooft niet dat de woorden op zichzelf kracht hebben — alle genezing komt van Allah, en ruqyah is slechts een middel om die te zoeken."
+              ]
+            },
+            {
+              "t": "p",
+              "html": "Ruqyah waarbij djinns worden aangeroepen, hulp van anderen dan Allah wordt gezocht, onbegrijpelijke bezweringen worden gebruikt of islamitische zinnen worden gemengd met verboden elementen, is <strong>verboden</strong> en valt onder shirk of bid'ah. Als je iemand zoekt om ruqyah voor je uit te voeren, kies dan iemand met bekende religieuze integriteit die uitsluitend uit de Koran en Soenna reciteert."
+            },
+            {
+              "t": "h2",
+              "text": "De Belangrijkste Soera's en Verzen bij Ruqyah"
+            },
+            {
+              "t": "p",
+              "html": "De volgende zijn onder de meest gevestigde recitaties voor ruqyah, ondersteund door Hadieth:"
+            },
+            {
+              "t": "cards",
+              "cards": [
+                {
+                  "icon": "📖",
+                  "title": "Soera Al-Fatiha",
+                  "text": "Een Metgezel reciteerde Al-Fatiha over een schorpioensteken en de man herstelde. Toen de Profeet ﷺ het hoorde, keurde hij het goed en zei: 'Hoe wist je dat het een ruqyah was?' (Boechari)"
+                },
+                {
+                  "icon": "🛡️",
+                  "title": "Ayatul Kursi (2:255)",
+                  "text": "Wie Ayatul Kursi 's ochtends reciteert, wordt de hele dag beschermd, en omgekeerd. Zie onze volledige gids over <a href='ayatul-kursi-betekenis-voordelen.html'>Ayatul Kursi</a> voor de volledige tekst en transliteratie."
+                },
+                {
+                  "icon": "🌙",
+                  "title": "Al-Ikhlas, Al-Falaq en An-Nas",
+                  "text": "De Profeet ﷺ reciteerde deze drie soera's in zijn gevouwen handen en streek ze over zijn lichaam als hij ziek was. (Boechari/Moeslim) Elk driemaal reciteren geeft volledige bescherming als dit 's ochtends en 's avonds wordt gedaan."
+                },
+                {
+                  "icon": "📜",
+                  "title": "Laatste twee verzen van Al-Baqarah (2:285–286)",
+                  "text": "De Profeet ﷺ zei: 'Wie 's nachts de laatste twee verzen van Soera Al-Baqarah reciteert, zullen hem voldoende zijn.' (Boechari/Moeslim) Geleerden verklaren dat dit ook bescherming tegen kwaad omvat."
+                }
+              ]
+            },
+            {
+              "t": "h2",
+              "text": "Hoe de Profeet ﷺ Ruqyah Beoefende"
+            },
+            {
+              "t": "p",
+              "html": "Aisha (ra) overleverde: <em>\"Als de Profeet ﷺ ziek was, blies hij in zijn handen, reciteerde de Mu'awwidhatayn — Soera Al-Falaq en An-Nas — en streek zijn handen over wat hij maar kon bereiken van zijn lichaam, te beginnen bij zijn hoofd en gezicht.\"</em> (Boechari/Moeslim) Dit is de fundamentele methode waarop geleerden de zelf-ruqyah baseren."
+            },
+            {
+              "t": "p",
+              "html": "Hij ﷺ sprak ook bij het bezoeken van zieken: <em>\"Adhhib al-ba's, Rabb an-nas, washfi anta al-Shafi, la shifa'a illa shifa'uk, shifa'an la yughadiru saqaman\"</em> — \"Neem het lijden weg, O Heer der mensen, en genees, want U bent de Genezende. Er is geen genezing behalve Uw genezing, een genezing die geen ziekte achterlaat.\" (Boechari/Moeslim)"
+            },
+            {
+              "t": "h2",
+              "text": "Hoe Voer Je Zelf-Ruqyah Uit?"
+            },
+            {
+              "t": "ol",
+              "items": [
+                "<strong>Wees in staat van wudu</strong> — aanbevolen, hoewel niet strikt vereist voor recitatie.",
+                "<strong>Zit gericht naar de qiblah</strong> en kalmeer je geest, gericht op de betekenis van wat je gaat reciteren.",
+                "<strong>Reciteer Soera Al-Fatiha</strong> zeven keer, hardop of zacht.",
+                "<strong>Reciteer Ayatul Kursi</strong> (2:255) één of drie keer.",
+                "<strong>Reciteer Soera Al-Ikhlas, Al-Falaq en An-Nas</strong> — elk driemaal.",
+                "<strong>Hol je handen</strong>, blaas er zacht in (een lichte adem, niet krachtig) en strijk ze over je gezicht, hoofd en lichaam voor zover je kunt bereiken.",
+                "<strong>Herhaal dit na Fajr en voor Maghrib</strong>, als onderdeel van je reguliere <a href='ochtend-adhkar-gids.html'>ochtend- en avond-adhkar</a>."
+              ]
+            },
+            {
+              "t": "p",
+              "html": "Ruqyah is een middel, geen magische oplossing. De islam moedigt het zoeken van passende medische zorg aan naast spirituele middelen — de Profeet ﷺ zei: <em>\"Maak gebruik van medische behandeling, want Allah heeft geen ziekte gemaakt zonder er een remedie voor te bepalen.\"</em> (Abu Dawud) Gebruik ruqyah als een oprechte daad van aanbidding en een middel om dichter bij Allah te komen, terwijl je ook alle andere wettige middelen van genezing zoekt."
+            }
+          ],
+          "cta": {
+            "title": "Reciteer met Vertrouwen via DeenPal",
+            "text": "Toegang tot de volledige tekst, transliteratie en audio van Ayatul Kursi, de Mu'awwidhatayn en de ochtend- en avond-adhkar — alles in één gratis app.",
+            "btn": "Download DeenPal Gratis"
+          },
+          "footer_nav": {
+            "prev": {
+              "href": "ayatul-kursi-betekenis-voordelen.html",
+              "title": "Ayatul Kursi: Betekenis, Voordelen en Transliteratie"
+            },
+            "related": {
+              "href": "soera-al-baqarah-deugden-laatste-twee-verzen.html",
+              "title": "Soera Al-Baqarah: Deugden, de Laatste Twee Verzen en Waarom Je Ze Reciteert"
+            }
+          },
+          "faq": [
+            {
+              "q": "Wat is ruqyah in de islam?",
+              "a": "Ruqyah is het reciteren van koranverzen en authentieke profetische smeekbeden als middel om Allah's bescherming en genezing te zoeken van ziekte, het boze oog en spirituele schade. Het is een gevestigde islamitische praktijk gebaseerd op Koran en Soenna."
+            },
+            {
+              "q": "Is ruqyah geoorloofd in de islam?",
+              "a": "Ja, ruqyah is geoorloofd en wordt aangemoedigd als het uitsluitend bestaat uit Koran en authentieke smeekbeden, in een bekende taal wordt gereciteerd zonder shirk, en de persoon gelooft dat genezing alleen van Allah komt. De Profeet ﷺ zei dat er niets mis is met ruqyah die geen shirk bevat. (Moeslim)"
+            },
+            {
+              "q": "Welke soera is het beste voor ruqyah?",
+              "a": "Soera Al-Fatiha, Ayatul Kursi (2:255), Soera Al-Ikhlas (112), Soera Al-Falaq (113) en Soera An-Nas (114) zijn de meest gevestigde soera's voor ruqyah, allemaal ondersteund door authentieke overleveringen. De laatste twee verzen van Soera Al-Baqarah (2:285-286) worden ook sterk aanbevolen."
+            },
+            {
+              "q": "Mag ik ruqyah op mezelf uitvoeren?",
+              "a": "Ja. Zelf-ruqyah is de meest voorkomende vorm. Je reciteert de relevante koranverzen in je gevouwen handen en strijkt ze over je lichaam, zoals overgeleverd van de Profeet ﷺ door Aisha. (Boechari/Moeslim)"
+            },
+            {
+              "q": "Hoe vaak moet ik ruqyah-verzen herhalen?",
+              "a": "Soera Al-Fatiha wordt zeven keer gereciteerd voor ruqyah in de relevante overlevering. Soera Al-Ikhlas, Al-Falaq en An-Nas worden elk driemaal gereciteerd in de ochtend- en avond-adhkar. Er is geen strikte regel voor alle situaties — oprechtheid en consistentie zijn het belangrijkst."
+            },
+            {
+              "q": "Wat is het verschil tussen ruqyah en magie?",
+              "a": "Ruqyah is het gebruik van koranverzen en authentieke smeekbeden, waarbij volledig op Allah wordt vertrouwd als bron van genezing. Magie houdt in dat bovennatuurlijke kracht wordt gezocht van anderen dan Allah, waaronder djinns of verboden middelen. Het een is een daad van aanbidding; het ander is een grote zonde."
+            }
+          ]
+        },
+        "de": {
+          "slug": "ruqyah-koran-heilung-schutz",
+          "title": "Ruqyah: Schutz und Heilung durch den Koran und die Sunna suchen",
+          "meta_desc": "Was ist Ruqyah, was macht sie erlaubt, welche Koransuren werden verwendet, wie der Prophet ﷺ sie praktizierte und eine Schritt-für-Schritt-Anleitung zur Selbst-Ruqyah.",
+          "og_title": "Ruqyah: Koranischer Schutz und Heilung erklärt",
+          "og_desc": "Die islamische Praxis der Ruqyah: was sie erlaubt macht, die wichtigsten Suren und Verse, wie der Prophet ﷺ sie praktizierte und wie man sie selbst durchführt.",
+          "category": "Koran & Dhikr",
+          "h1": "Ruqyah: Schutz und Heilung durch den Koran und die Sunna suchen",
+          "read_label": "7 Min. Lesezeit",
+          "excerpt": "Ruqyah ist das Rezitieren von Koranversen und authentischen Bittgebeten für spirituellen Schutz und Heilung. Dieser Leitfaden erklärt, was sie erlaubt macht, die wichtigsten Verse, die prophetische Methode und wie man sie selbst durchführt.",
+          "sections": [
+            {
+              "t": "p",
+              "html": "Das Wort <strong>Ruqyah</strong> (رُقْيَة) bezeichnet das Rezitieren von Koranversen und authentischen Bittgebeten als Mittel, Allahs Schutz und Heilung zu suchen. Es ist eine der am festesten verankerten spirituellen Praktiken im Islam, die vom Propheten ﷺ selbst ausgeübt und in der Sunna ausdrücklich gebilligt wurde. Im Gegensatz zu vielen Volksgebräuchen schöpft die erlaubte Ruqyah ihre Wirkung vollständig aus dem Koran und aus aufrichtigem Vertrauen auf Allah — Der allein Al-Shafi ist, der Heiler."
+            },
+            {
+              "t": "highlight",
+              "arabic": "وَنُنَزِّلُ مِنَ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ لِّلْمُؤْمِنِينَ",
+              "trans": "Wa nunazzilu minal-qur'ani ma huwa shifa'un wa rahmatun lil-mu'mineen",
+              "note": "\"Und Wir senden vom Koran herab, was Heilung und Barmherzigkeit für die Gläubigen ist.\" (Koran 17:82)"
+            },
+            {
+              "t": "h2",
+              "text": "Erlaubte Ruqyah vs. verbotene Praktiken"
+            },
+            {
+              "t": "p",
+              "html": "Nicht alle Praktiken, die 'Ruqyah' genannt werden, sind gleich. Der Prophet ﷺ zog eine klare Grenze: <em>„Es ist nichts falsch an Ruqyah, solange sie keinen Schirk enthält.\"</em> (Muslim) Erlaubte Ruqyah — <strong>Ruqyah al-schar'iyyah</strong> — erfüllt drei Bedingungen, die Gelehrte aus der Sunna abgeleitet haben:"
+            },
+            {
+              "t": "ul",
+              "items": [
+                "Sie besteht ausschließlich aus dem Koran, authentischen Bittgebeten aus der Sunna oder Worten mit bekannter Bedeutung, die dem Islam nicht widersprechen.",
+                "Sie wird in einer dem Rezitierenden bekannten Sprache oder auf Arabisch durchgeführt, nicht in sinnlosen Symbolen oder Worten aus unbekannten Quellen.",
+                "Die durchführende Person glaubt nicht, dass die Worte an sich Kraft haben — alle Heilung kommt von Allah, und Ruqyah ist nur ein Mittel, sie zu suchen."
+              ]
+            },
+            {
+              "t": "p",
+              "html": "Ruqyah, bei der Dschinns angerufen werden, die Hilfe anderer als Allah gesucht wird, unverständliche Beschwörungsformeln verwendet werden oder islamische Phrasen mit verbotenen Elementen gemischt werden, ist <strong>verboten</strong> und fällt unter Schirk oder Bid'ah. Wenn Sie jemanden suchen, der Ruqyah für Sie durchführt, wählen Sie eine Person von bekannter religiöser Integrität, die nur aus Koran und Sunna rezitiert."
+            },
+            {
+              "t": "h2",
+              "text": "Die wichtigsten Suren und Verse bei der Ruqyah"
+            },
+            {
+              "t": "p",
+              "html": "Folgendes gehört zu den etabliertesten Rezitationen für Ruqyah, die durch Hadithe belegt sind:"
+            },
+            {
+              "t": "cards",
+              "cards": [
+                {
+                  "icon": "📖",
+                  "title": "Sure Al-Fatiha",
+                  "text": "Ein Gefährte rezitierte Al-Fatiha über einen Skorpionstich und der Mann erholte sich. Als der Prophet ﷺ davon erfuhr, billigte er es und fragte: 'Woher wusstest du, dass es eine Ruqyah ist?' (Bukhari)"
+                },
+                {
+                  "icon": "🛡️",
+                  "title": "Ayatul Kursi (2:255)",
+                  "text": "Wer Ayatul Kursi morgens rezitiert, ist den ganzen Tag bis zum Abend geschützt und umgekehrt. Siehe unsere vollständige Anleitung zu <a href='ayatul-kursi-bedeutung-nutzen.html'>Ayatul Kursi</a> für den vollständigen Text und die Transliteration."
+                },
+                {
+                  "icon": "🌙",
+                  "title": "Al-Ichlas, Al-Falaq und An-Nas",
+                  "text": "Der Prophet ﷺ rezitierte diese drei Suren in seine hohlen Hände und rieb sie über seinen Körper, wenn er krank war. (Bukhari/Muslim) Dreimaliges Rezitieren jeder Sure gibt vollständigen Schutz, wenn es morgens und abends getan wird."
+                },
+                {
+                  "icon": "📜",
+                  "title": "Letzte zwei Verse von Al-Baqara (2:285–286)",
+                  "text": "Der Prophet ﷺ sagte: 'Wer die letzten zwei Verse der Sure Al-Baqara nachts rezitiert, werden ihm genügen.' (Bukhari/Muslim) Gelehrte erklären, dass dies auch Schutz vor Schaden einschließt."
+                }
+              ]
+            },
+            {
+              "t": "h2",
+              "text": "Wie der Prophet ﷺ Ruqyah praktizierte"
+            },
+            {
+              "t": "p",
+              "html": "Aischa (ra) überlieferte: <em>„Wenn der Prophet ﷺ krank war, blies er in seine Hände, rezitierte die Mu'awwidhatayn — Sure Al-Falaq und An-Nas — und rieb seine Hände über was er von seinem Körper erreichen konnte, beginnend mit Kopf und Gesicht.\"</em> (Bukhari/Muslim) Dies ist die grundlegende Methode, auf die Gelehrte die Selbst-Ruqyah stützen."
+            },
+            {
+              "t": "p",
+              "html": "Er ﷺ sprach auch beim Krankenbesuch: <em>„Adhhib al-ba's, Rabb an-nas, washfi anta al-Shafi, la shifa'a illa shifa'uk, shifa'an la yughadiru saqaman\"</em> — „Nimm das Leid weg, O Herr der Menschen, und heile, denn Du bist der Heiler. Es gibt keine Heilung außer Deiner Heilung, eine Heilung, die keine Krankheit zurücklässt.\" (Bukhari/Muslim)"
+            },
+            {
+              "t": "h2",
+              "text": "Wie man Selbst-Ruqyah durchführt"
+            },
+            {
+              "t": "ol",
+              "items": [
+                "<strong>Im Zustand des Wudu sein</strong> — empfohlen, aber für die Rezitation nicht zwingend erforderlich.",
+                "<strong>In Richtung Qibla sitzen</strong> und den Geist beruhigen, auf die Bedeutung des zu Rezitierenden fokussieren.",
+                "<strong>Sure Al-Fatiha siebenmal rezitieren</strong>, laut oder leise.",
+                "<strong>Ayatul Kursi rezitieren</strong> (2:255) ein- oder dreimal.",
+                "<strong>Sure Al-Ichlas, Al-Falaq und An-Nas rezitieren</strong> — jede dreimal.",
+                "<strong>Die Hände hohl halten</strong>, sanft hineinblasen (ein leichter Atem, nicht kräftig) und sie über Gesicht, Kopf und Körper so weit wie möglich reiben.",
+                "<strong>Dies nach Fadschr und vor Maghrib wiederholen</strong>, als Teil der regelmäßigen <a href='morgen-adhkar-anleitung.html'>Morgen- und Abend-Adhkar</a>."
+              ]
+            },
+            {
+              "t": "p",
+              "html": "Ruqyah ist ein Mittel, keine Zauberlösung. Der Islam ermutigt dazu, neben spirituellen Mitteln auch angemessene medizinische Versorgung zu suchen — der Prophet ﷺ sagte: <em>„Nehmt medizinische Behandlung in Anspruch, denn Allah hat keine Krankheit erschaffen, ohne ein Heilmittel dafür zu bestimmen.\"</em> (Abu Dawud) Verwende Ruqyah als aufrichtige Gottesdiensthandlung und Mittel, Allah näher zu kommen, und suche dabei auch alle anderen erlaubten Heilmittel."
+            }
+          ],
+          "cta": {
+            "title": "Rezitiere mit Zuversicht mit DeenPal",
+            "text": "Erhalte den vollständigen Text, Transliteration und Audio von Ayatul Kursi, den Mu'awwidhatayn und den Morgen- und Abend-Adhkar — alles in einer kostenlosen App.",
+            "btn": "DeenPal kostenlos laden"
+          },
+          "footer_nav": {
+            "prev": {
+              "href": "ayatul-kursi-bedeutung-nutzen.html",
+              "title": "Ayatul Kursi: Bedeutung, Nutzen und Transliteration"
+            },
+            "related": {
+              "href": "sure-al-baqara-vorzuge-letzte-zwei-verse.html",
+              "title": "Sure Al-Baqara: Vorzüge, die letzten zwei Verse und warum man sie rezitiert"
+            }
+          },
+          "faq": [
+            {
+              "q": "Was ist Ruqyah im Islam?",
+              "a": "Ruqyah ist das Rezitieren von Koranversen und authentischen prophetischen Bittgebeten als Mittel, Allahs Schutz und Heilung von Krankheit, dem bösen Blick und spirituellem Schaden zu suchen. Es ist eine fest verankerte islamische Praxis auf der Grundlage von Koran und Sunna."
+            },
+            {
+              "q": "Ist Ruqyah im Islam erlaubt?",
+              "a": "Ja, Ruqyah ist erlaubt und wird gefördert, wenn sie ausschließlich aus Koran und authentischen Bittgebeten besteht, in einer bekannten Sprache ohne Schirk rezitiert wird und die Person glaubt, dass Heilung allein von Allah kommt. Der Prophet ﷺ sagte, es sei nichts falsch an Ruqyah, die keinen Schirk enthält. (Muslim)"
+            },
+            {
+              "q": "Welche Sure eignet sich am besten für Ruqyah?",
+              "a": "Sure Al-Fatiha, Ayatul Kursi (2:255), Sure Al-Ichlas (112), Sure Al-Falaq (113) und Sure An-Nas (114) sind die etabliertesten Suren für Ruqyah, alle durch authentische Überlieferungen belegt. Die letzten beiden Verse der Sure Al-Baqara (2:285-286) werden ebenfalls dringend empfohlen."
+            },
+            {
+              "q": "Kann ich Ruqyah an mir selbst durchführen?",
+              "a": "Ja. Selbst-Ruqyah ist die häufigste Form. Du rezitierst die relevanten Koranverse in deine hohlen Hände und reibst sie über deinen Körper, wie vom Propheten ﷺ von Aischa überliefert. (Bukhari/Muslim)"
+            },
+            {
+              "q": "Wie oft soll ich Ruqyah-Verse wiederholen?",
+              "a": "Sure Al-Fatiha wird in der relevanten Überlieferung siebenmal für Ruqyah rezitiert. Sure Al-Ichlas, Al-Falaq und An-Nas werden im Morgen- und Abend-Adhkar je dreimal rezitiert. Es gibt keine strenge Regel für alle Situationen — Aufrichtigkeit und Beständigkeit sind am wichtigsten."
+            },
+            {
+              "q": "Was ist der Unterschied zwischen Ruqyah und Magie?",
+              "a": "Ruqyah ist die Verwendung von Koranversen und authentischen Bittgebeten, vollständig auf Allah als Heilungsquelle vertrauend. Magie beinhaltet das Suchen übernatürlicher Kraft von anderen als Allah, einschließlich Dschinns oder verbotener Mittel. Das eine ist eine Gottesdiensthandlung; das andere ist eine schwere Sünde."
+            }
+          ]
+        },
+        "fr": {
+          "slug": "ruqyah-coran-guerison-protection",
+          "title": "Ruqyah : chercher protection et guérison à travers le Coran et la Sunna",
+          "meta_desc": "Qu'est-ce que la ruqyah, ce qui la rend licite, quelles sourates coraniques sont utilisées, comment le Prophète ﷺ la pratiquait et un guide étape par étape pour la ruqyah personnelle.",
+          "og_title": "Ruqyah : protection et guérison coraniques expliquées",
+          "og_desc": "La pratique islamique de la ruqyah : ce qui la rend licite, les sourates et versets clés, comment le Prophète ﷺ la pratiquait et comment la pratiquer soi-même.",
+          "category": "Coran & Dhikr",
+          "h1": "Ruqyah : chercher protection et guérison à travers le Coran et la Sunna",
+          "read_label": "7 min de lecture",
+          "excerpt": "La ruqyah est la récitation de versets coraniques et d'invocations authentiques pour la protection spirituelle et la guérison. Ce guide explique ce qui la rend licite, les versets clés, la méthode prophétique et comment la pratiquer soi-même.",
+          "sections": [
+            {
+              "t": "p",
+              "html": "Le mot <strong>ruqyah</strong> (رُقْيَة) désigne la récitation de versets coraniques et d'invocations authentiques comme moyen de rechercher la protection et la guérison d'Allah. C'est l'une des pratiques spirituelles les mieux établies en islam, exercée par le Prophète ﷺ lui-même et explicitement approuvée dans la Sunna. Contrairement à de nombreux remèdes populaires ou culturels, la ruqyah licite tire son efficacité entièrement du Coran et d'une confiance sincère en Allah — Qui seul est Al-Shafi, le Guérisseur."
+            },
+            {
+              "t": "highlight",
+              "arabic": "وَنُنَزِّلُ مِنَ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ لِّلْمُؤْمِنِينَ",
+              "trans": "Wa nunazzilu minal-qur'ani ma huwa shifa'un wa rahmatun lil-mu'mineen",
+              "note": "« Et Nous faisons descendre du Coran ce qui est une guérison et une miséricorde pour les croyants. » (Coran 17:82)"
+            },
+            {
+              "t": "h2",
+              "text": "Ruqyah licite vs. pratiques interdites"
+            },
+            {
+              "t": "p",
+              "html": "Toutes les pratiques appelées 'ruqyah' ne sont pas identiques. Le Prophète ﷺ a tracé une ligne claire : <em>« Il n'y a pas de mal dans la ruqyah tant qu'elle ne comporte pas de shirk. »</em> (Muslim) La ruqyah licite — <strong>ruqyah al-shar'iyyah</strong> — remplit trois conditions que les savants ont dérivées de la Sunna :"
+            },
+            {
+              "t": "ul",
+              "items": [
+                "Elle consiste uniquement en le Coran, des invocations authentiques de la Sunna ou des mots de sens connu qui ne contredisent pas l'islam.",
+                "Elle est faite dans une langue connue du récitant ou en arabe, non en symboles ou mots incompréhensibles de sources inconnues.",
+                "La personne qui la pratique ne croit pas que les mots ont un pouvoir en eux-mêmes — toute guérison vient d'Allah, et la ruqyah n'est qu'un moyen de la chercher."
+              ]
+            },
+            {
+              "t": "p",
+              "html": "La ruqyah qui implique d'invoquer des djinns, de chercher l'aide d'autres qu'Allah, d'utiliser des incantations incompréhensibles ou de mélanger des expressions islamiques à des éléments interdits est <strong>interdite</strong> et relève du shirk ou de la bid'ah. Si vous cherchez quelqu'un pour effectuer la ruqyah pour vous, choisissez une personne d'intégrité religieuse connue qui ne récite que le Coran et la Sunna."
+            },
+            {
+              "t": "h2",
+              "text": "Les sourates et versets clés utilisés dans la ruqyah"
+            },
+            {
+              "t": "p",
+              "html": "Ce qui suit fait partie des récitations les mieux établies pour la ruqyah, soutenues par des hadiths :"
+            },
+            {
+              "t": "cards",
+              "cards": [
+                {
+                  "icon": "📖",
+                  "title": "Sourate Al-Fatiha",
+                  "text": "Un Compagnon récita Al-Fatiha sur une piqûre de scorpion et l'homme guérit. Quand le Prophète ﷺ l'apprit, il l'approuva et dit : 'Comment savais-tu que c'était une ruqyah ?' (Bukhari)"
+                },
+                {
+                  "icon": "🛡️",
+                  "title": "Ayatul Kursi (2:255)",
+                  "text": "Quiconque récite Ayatul Kursi le matin est protégé jusqu'au soir, et inversement. Voir notre guide complet sur <a href='ayatul-kursi-signification-bienfaits.html'>Ayatul Kursi</a> pour le texte complet et la translittération."
+                },
+                {
+                  "icon": "🌙",
+                  "title": "Al-Ikhlas, Al-Falaq et An-Nas",
+                  "text": "Le Prophète ﷺ récitait ces trois sourates dans ses mains en coupe et les passait sur son corps quand il était malade. (Bukhari/Muslim) Réciter chacune trois fois donne une protection complète quand cela est fait matin et soir."
+                },
+                {
+                  "icon": "📜",
+                  "title": "Les deux derniers versets d'Al-Baqara (2:285–286)",
+                  "text": "Le Prophète ﷺ dit : 'Quiconque récite les deux derniers versets de la sourate Al-Baqara la nuit, cela lui suffira.' (Bukhari/Muslim) Les savants expliquent que cela inclut la protection contre le mal."
+                }
+              ]
+            },
+            {
+              "t": "h2",
+              "text": "Comment le Prophète ﷺ pratiquait la ruqyah"
+            },
+            {
+              "t": "p",
+              "html": "Aïcha (ra) a rapporté : <em>« Quand le Prophète ﷺ était malade, il soufflait dans ses mains, récitait les Mu'awwidhatayn — Sourate Al-Falaq et An-Nas — et passait ses mains sur tout ce qu'il pouvait atteindre de son corps, en commençant par la tête et le visage. »</em> (Bukhari/Muslim) C'est la méthode fondamentale sur laquelle les savants basent la ruqyah personnelle."
+            },
+            {
+              "t": "p",
+              "html": "Il ﷺ disait aussi en rendant visite aux malades : <em>« Adhhib al-ba's, Rabb an-nas, washfi anta al-Shafi, la shifa'a illa shifa'uk, shifa'an la yughadiru saqaman »</em> — « Enlève la souffrance, Ô Seigneur des hommes, et guéris, car Tu es le Guérisseur. Il n'y a pas de guérison sauf Ta guérison, une guérison qui ne laisse aucune maladie. » (Bukhari/Muslim)"
+            },
+            {
+              "t": "h2",
+              "text": "Comment pratiquer la ruqyah soi-même"
+            },
+            {
+              "t": "ol",
+              "items": [
+                "<strong>Être en état de wudu</strong> — recommandé, bien que non strictement requis pour la récitation.",
+                "<strong>S'asseoir en direction de la qibla</strong> et calmer son esprit, en se concentrant sur le sens de ce qu'on va réciter.",
+                "<strong>Réciter Sourate Al-Fatiha</strong> sept fois, à voix haute ou à voix basse.",
+                "<strong>Réciter Ayatul Kursi</strong> (2:255) une ou trois fois.",
+                "<strong>Réciter Sourate Al-Ikhlas, Al-Falaq et An-Nas</strong> — chacune trois fois.",
+                "<strong>Creuser les mains</strong>, souffler doucement dedans (un léger souffle, pas fortement) et les passer sur le visage, la tête et le corps aussi loin qu'on peut atteindre.",
+                "<strong>Répéter cela après Fajr et avant Maghrib</strong>, en l'intégrant dans les <a href='adhkar-du-matin-guide.html'>adhkars du matin et du soir</a> réguliers."
+              ]
+            },
+            {
+              "t": "p",
+              "html": "La ruqyah est un moyen, pas une solution magique. L'islam encourage à chercher des soins médicaux appropriés en plus des remèdes spirituels — le Prophète ﷺ a dit : <em>« Recourez aux traitements médicaux, car Allah n'a pas créé de maladie sans avoir établi un remède pour elle. »</em> (Abu Dawud) Utilisez la ruqyah comme un acte sincère d'adoration et un moyen de se rapprocher d'Allah, tout en cherchant tous les autres moyens licites de guérison."
+            }
+          ],
+          "cta": {
+            "title": "Récitez avec confiance grâce à DeenPal",
+            "text": "Accédez au texte complet, à la translittération et à l'audio d'Ayatul Kursi, des Mu'awwidhatayn et des adhkars du matin et du soir — le tout dans une application gratuite.",
+            "btn": "Télécharger DeenPal gratuitement"
+          },
+          "footer_nav": {
+            "prev": {
+              "href": "ayatul-kursi-signification-bienfaits.html",
+              "title": "Ayatul Kursi : signification, bienfaits et translittération"
+            },
+            "related": {
+              "href": "sourate-al-baqara-vertus-deux-derniers-versets.html",
+              "title": "Sourate Al-Baqara : vertus, les deux derniers versets et pourquoi la réciter"
+            }
+          },
+          "faq": [
+            {
+              "q": "Qu'est-ce que la ruqyah en islam ?",
+              "a": "La ruqyah est la récitation de versets coraniques et d'invocations prophétiques authentiques comme moyen de rechercher la protection et la guérison d'Allah contre la maladie, le mauvais œil et les dommages spirituels. C'est une pratique islamique solidement établie basée sur le Coran et la Sunna."
+            },
+            {
+              "q": "La ruqyah est-elle permise en islam ?",
+              "a": "Oui, la ruqyah est permise et encouragée quand elle consiste uniquement en Coran et invocations authentiques, est récitée dans une langue connue sans shirk, et que la personne croit que la guérison vient d'Allah seul. Le Prophète ﷺ a dit qu'il n'y a pas de mal dans la ruqyah qui ne comporte pas de shirk. (Muslim)"
+            },
+            {
+              "q": "Quelle sourate est la meilleure pour la ruqyah ?",
+              "a": "Sourate Al-Fatiha, Ayatul Kursi (2:255), Sourate Al-Ikhlas (112), Sourate Al-Falaq (113) et Sourate An-Nas (114) sont les sourates les plus établies pour la ruqyah, toutes soutenues par des narrations authentiques. Les deux derniers versets de la Sourate Al-Baqara (2:285-286) sont également fortement recommandés."
+            },
+            {
+              "q": "Puis-je pratiquer la ruqyah sur moi-même ?",
+              "a": "Oui. La ruqyah sur soi-même est la forme la plus courante. On récite les versets coraniques pertinents dans ses mains en coupe et on les passe sur son corps, comme rapporté du Prophète ﷺ par Aïcha. (Bukhari/Muslim)"
+            },
+            {
+              "q": "Combien de fois dois-je répéter les versets de ruqyah ?",
+              "a": "Sourate Al-Fatiha est récitée sept fois pour la ruqyah dans la narration pertinente. Sourate Al-Ikhlas, Al-Falaq et An-Nas sont récitées trois fois chacune dans les adhkars du matin et du soir. Il n'y a pas de règle stricte pour toutes les situations — la sincérité et la régularité sont ce qui compte le plus."
+            },
+            {
+              "q": "Quelle est la différence entre la ruqyah et la magie ?",
+              "a": "La ruqyah utilise des versets coraniques et des invocations authentiques, faisant entièrement confiance à Allah comme source de guérison. La magie implique de rechercher un pouvoir surnaturel auprès d'autres qu'Allah, y compris des djinns ou des moyens interdits. L'une est un acte d'adoration ; l'autre est un péché majeur."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

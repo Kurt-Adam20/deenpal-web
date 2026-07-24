@@ -84,11 +84,13 @@ Sunnah). The daily routine should pick the **next 2 unused topics**, mark them
 - [x] Salat al-Jama'ah: the virtue and reward of congregational prayer — 2026-07-21
 - [x] Taqwa: God-consciousness in daily life and its Quranic meaning — 2026-07-22
 - [x] Duas for entering and leaving the home: the prophetic supplications — 2026-07-22
+- [x] Zakat: who must pay, how to calculate it, and when to give — 2026-07-24
+- [x] Ruqyah: seeking protection and healing through the Quran and Sunnah — 2026-07-24
 
 ## Queue (next up first)
 - [x] Khushu in Salah: how to pray with focus and presence of heart — 2026-07-21
 - [x] Salat al-Jama'ah: the virtue and reward of congregational prayer — 2026-07-21
 - [x] Taqwa: God-consciousness in daily life and its Quranic meaning — 2026-07-22
 - [x] Duas for entering and leaving the home: the prophetic supplications — 2026-07-22
-- [ ] Zakat: who must pay, how to calculate it, and when to give
-- [ ] Ruqyah: seeking protection and healing through the Quran and Sunnah
+- [x] Zakat: who must pay, how to calculate it, and when to give — 2026-07-24
+- [x] Ruqyah: seeking protection and healing through the Quran and Sunnah — 2026-07-24
